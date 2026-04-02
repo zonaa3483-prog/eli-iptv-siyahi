@@ -1250,3 +1250,67 @@ https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-
 https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/xezer-tv.m3u8
 
 
+
+#EXTINF: type="stream" channelId="-1" name="HTV GENCE" group="AZ AZERBAYCAN",
+
+HTV FILIM XACMAZ
+
+http://ctvbakuaz.xyz:8080/orxangence/eyvazusta/470891
+
+#EXTINF:0 type="stream" channelId="2550", Azad Azərbaycan
+
+http://flussonic.izone.az:80/azadazerbaycan/index.m3u8
+
+#EXTINF:0 type="stream" channelId="829" name="AZAD AZERBAYCAN" group="AZ AZERBAYCAN", AZAD AZERBAYCAN
+
+http://ctvbakuaz.xyz:8080/orxangence/eyvazusta/470852
+
+#EXTINF:0 type="stream" channelId="-1" name="AZAD AZERBAYCAN HD" group="AZ
+
+AZERBAYCAN", AZAD AZERBAYCAN HD
+
+http://ctvbakuaz.xyz:8080/orxangence/eyvazusta/470851
+
+#EXTINF:0 type="stream" channelId="-1" name="XEZER TV" group="AZ AZERBAYCAN", XEZER TV
+
+http://ctvbakuaz.xyz:8080/orxangence/eyvazusta/470841
+
+#EXTINF:0 type="stream" channelId="-1" name="XEZER TV HD" group="AZ AZERBAYCAN",
+
+XEZER TV HD
+
+http://ctvbakuaz.xyz:8080/orxangence/eyvazusta/470840
+
+#EXTINF:0 type="stream" channelId="-1" name="XEZER TV HD" group="AZ AZERBAYCAN", XEZER TV HD
+
+#EXTINF:6 type="stream" channelId="-1", Xəzər
+
+http://flussonic.izone.az:80/xezertv/index.m3u8
+
+#EXTINF:0 type="stream" channelId="830", Xazar TV
+
+http://f8cwq5dt.akciatv.ru/iptv/CNGYQL777HWV55/2199/index.m3u8
+
+#EXTINF:0 type="stream" channelId="-1", ARB TV (Region TV)
+
+http://flussonic.izone.az:80/arb/index.m3u8
+
+#EXTINF:0 type="stream" channelId="1407", Space TV
+
+http://flussonic.izone.az:80/spacetv/index.m3u8
+
+#EXTINF:8 type="stream" channelId="-1", Real TV
+
+http://flussonic.izone.az:80/realtv/index.m3u8
+
+#EXTINF:0 type="stream" channelId="641", AzTV
+
+http://flussonic.izone.az:80/aztv/index.m3uB
+
+#EXTINF:0 type="stream" channelId="-1", Ictimai TV
+
+http://flussonic.izone.az:80/ictimaitv/index.m3u8
+
+#EXTINF: type="stream" channelId="823", Mədəniyyət TV
+
+http://flussonic.izone.az:80/medeniyyet/index.m3u8
