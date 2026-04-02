@@ -1,4 +1,39 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="AzTV.az" tvg-logo="https://i.imgur.com/7p6pXUu.png" group-title="General",AzTV
+https://as-live.itv.az/as-live/aztv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="AzTV" tvg-logo="https://aztv.az/img/logo.png", AzTV HD
-https://mfe.cliptv.az/hls/AzTV_HD.ism/playlist.m3u8
+#EXTINF:-1 tvg-id="IctimaiTV.az" tvg-logo="https://i.imgur.com/9mO3vP6.png" group-title="General",Ictimai TV
+https://as-live.itv.az/as-live/itv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ATV.az" tvg-logo="https://i.imgur.com/kP8L8Qk.png" group-title="Entertainment",ATV Azerbaijan
+https://live.atv.az/atv/index.m3u8
+
+#EXTINF:-1 tvg-id="XazarTV.az" group-title="Entertainment",Xazar TV
+http://live.xazar.tv:1935/live/stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ARB.az" group-title="General",ARB TV
+https://live.arbtv.az/arb/index.m3u8
+
+#EXTINF:-1 tvg-id="ARB24.az" group-title="News",ARB 24
+https://live.arbtv.az/arb24/index.m3u8
+
+#EXTINF:-1 tvg-id="RealTV.az" group-title="News",Real TV
+https://realtv-live.cdn.ebas.co/real/index.m3u8
+
+#EXTINF:-1 tvg-id="CBCAzerbaijan.az" group-title="News",CBC Azerbaijan
+https://cbc-live.cdn.ebas.co/cbc/index.m3u8
+
+#EXTINF:-1 tvg-id="SpaceTV.az" group-title="Entertainment",Space TV
+http://81.17.82.164:1935/live/spacetv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MuzTV.az" group-title="Music",Muz TV
+http://muztv.az:8080/live/muz/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MadaniyyatTV.az" group-title="Culture",Madaniyyat TV
+https://as-live.itv.az/as-live/madaniyyat/playlist.m3u8
+
+#EXTINF:-1 tvg-id="IdmanTV.az" group-title="Sports",Idman TV
+https://as-live.itv.az/as-live/idman/playlist.m3u8
+
+#EXTINF:-1 tvg-id="DunyaTV.az" group-title="Regional",Dunya TV
+http://live.dunyatu.com:1935/live/dunya/playlist.m3u8
