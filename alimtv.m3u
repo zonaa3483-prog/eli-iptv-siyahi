@@ -17,3 +17,5 @@ https://realtv.az/hls/live.m3u8
 #EXTINF:-1 tvg-id="ARB.az" tvg-country="AZ" tvg-language="Azerbaijani" group-title="Azerbaijan",ARB TV
 https://live.arbtv.az/hls/arbtv.m3u8
 
+#EXTINF:-1 tvg-id="AzTV.az" tvg-logo="https://aztv.az/logo.png" group-title="Azerbaijan", AzTV
+https://str.yodacdn.net/aztv/index.m3u8
