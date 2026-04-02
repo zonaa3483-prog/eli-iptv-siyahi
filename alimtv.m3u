@@ -1249,6 +1249,7 @@ https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-
 #EXTINF:-1 tvg-id="XezerTV.az@SD",Xezer TV
 https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/xezer-tv.m3u8
 
+#EXTM3U
 #EXTINF:-1 tvg-id="TRT1.tr" tvg-name="(TR) TRT 1 4K+" group-title="TR - ULUSAL",(TR) TRT 1 4K+
 http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/2838
 #EXTINF:-1 tvg-id="ATV.tr" tvg-name="(TR) ATV 4K+" group-title="TR - ULUSAL",(TR) ATV 4K+
@@ -2665,3 +2666,271 @@ http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/151711
 http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/98177
 #EXTINF:-1 tvg-id="" tvg-name="(NL) DBO Action 1 HD" group-title="NL - 7/24 SELECT CINEMA",(NL) DBO Action 1 HD
 http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/142379
+#EXTINF:-1 tvg-id="" tvg-name="(NL) DBO Action 2 HD" group-title="NL - 7/24 SELECT CINEMA",(NL) DBO Action 2 HD
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/2774
+#EXTINF:-1 tvg-id="" tvg-name="(NL) DBO Horror 1 HD" group-title="NL - 7/24 SELECT CINEMA",(NL) DBO Horror 1 HD
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/47441
+#EXTINF:-1 tvg-id="" tvg-name="(NL) DBO Horror 2 HD" group-title="NL - 7/24 SELECT CINEMA",(NL) DBO Horror 2 HD
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/98060
+#EXTINF:-1 tvg-id="" tvg-name="(NL) DBO Klassiekers 1" group-title="NL - 7/24 SELECT CINEMA",(NL) DBO Klassiekers 1
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/101706
+#EXTINF:-1 tvg-id="" tvg-name="(NL) DBO Klassiekers 2" group-title="NL - 7/24 SELECT CINEMA",(NL) DBO Klassiekers 2
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/104867
+#EXTINF:-1 tvg-id="" tvg-name="(NL) DBO Klassiekers 3" group-title="NL - 7/24 SELECT CINEMA",(NL) DBO Klassiekers 3
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/104868
+#EXTINF:-1 tvg-id="" tvg-name="(NL) DBO Klassiekers 4" group-title="NL - 7/24 SELECT CINEMA",(NL) DBO Klassiekers 4
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/149739
+#EXTINF:-1 tvg-id="" tvg-name="(NL) DBO Videoland 1" group-title="NL - 7/24 SELECT CINEMA",(NL) DBO Videoland 1
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/150805
+#EXTINF:-1 tvg-id="" tvg-name="(NL) DBO Videoland 2" group-title="NL - 7/24 SELECT CINEMA",(NL) DBO Videoland 2
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/164859
+#EXTINF:-1 tvg-id="" tvg-name="(NL) DBO Videoland 3" group-title="NL - 7/24 SELECT CINEMA",(NL) DBO Videoland 3
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/164866
+#EXTINF:-1 tvg-id="" tvg-name="(NL) DBO Gesproken 1 HD" group-title="NL - 7/24 SELECT CINEMA",(NL) DBO Gesproken 1 HD
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/158269
+#EXTINF:-1 tvg-id="" tvg-name="(NL) DBO Gesproken 2 HD" group-title="NL - 7/24 SELECT CINEMA",(NL) DBO Gesproken 2 HD
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/158270
+#EXTINF:-1 tvg-id="" tvg-name="(NL) DBO Sinterklaas HD" group-title="NL - 7/24 SELECT CINEMA",(NL) DBO Sinterklaas HD
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/146265
+#EXTINF:-1 tvg-id="" tvg-name="(NL) DBO HBO Max HD" group-title="NL - 7/24 SELECT CINEMA",(NL) DBO HBO Max HD
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/145978
+#EXTINF:-1 tvg-id="" tvg-name="(NL) DBO Amazon HD" group-title="NL - 7/24 SELECT CINEMA",(NL) DBO Amazon HD
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/145977
+#EXTINF:-1 tvg-id="" tvg-name="(NL) 7/24 Netflix HD" group-title="NL - 7/24 SELECT CINEMA",(NL) 7/24 Netflix HD
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/80487
+#EXTINF:-1 tvg-id="" tvg-name="(NL) DBO A-Team" group-title="NL - 7/24 SELECT CINEMA",(NL) DBO A-Team
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/83936
+#EXTINF:-1 tvg-id="" tvg-name="(NL) DBO Star Wars" group-title="NL - 7/24 SELECT CINEMA",(NL) DBO Star Wars
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/149740
+#EXTINF:-1 tvg-id="" tvg-name="(NL) 7/24 Marvel HD" group-title="NL - 7/24 SELECT CINEMA",(NL) 7/24 Marvel HD
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/98981
+#EXTINF:-1 tvg-id="" tvg-name="(NL) DBO Alpacino" group-title="NL - 7/24 SELECT CINEMA",(NL) DBO Alpacino
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/149741
+#EXTINF:-1 tvg-id="" tvg-name="(NL) DBO Rambo HD" group-title="NL - 7/24 SELECT CINEMA",(NL) DBO Rambo HD
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/52334
+#EXTINF:-1 tvg-id="" tvg-name="(NL) DBO Jackie Chan" group-title="NL - 7/24 SELECT CINEMA",(NL) DBO Jackie Chan
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/78955
+#EXTINF:-1 tvg-id="" tvg-name="(NL) DBO Bruce Lee" group-title="NL - 7/24 SELECT CINEMA",(NL) DBO Bruce Lee
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/79211
+#EXTINF:-1 tvg-id="" tvg-name="(NL) DBO Van Damme" group-title="NL - 7/24 SELECT CINEMA",(NL) DBO Van Damme
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/60675
+#EXTINF:-1 tvg-id="" tvg-name="(NL) 7/24 Jim Carrey" group-title="NL - 7/24 SELECT CINEMA",(NL) 7/24 Jim Carrey
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/152039
+#EXTINF:-1 tvg-id="" tvg-name="(NL) DBO Knight Rider" group-title="NL - 7/24 SELECT CINEMA",(NL) DBO Knight Rider
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/80552
+#EXTINF:-1 tvg-id="" tvg-name="(NL) DBO Jason Statham" group-title="NL - 7/24 SELECT CINEMA",(NL) DBO Jason Statham
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/52303
+#EXTINF:-1 tvg-id="" tvg-name="(NL) DBO Steven Seagal" group-title="NL - 7/24 SELECT CINEMA",(NL) DBO Steven Seagal
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/80294
+#EXTINF:-1 tvg-id="" tvg-name="(NL) DBO Mark Wahlberg" group-title="NL - 7/24 SELECT CINEMA",(NL) DBO Mark Wahlberg
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/149850
+#EXTINF:-1 tvg-id="" tvg-name="(NL) DBO James Bond 007" group-title="NL - 7/24 SELECT CINEMA",(NL) DBO James Bond 007
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/79343
+#EXTINF:-1 tvg-id="" tvg-name="(NL) DBO Fast And Furious" group-title="NL - 7/24 SELECT CINEMA",(NL) DBO Fast And Furious
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/98991
+#EXTINF:-1 tvg-id="" tvg-name="(NL) DBO Dukes Of Hazzard" group-title="NL - 7/24 SELECT CINEMA",(NL) DBO Dukes Of Hazzard
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/87765
+#EXTINF:-1 tvg-id="ESPN.nl" tvg-name="(NL) ESPN 1 HEVC" group-title="NL - SPORTS",(NL) ESPN 1 HEVC
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/151305
+#EXTINF:-1 tvg-id="ESPN2.nl" tvg-name="(NL) ESPN 2 HEVC" group-title="NL - SPORTS",(NL) ESPN 2 HEVC
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/151304
+#EXTINF:-1 tvg-id="ESPN3.nl" tvg-name="(NL) ESPN 3 HEVC" group-title="NL - SPORTS",(NL) ESPN 3 HEVC
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/151303
+#EXTINF:-1 tvg-id="ESPN4.nl" tvg-name="(NL) ESPN 4 HEVC" group-title="NL - SPORTS",(NL) ESPN 4 HEVC
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/151302
+#EXTINF:-1 tvg-id="ZiggoSportSelect.nl" tvg-name="(NL) Ziggo Sport Select HEVC" group-title="NL - SPORTS",(NL) Ziggo Sport Select HEVC
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/151294
+#EXTINF:-1 tvg-id="ZiggoSportVoetbal.nl" tvg-name="(NL) Ziggo Sport Voetbal HEVC" group-title="NL - SPORTS",(NL) Ziggo Sport Voetbal HEVC
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/151295
+#EXTINF:-1 tvg-id="ZiggoSportGolf.nl" tvg-name="(NL) Ziggo Sport Golf HEVC" group-title="NL - SPORTS",(NL) Ziggo Sport Golf HEVC
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/151297
+#EXTINF:-1 tvg-id="ZiggoSportRacing.nl" tvg-name="(NL) Ziggo Sport Racing HEVC" group-title="NL - SPORTS",(NL) Ziggo Sport Racing HEVC
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/151296
+#EXTINF:-1 tvg-id="ZiggoSportTennis.nl" tvg-name="(NL) Ziggo Sport Tennis HEVC" group-title="NL - SPORTS",(NL) Ziggo Sport Tennis HEVC
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/151298
+#EXTINF:-1 tvg-id="ZiggoSportDocu.nl" tvg-name="(NL) Ziggo Sport Docu HEVC" group-title="NL - SPORTS",(NL) Ziggo Sport Docu HEVC
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/151299
+#EXTINF:-1 tvg-id="Eurosport2.nl" tvg-name="(NL) Eurosport 2 HEVC" group-title="NL - SPORTS",(NL) Eurosport 2 HEVC
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/151300
+#EXTINF:-1 tvg-id="Eurosport1.nl" tvg-name="(NL) Eurosport 1 HEVC" group-title="NL - SPORTS",(NL) Eurosport 1 HEVC
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/151301
+#EXTINF:-1 tvg-id="FoxSport1.nl" tvg-name="(NL) ESPN 1 4K" group-title="NL - SPORTS",(NL) ESPN 1 4K
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/2760
+#EXTINF:-1 tvg-id="FOXsport2.nl" tvg-name="(NL) ESPN 2 4K" group-title="NL - SPORTS",(NL) ESPN 2 4K
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/2759
+#EXTINF:-1 tvg-id="FoxSport3.nl" tvg-name="(NL) ESPN 3 4K" group-title="NL - SPORTS",(NL) ESPN 3 4K
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/2758
+#EXTINF:-1 tvg-id="FOXsport4.nl" tvg-name="(NL) ESPN 4 4K" group-title="NL - SPORTS",(NL) ESPN 4 4K
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/2757
+#EXTINF:-1 tvg-id="" tvg-name="(NL) Ziggo TV 4K" group-title="NL - SPORTS",(NL) Ziggo TV 4K
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/78294
+#EXTINF:-1 tvg-id="" tvg-name="(NL) Ziggo Sport 4K" group-title="NL - SPORTS",(NL) Ziggo Sport 4K
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/119383
+#EXTINF:-1 tvg-id="ZiggoSportSelect.nl" tvg-name="(NL) Ziggo Sport Select 4K" group-title="NL - SPORTS",(NL) Ziggo Sport Select 4K
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/2762
+#EXTINF:-1 tvg-id="ZiggoSportVoetbal.nl" tvg-name="(NL) Ziggo Sport Voetbal 4K+" group-title="NL - SPORTS",(NL) Ziggo Sport Voetbal 4K+
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/2761
+#EXTINF:-1 tvg-id="ZiggoSportGolf.nl" tvg-name="(NL) Ziggo Sport Golf 4K" group-title="NL - SPORTS",(NL) Ziggo Sport Golf 4K
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/2764
+#EXTINF:-1 tvg-id="ZiggoSportRacing.nl" tvg-name="(NL) Ziggo Sport Racing 4K" group-title="NL - SPORTS",(NL) Ziggo Sport Racing 4K
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/2763
+#EXTINF:-1 tvg-id="ziggosportextra1.nl" tvg-name="(NL) Ziggo Sport Tennis 4K" group-title="NL - SPORTS",(NL) Ziggo Sport Tennis 4K
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/2745
+#EXTINF:-1 tvg-id="FoxSport1.nl" tvg-name="(NL) Ziggo Sport Docu 4K" group-title="NL - SPORTS",(NL) Ziggo Sport Docu 4K
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/42186
+#EXTINF:-1 tvg-id="Eurosport1.nl" tvg-name="(NL) Eurosport 1 4K" group-title="NL - SPORTS",(NL) Eurosport 1 4K
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/2754
+#EXTINF:-1 tvg-id="Eurosport2.nl" tvg-name="(NL) Eurosport 2 4K" group-title="NL - SPORTS",(NL) Eurosport 2 4K
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/2752
+#EXTINF:-1 tvg-id="" tvg-name="|XP1| WWE HD" group-title="NL - SPORTS",|XP1| WWE HD
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/108468
+#EXTINF:-1 tvg-id="" tvg-name="|XP1| UFC HD" group-title="NL - SPORTS",|XP1| UFC HD
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/108467
+#EXTINF:-1 tvg-id="" tvg-name="|XP1| BOXING HD" group-title="NL - SPORTS",|XP1| BOXING HD
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/108466
+#EXTINF:-1 tvg-id="" tvg-name="(NL) Glory Kickboxing / UFC" group-title="NL - SPORTS",(NL) Glory Kickboxing / UFC
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/118311
+#EXTINF:-1 tvg-id="" tvg-name="(NL) Dazn Boxing" group-title="NL - SPORTS",(NL) Dazn Boxing
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/163988
+#EXTINF:-1 tvg-id="" tvg-name="(NL) XP Viaplay F1" group-title="NL - VIAPLAY",(NL) XP Viaplay F1
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/149668
+#EXTINF:-1 tvg-id="" tvg-name="(NL) Viaplay Formula 1 4K+" group-title="NL - VIAPLAY",(NL) Viaplay Formula 1 4K+
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/125218
+#EXTINF:-1 tvg-id="" tvg-name="(UK) Sky Sports F1 4K" group-title="NL - VIAPLAY",(UK) Sky Sports F1 4K
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/170447
+#EXTINF:-1 tvg-id="" tvg-name="(NL) F1 TV PRO Formula 1 4K+" group-title="NL - VIAPLAY",(NL) F1 TV PRO Formula 1 4K+
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/127363
+#EXTINF:-1 tvg-id="" tvg-name="(NL) Viaplay PDC Darts 4K+" group-title="NL - VIAPLAY",(NL) Viaplay PDC Darts 4K+
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/125217
+#EXTINF:-1 tvg-id="" tvg-name="(NL) ViaPlay Premiere League 1 4K+" group-title="NL - VIAPLAY",(NL) ViaPlay Premiere League 1 4K+
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/143801
+#EXTINF:-1 tvg-id="" tvg-name="(NL) ViaPlay Premiere League 2 4K+" group-title="NL - VIAPLAY",(NL) ViaPlay Premiere League 2 4K+
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/143802
+#EXTINF:-1 tvg-id="" tvg-name="(NL) ViaPlay Premiere League 3 4K+" group-title="NL - VIAPLAY",(NL) ViaPlay Premiere League 3 4K+
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/143803
+#EXTINF:-1 tvg-id="" tvg-name="(NL) ViaPlay Premiere League 4 4K+" group-title="NL - VIAPLAY",(NL) ViaPlay Premiere League 4 4K+
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/143804
+#EXTINF:-1 tvg-id="" tvg-name="(NL) ViaPlay Premiere League 5 4K+" group-title="NL - VIAPLAY",(NL) ViaPlay Premiere League 5 4K+
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/143805
+#EXTINF:-1 tvg-id="" tvg-name="(NL) ViaPlay Premiere League 6 4K+" group-title="NL - VIAPLAY",(NL) ViaPlay Premiere League 6 4K+
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/143806
+#EXTINF:-1 tvg-id="" tvg-name="(NL) ViaPlay Event 7 4K+" group-title="NL - VIAPLAY",(NL) ViaPlay Event 7 4K+
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/143807
+#EXTINF:-1 tvg-id="" tvg-name="(NL) ViaPlay Event 8 4K+" group-title="NL - VIAPLAY",(NL) ViaPlay Event 8 4K+
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/143808
+#EXTINF:-1 tvg-id="" tvg-name="(NL) ViaPlay Event 9 4K+" group-title="NL - VIAPLAY",(NL) ViaPlay Event 9 4K+
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/143809
+#EXTINF:-1 tvg-id="" tvg-name="(NL) ViaPlay Event 10 4K+" group-title="NL - VIAPLAY",(NL) ViaPlay Event 10 4K+
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/143810
+#EXTINF:-1 tvg-id="" tvg-name="(NL) ViaPlay Event 11 4K+" group-title="NL - VIAPLAY",(NL) ViaPlay Event 11 4K+
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/143811
+#EXTINF:-1 tvg-id="" tvg-name="(NL) ViaPlay Event 12 4K+" group-title="NL - VIAPLAY",(NL) ViaPlay Event 12 4K+
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/143812
+#EXTINF:-1 tvg-id="" tvg-name="(NL) ViaPlay Event 13 4K+" group-title="NL - VIAPLAY",(NL) ViaPlay Event 13 4K+
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/143813
+#EXTINF:-1 tvg-id="" tvg-name="(NL) ViaPlay Event 14 4K+" group-title="NL - VIAPLAY",(NL) ViaPlay Event 14 4K+
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/143814
+#EXTINF:-1 tvg-id="" tvg-name="(NL) ViaPlay Event 15 4K+" group-title="NL - VIAPLAY",(NL) ViaPlay Event 15 4K+
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/143815
+#EXTINF:-1 tvg-id="" tvg-name="(NL) ViaPlay Event 16 4K+" group-title="NL - VIAPLAY",(NL) ViaPlay Event 16 4K+
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/143816
+#EXTINF:-1 tvg-id="" tvg-name="(NL) ViaPlay Event 17 4K+" group-title="NL - VIAPLAY",(NL) ViaPlay Event 17 4K+
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/143817
+#EXTINF:-1 tvg-id="" tvg-name="(NL) ViaPlay Event 18 4K+" group-title="NL - VIAPLAY",(NL) ViaPlay Event 18 4K+
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/143818
+#EXTINF:-1 tvg-id="" tvg-name="(NL) ViaPlay Event 19 4K+" group-title="NL - VIAPLAY",(NL) ViaPlay Event 19 4K+
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/143819
+#EXTINF:-1 tvg-id="" tvg-name="(NL) ViaPlay Event 20 4K+" group-title="NL - VIAPLAY",(NL) ViaPlay Event 20 4K+
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/143820
+#EXTINF:-1 tvg-id="" tvg-name="(NL) ViaPlay Event 21 4K+" group-title="NL - VIAPLAY",(NL) ViaPlay Event 21 4K+
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/143821
+#EXTINF:-1 tvg-id="" tvg-name="(NL) ViaPlay Event 22 4K+" group-title="NL - VIAPLAY",(NL) ViaPlay Event 22 4K+
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/143822
+#EXTINF:-1 tvg-id="" tvg-name="(NL) ViaPlay Event 23 4K+" group-title="NL - VIAPLAY",(NL) ViaPlay Event 23 4K+
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/143823
+#EXTINF:-1 tvg-id="" tvg-name="(NL) ViaPlay Event 24 4K+" group-title="NL - VIAPLAY",(NL) ViaPlay Event 24 4K+
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/143824
+#EXTINF:-1 tvg-id="" tvg-name="(NL) ViaPlay Event 25 4K+" group-title="NL - VIAPLAY",(NL) ViaPlay Event 25 4K+
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/143825
+#EXTINF:-1 tvg-id="" tvg-name="(NL) ViaPlay Event 26 4K+" group-title="NL - VIAPLAY",(NL) ViaPlay Event 26 4K+
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/143826
+#EXTINF:-1 tvg-id="" tvg-name="(NL) ViaPlay Event 27 4K+" group-title="NL - VIAPLAY",(NL) ViaPlay Event 27 4K+
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/143827
+#EXTINF:-1 tvg-id="" tvg-name="(NL) ViaPlay Event 28 4K+" group-title="NL - VIAPLAY",(NL) ViaPlay Event 28 4K+
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/143828
+#EXTINF:-1 tvg-id="" tvg-name="(NL) ViaPlay Event 29 4K+" group-title="NL - VIAPLAY",(NL) ViaPlay Event 29 4K+
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/143829
+#EXTINF:-1 tvg-id="" tvg-name="(NL) ViaPlay Event 30 4K+" group-title="NL - VIAPLAY",(NL) ViaPlay Event 30 4K+
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/143830
+#EXTINF:-1 tvg-id="" tvg-name="(NL) ViaPlay Event 31 4K+" group-title="NL - VIAPLAY",(NL) ViaPlay Event 31 4K+
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/143831
+#EXTINF:-1 tvg-id="" tvg-name="(NL) ViaPlay Event 32 4K+" group-title="NL - VIAPLAY",(NL) ViaPlay Event 32 4K+
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/143832
+#EXTINF:-1 tvg-id="" tvg-name="(NL) ViaPlay Event 33 4K+" group-title="NL - VIAPLAY",(NL) ViaPlay Event 33 4K+
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/143833
+#EXTINF:-1 tvg-id="" tvg-name="(NL) ViaPlay Event 34 4K+" group-title="NL - VIAPLAY",(NL) ViaPlay Event 34 4K+
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/143834
+#EXTINF:-1 tvg-id="" tvg-name="(NL) ViaPlay Event 35 4K+" group-title="NL - VIAPLAY",(NL) ViaPlay Event 35 4K+
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/143835
+#EXTINF:-1 tvg-id="" tvg-name="(NL) ViaPlay Event 36 4K+" group-title="NL - VIAPLAY",(NL) ViaPlay Event 36 4K+
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/143836
+#EXTINF:-1 tvg-id="" tvg-name="(NL) ViaPlay Event 37 4K+" group-title="NL - VIAPLAY",(NL) ViaPlay Event 37 4K+
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/143837
+#EXTINF:-1 tvg-id="" tvg-name="(NL) ViaPlay Event 38 4K+" group-title="NL - VIAPLAY",(NL) ViaPlay Event 38 4K+
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/143838
+#EXTINF:-1 tvg-id="" tvg-name="(NL) ViaPlay Event 39 4K+" group-title="NL - VIAPLAY",(NL) ViaPlay Event 39 4K+
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/143839
+#EXTINF:-1 tvg-id="" tvg-name="(NL) ViaPlay Event 40 4K+" group-title="NL - VIAPLAY",(NL) ViaPlay Event 40 4K+
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/143840
+#EXTINF:-1 tvg-id="" tvg-name="(NL) ViaPlay Event 41 4K+" group-title="NL - VIAPLAY",(NL) ViaPlay Event 41 4K+
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/143841
+#EXTINF:-1 tvg-id="" tvg-name="(NL) ViaPlay Event 42 4K+" group-title="NL - VIAPLAY",(NL) ViaPlay Event 42 4K+
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/143842
+#EXTINF:-1 tvg-id="" tvg-name="(NL) ViaPlay Event 43 4K+" group-title="NL - VIAPLAY",(NL) ViaPlay Event 43 4K+
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/143843
+#EXTINF:-1 tvg-id="" tvg-name="(NL) ViaPlay Event 44 4K+" group-title="NL - VIAPLAY",(NL) ViaPlay Event 44 4K+
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/143844
+#EXTINF:-1 tvg-id="" tvg-name="(NL) ViaPlay Event 45 4K+" group-title="NL - VIAPLAY",(NL) ViaPlay Event 45 4K+
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/143845
+#EXTINF:-1 tvg-id="" tvg-name="(NL) ViaPlay Event 46 4K+" group-title="NL - VIAPLAY",(NL) ViaPlay Event 46 4K+
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/143846
+#EXTINF:-1 tvg-id="" tvg-name="(NL) ViaPlay Event 47 4K+" group-title="NL - VIAPLAY",(NL) ViaPlay Event 47 4K+
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/143847
+#EXTINF:-1 tvg-id="" tvg-name="(NL) ViaPlay Event 48 4K+" group-title="NL - VIAPLAY",(NL) ViaPlay Event 48 4K+
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/143848
+#EXTINF:-1 tvg-id="NatGeoZiggo.nl" tvg-name="(NL) National Geographic 4K+" group-title="NL - DOCUMENTARY",(NL) National Geographic 4K+
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/7677
+#EXTINF:-1 tvg-id="NatGeoZiggo.nl" tvg-name="(NL) Nat Geo Wild 4K+" group-title="NL - DOCUMENTARY",(NL) Nat Geo Wild 4K+
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/7676
+#EXTINF:-1 tvg-id="AnimalPlanet.nl" tvg-name="(NL) Animal Planet 4K+" group-title="NL - DOCUMENTARY",(NL) Animal Planet 4K+
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/7678
+#EXTINF:-1 tvg-id="24kitchen.nl" tvg-name="(NL) 24Kitchen 4K+" group-title="NL - DOCUMENTARY",(NL) 24Kitchen 4K+
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/7673
+#EXTINF:-1 tvg-id="Discovery.nl" tvg-name="(NL) Discovery 4K+" group-title="NL - DOCUMENTARY",(NL) Discovery 4K+
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/7679
+#EXTINF:-1 tvg-id="InvestigationDiscovery.nl" tvg-name="(NL) Discovery ID 4K+" group-title="NL - DOCUMENTARY",(NL) Discovery ID 4K+
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/3223
+#EXTINF:-1 tvg-id="History.nl" tvg-name="(NL) History 4K+" group-title="NL - DOCUMENTARY",(NL) History 4K+
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/7675
+#EXTINF:-1 tvg-id="CrimeAndInvestigation.nl" tvg-name="(NL) Crime & Investigation HD" group-title="NL - DOCUMENTARY",(NL) Crime & Investigation HD
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/78290
+#EXTINF:-1 tvg-id="ComedyCentral.nl" tvg-name="(NL) Comedy Central 4K" group-title="NL - DOCUMENTARY",(NL) Comedy Central 4K
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/78293
+#EXTINF:-1 tvg-id="DiscoveryScience.be" tvg-name="(NL) Discovery Science 4K+" group-title="NL - DOCUMENTARY",(NL) Discovery Science 4K+
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/3222
+#EXTINF:-1 tvg-id="E!Entertainment.nl" tvg-name="(NL) E! 4K+" group-title="NL - DOCUMENTARY",(NL) E! 4K+
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/7671
+#EXTINF:-1 tvg-id="TLC.nl" tvg-name="(NL) TLC 4K+" group-title="NL - DOCUMENTARY",(NL) TLC 4K+
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/7672
+#EXTINF:-1 tvg-id="RTLCrime.nl" tvg-name="(NL) RTL Crime 4K+" group-title="NL - DOCUMENTARY",(NL) RTL Crime 4K+
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/3123
+#EXTINF:-1 tvg-id="" tvg-name="(NL) Fashion TV 4K+" group-title="NL - DOCUMENTARY",(NL) Fashion TV 4K+
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/7667
+#EXTINF:-1 tvg-id="" tvg-name="(NL) Love Nature 4K+" group-title="NL - DOCUMENTARY",(NL) Love Nature 4K+
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/78269
+#EXTINF:-1 tvg-id="spike.nl" tvg-name="(NL) Spike 4K+" group-title="NL - DOCUMENTARY",(NL) Spike 4K+
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/7665
+#EXTINF:-1 tvg-id="HorseCountry.nl" tvg-name="(NL) Horse Country TV HD" group-title="NL - DOCUMENTARY",(NL) Horse Country TV HD
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/78281
+#EXTINF:-1 tvg-id="RTLLounge.nl" tvg-name="(NL) RTL Lounge HD" group-title="NL - DOCUMENTARY",(NL) RTL Lounge HD
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/3122
