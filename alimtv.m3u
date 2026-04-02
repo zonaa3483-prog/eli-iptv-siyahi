@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="AzTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/23/AzTV_logo.png" group-title="Azerbaijan", AzTV
+https://idm01.itv.az/aztv/aztv/playlist.m3u8
