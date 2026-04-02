@@ -27,56 +27,11 @@ https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/xezer-tv
 https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/arb-24.m3u8
 #EXTINF:-1 tvg-id="IctimaiTV.az@SD",Ictimai TV
 https://live.itv.az/itv.m3u8
-
-
-
-
-#EXTINF:-1 tvg-id="StartTV.az@SD",Kanal S TV
-https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/kanal-s.m3u8
 #EXTINF:-1 tvg-id="KapazTV.az@SD",Kapaz TV
 http://85.132.78.122:8050/hls/stream/index.m3u8
-#EXTINF:-1 tvg-id="",MCJ TV
-https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/mcj-tv-shop.m3u8
-#EXTINF:-1 tvg-id="",MTV TV
-https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/mtv-azerbaycan.m3u8
-#EXTINF:-1 tvg-id="SpaceTV.az@SD",Space TV
-https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/space-tv.m3u8
 #EXTINF:-1 tvg-id="TMB.tr@SD",TMB TV
 https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/tmb-azerbaycan.m3u8
-#EXTINF:-1 tvg-id="",VIP TV
-https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/vip.m3u8
-#EXTINF:-1 tvg-id="XezerTV.az@SD",Xezer TV
-https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/xezer-tv.m3u8
-http://ctvbakuaz.xyz:8080/orxangence/eyvazusta/470891
-#EXTINF:0 type="stream" channelId="2550", Azad Azərbaycan
-http://flussonic.izone.az:80/azadazerbaycan/index.m3u8
-#EXTINF:0 type="stream" channelId="829" name="AZAD AZERBAYCAN" group="AZ AZERBAYCAN", AZAD AZERBAYCAN
-http://ctvbakuaz.xyz:8080/orxangence/eyvazusta/470852
-#EXTINF:0 type="stream" channelId="-1" name="AZAD AZERBAYCAN HD" group="AZ
-AZERBAYCAN", AZAD AZERBAYCAN HD
-http://ctvbakuaz.xyz:8080/orxangence/eyvazusta/470851
-#EXTINF:0 type="stream" channelId="-1" name="XEZER TV" group="AZ AZERBAYCAN", XEZER TV
-http://ctvbakuaz.xyz:8080/orxangence/eyvazusta/470841
-#EXTINF:0 type="stream" channelId="-1" name="XEZER TV HD" group="AZ AZERBAYCAN",
-XEZER TV HD
-http://ctvbakuaz.xyz:8080/orxangence/eyvazusta/470840
-#EXTINF:0 type="stream" channelId="-1" name="XEZER TV HD" group="AZ AZERBAYCAN", XEZER TV HD
-#EXTINF:6 type="stream" channelId="-1", Xəzər
-http://flussonic.izone.az:80/xezertv/index.m3u8
-#EXTINF:0 type="stream" channelId="830", Xazar TV
-http://f8cwq5dt.akciatv.ru/iptv/CNGYQL777HWV55/2199/index.m3u8
-#EXTINF:0 type="stream" channelId="-1", ARB TV (Region TV)
-http://flussonic.izone.az:80/arb/index.m3u8
-#EXTINF:0 type="stream" channelId="1407", Space TV
-http://flussonic.izone.az:80/spacetv/index.m3u8
-#EXTINF:8 type="stream" channelId="-1", Real TV
-http://flussonic.izone.az:80/realtv/index.m3u8
-#EXTINF:0 type="stream" channelId="641", AzTV
-http://flussonic.izone.az:80/aztv/index.m3uB
-#EXTINF:0 type="stream" channelId="-1", Ictimai TV
-http://flussonic.izone.az:80/ictimaitv/index.m3u8
-#EXTINF: type="stream" channelId="823", Mədəniyyət TV
-http://flussonic.izone.az:80/medeniyyet/index.m3u8
+
 
 
 
