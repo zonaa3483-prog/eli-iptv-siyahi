@@ -1,11 +1,4 @@
 #EXTM3U
 
-#EXTM3U
-#EXTINF:-1,AzTV HD
-http://85.132.81.184:8080/aztv/live1/index.m3u8
-#EXTINF:-1,Ictimai TV
-http://85.132.81.184:8080/itv/live1/index.m3u8
-#EXTINF:-1,Idman TV
-http://85.132.81.184:8080/idmantv/live1/index.m3u8
-#EXTINF:-1,Medeniyyet TV
-http://85.132.81.184:8080/medeniyyet/live1/index.m3u8
+#EXTINF:-1 tvg-id="AzTV" tvg-logo="https://aztv.az/img/logo.png", AzTV HD
+https://mfe.cliptv.az/hls/AzTV_HD.ism/playlist.m3u8
