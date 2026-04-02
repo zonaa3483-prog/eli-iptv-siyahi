@@ -75,3 +75,26 @@ https://dogus-live.daioncdn.net/ntv/ntv.m3u8
 https://tgrt-live.daioncdn.net/tgrthaber/tgrthaber.m3u8
 #EXTINF:-1 group-title="TURKIYE",Ekol TV
 https://ekoltv.daioncdn.net/ekoltv/ekoltv.m3u8
+
+#EXTINF:-1 group-title="AZERBAIJAN",AzTV
+https://asv.shaber.tv/hls/aztv/index.m3u8
+#EXTINF:-1 group-title="AZERBAIJAN",Ictimai TV
+https://asv.shaber.tv/hls/itv/index.m3u8
+#EXTINF:-1 group-title="AZERBAIJAN",Idman TV
+https://asv.shaber.tv/hls/idmantv/index.m3u8
+#EXTINF:-1 group-title="AZERBAIJAN",Medeniyyet TV
+https://asv.shaber.tv/hls/medeniyyettv/index.m3u8
+#EXTINF:-1 group-title="AZERBAIJAN",CBC Sport HD
+https://asv.shaber.tv/hls/cbcsport/index.m3u8
+#EXTINF:-1 group-title="AZERBAIJAN",Xazar TV
+https://asv.shaber.tv/hls/xazartv/index.m3u8
+#EXTINF:-1 group-title="AZERBAIJAN",ATV Azerbaijan
+https://asv.shaber.tv/hls/atvaz/index.m3u8
+#EXTINF:-1 group-title="AZERBAIJAN",ARB TV
+https://asv.shaber.tv/hls/arbtv/index.m3u8
+#EXTINF:-1 group-title="AZERBAIJAN",ARB 24
+https://asv.shaber.tv/hls/arb24/index.m3u8
+#EXTINF:-1 group-title="AZERBAIJAN",Real TV
+https://asv.shaber.tv/hls/realtv/index.m3u8
+#EXTINF:-1 group-title="AZERBAIJAN",Space TV
+https://asv.shaber.tv/hls/spacetv/index.m3u8
