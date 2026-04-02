@@ -63,27 +63,27 @@ https://dost.stream.emsal.im/tv/live.m3u8
 https://tv-trtcocuk.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="TRT COCUK DIYANET" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/trt-cocuk-tr.png" ,TRT COCUK DIYANET (elimeherremovofc)
 https://tv-trtdiyanetcocuk.medya.trt.com.tr/master_720.m3u8
-#EXTINF:-1,KANAL PLUS
+#EXTINF:-1,KANAL PLUS (elimeherremovofc)
 https://live.artidijitalmedya.com/artidijital_kanalplus/kanalplus/mpeg/playlist.m3u8
 #EXTINF:-1 Yedek="http://stream.tvcdn.net/eglence/a2.m3u8" Yedek2="https://x.canlitvapp.com/a2/index.m3u8" Yedek3="https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/a2tv/a2tv_1080p.m3u8" Yedek4="http://89.187.191.41/A2-HD-TR/video.m3u8" Yedek5="https://trkvz-live.daioncdn.net/a2tv/a2tv.m3u8" tvg-id="A2 HD.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/e/e8/A2_logosu.jpg" ,A2 (elimeherremovofc)
 http://89.187.191.41/A2-HD-TR/video.m3u8
 #EXTINF:-1 Yedek="https://tv.arectv3.xyz/live/tv85.m3u8" Yedek2="https://rkhubpaomb.turknet.ercdn.net/fwjkgpasof/tv8bucuk/tv8bucuk_1080p.m3u8" Yedek3="http://31.222.206.98/8814/tracks-v1a1/mono.ts.m3u8?token=test" Yedek4="https://bcovlive-a.akamaihd.net/8fe5dabcdbcd4af0ace7b991a12a6a4c/eu-central-1/6415845530001/profile_0/chunklist.m3u8" tvg-id="TV8,5 HD.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/6/68/Tv8_Yeni_Logo.png" group-title="Spor",TV 8.5
 https://rkhubpaomb.turknet.ercdn.net/fwjkgpasof/tv8bucuk/tv8bucuk_1080p.m3u8
-#EXTINF:-1 tvg-name="KANAL 7 AVRUPA" tvg-logo="https://i.ibb.co/F4P8ddm/kanal-7-avrupa.png" group-title="ULUSAL",KANAL 7 AVRUPA
+#EXTINF:-1 tvg-name="KANAL 7 AVRUPA" tvg-logo="https://i.ibb.co/F4P8ddm/kanal-7-avrupa.png" ,KANAL 7 AVRUPA (elimeherremovofc)
 https://livetv.radyotvonline.net/kanal7live/kanal7avr/chunklist.m3u8
-#EXTINF:-1 tvg-name="TEVE2" tvg-id="Teve2.tr" tvg-logo="https://i.ibb.co/JRpJc2P/teve2.png" group-title="ULUSAL",TEVE 2
+#EXTINF:-1 tvg-name="TEVE2" tvg-id="Teve2.tr" tvg-logo="https://i.ibb.co/JRpJc2P/teve2.png" ,TEVE 2 (elimeherremovofc)
 https://live.duhnet.tv/S2/HLS_LIVE/teve2np/track_4_1000/playlist.m3u8
-#EXTINF:-1 tvg-name="TV 4" tvg-id="TV4.tr" tvg-logo="https://i.postimg.cc/FKkHW8KK/tv4.png" group-title="ULUSAL",TV 4
+#EXTINF:-1 tvg-name="TV 4" tvg-id="TV4.tr" tvg-logo="https://i.postimg.cc/FKkHW8KK/tv4.png" ,TV 4 (elimeherremovofc)
 https://turkmedya-live.ercdn.net/tv4/tv4_720p.m3u8
-#EXTINF:-1 tvg-name="Number 1 Dance" tvg-id="Number1Dance.tr" tvg-logo="https://i.ibb.co/kXFSFTN/nr1-dance.png" group-title="MUZIK",NR1 DANCE
+#EXTINF:-1 tvg-name="Number 1 Dance" tvg-id="Number1Dance.tr" tvg-logo="https://i.ibb.co/kXFSFTN/nr1-dance.png" ,NR1 DANCE (elimeherremovofc)
 https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e2aa8acf44_1/playlist.m3u8
-#EXTINF:-1 tvg-name="NR1 FASHION ONE" tvg-id="" tvg-logo="https://i.ibb.co/HV0x9JZ/fashion-one.png" group-title="MUZIK",NR1 FASHION ONE
+#EXTINF:-1 tvg-name="NR1 FASHION ONE" tvg-id="" tvg-logo="https://i.ibb.co/HV0x9JZ/fashion-one.png" ,NR1 FASHION ONE (elimeherremovofc)
 http://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e2ee6997cb_1/playlist.m3u8
-#EXTINF:-1 tvg-id="STAR TV.tr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/star-tv-tr.png" group-title="Ulusal", STAR TV HD
+#EXTINF:-1 tvg-id="STAR TV.tr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/star-tv-tr.png" , STAR TV HD (elimeherremovofc)
 https://dogus.daioncdn.net/startv/startv.m3u8?ce=3&app=1740db13-3ee9-4858-8d2c-b1a9cfaa3718
-#EXTINF:-1 tvg-id="KanalD.tr" tvg-logo="https://mediacms01.digiturkplay.com/channel_logo/kanald_250x150.png" group-title="Ulusal", KANAL D HD
+#EXTINF:-1 tvg-id="KanalD.tr" tvg-logo="https://mediacms01.digiturkplay.com/channel_logo/kanald_250x150.png" , KANAL D HD (elimeherremovofc)
 https://demiroren.daioncdn.net/kanald/kanald.m3u8?app=kanald_web
-#EXTINF:-1 tvg-id="SHOW TV.tr" tvg-logo="https://dsmart-static-v2.ercdn.net//resize-width/400/content/E/aM/11889/Thumbnail.png" group-title="Ulusal", SHOW TV HD
+#EXTINF:-1 tvg-id="SHOW TV.tr" tvg-logo="https://dsmart-static-v2.ercdn.net//resize-width/400/content/E/aM/11889/Thumbnail.png" , SHOW TV HD (elimeherremovofc)
 https://ciner.daioncdn.net/showtv/showtv.m3u8?ce=3&app=4bc856ef-4c68-4a94-bc87-37dfaaa66558
 
 
