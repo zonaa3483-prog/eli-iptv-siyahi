@@ -1,3 +1,28 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="AzTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/23/AzTV_logo.png" group-title="Azerbaijan", AzTV
 https://idm01.itv.az/aztv/aztv/playlist.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-id="ARB.az" tvg-logo="https://i.imgur.com/4z8S9Q9.png" group-title="Azerbaijan", ARB
+https://arb-live.dyndns.tv/arb/live/playlist.m3u8
+#EXTINF:-1 tvg-id="ARB24.az" tvg-logo="https://i.imgur.com/8N7m2Y9.png" group-title="Azerbaijan", ARB 24
+https://arb-live.dyndns.tv/arb24/live/playlist.m3u8
+#EXTINF:-1 tvg-id="ARBGunesh.az" tvg-logo="https://i.imgur.com/9v8X8M9.png" group-title="Azerbaijan", ARB Gunesh
+https://arb-live.dyndns.tv/arbgunesh/live/playlist.m3u8
+#EXTINF:-1 tvg-id="AzTV.az" tvg-logo="https://i.imgur.com/7S66n9n.png" group-title="Azerbaijan", AzTV
+https://idm01.itv.az/aztv/aztv/playlist.m3u8
+#EXTINF:-1 tvg-id="BakuTV.az" tvg-logo="https://i.imgur.com/6U6T6m9.png" group-title="Azerbaijan", Baku TV
+https://baku-live.dyndns.tv/bakutv/live/playlist.m3u8
+#EXTINF:-1 tvg-id="CBC.az" tvg-logo="https://i.imgur.com/6U6T6m9.png" group-title="Azerbaijan", CBC Azerbaijan
+https://idm01.itv.az/cbc/cbc/playlist.m3u8
+#EXTINF:-1 tvg-id="CBCSport.az" tvg-logo="https://i.imgur.com/XG7vY0B.png" group-title="Azerbaijan", CBC Sport
+https://cbcs.itv.az/cbcs/cbcs/playlist.m3u8
+#EXTINF:-1 tvg-id="IctimaiTV.az" tvg-logo="https://i.imgur.com/KzXfEwz.png" group-title="Azerbaijan", Ictimai TV
+https://idm01.itv.az/itv/itv/playlist.m3u8
+#EXTINF:-1 tvg-id="IdmanTV.az" tvg-logo="https://i.imgur.com/Z8Y3W8O.png" group-title="Azerbaijan", Idman TV
+https://idm01.itv.az/idman/idman/playlist.m3u8
+#EXTINF:-1 tvg-id="MedeniyyetTV.az" tvg-logo="https://i.imgur.com/9v8X8M9.png" group-title="Azerbaijan", Medeniyyet TV
+https://idm01.itv.az/medeniyyet/medeniyyet/playlist.m3u8
+#EXTINF:-1 tvg-id="SpaceTV.az" tvg-logo="https://i.imgur.com/4z8S9Q9.png" group-title="Azerbaijan", Space TV
+https://spacetv-live.dyndns.tv/space/live/playlist.m3u8
+#EXTINF:-1 tvg-id="XazarTV.az" tvg-logo="https://i.imgur.com/8N7m2Y9.png" group-title="Azerbaijan", Xazar TV
+https://xazar-live.dyndns.tv/xazar/live/playlist.m3u8
