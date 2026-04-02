@@ -1,5 +1,4 @@
-#EXTM3U x-tvg-url="https://www.open-epg.com/files/turkey3.xml" | SON GÜNCELLENME 28.02.2026 | Donate  A Cup Cafee Please: https://ko-fi.com/digiseytan 
-
+#EXTM3U
 #EXTINF:-1 tvg-name="AlvinChannelTV.az" group-title="AZERBAYCAN YAYINLAR",Alvin Channel TV (360p) [Not 24/7]
 https://cdn10-alvinchannel.yayin.com.tr/alvinchannel/alvinchannel/playlist.m3u8
 #EXTINF:-1 tvg-name="Arb.az" group-title="AZERBAYCAN YAYINLAR",ARB
