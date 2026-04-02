@@ -1,18 +1,77 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="AzTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/23/AzTV_logo.png" group-title="AZERBAIJAN", AzTV (HD)
-https://idm01.itv.az/aztv/aztv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="IctimaiTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/Ictimai_TV.png" group-title="AZERBAIJAN", Ictimai TV (HD)
-https://idm01.itv.az/itv/itv/playlist.m3u8
+#EXTINF:-1 group-title="AZERBAIJAN",AzTV
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/az/aztv.m3u8
+#EXTINF:-1 group-title="AZERBAIJAN",Ictimai TV
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/az/ictimaitv.m3u8
+#EXTINF:-1 group-title="AZERBAIJAN",Idman TV
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/az/idmantv.m3u8
+#EXTINF:-1 group-title="AZERBAIJAN",Medeniyyet TV
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/az/medeniyyettv.m3u8
+#EXTINF:-1 group-title="AZERBAIJAN",ARB TV
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/az/arb.m3u8
+#EXTINF:-1 group-title="AZERBAIJAN",ARB 24
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/az/arb24.m3u8
+#EXTINF:-1 group-title="AZERBAIJAN",ARB Gunesh
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/az/arbgunesh.m3u8
+#EXTINF:-1 group-title="AZERBAIJAN",Space TV
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/az/spacetv.m3u8
+#EXTINF:-1 group-title="AZERBAIJAN",ATV Azerbaijan
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/az/atv.m3u8
+#EXTINF:-1 group-title="AZERBAIJAN",Xazar TV
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/az/xazartv.m3u8
+#EXTINF:-1 group-title="AZERBAIJAN",CBC Azerbaijan
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/az/cbc.m3u8
+#EXTINF:-1 group-title="AZERBAIJAN",CBC Sport
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/az/cbcsport.m3u8
+#EXTINF:-1 group-title="AZERBAIJAN",Real TV
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/az/realtv.m3u8
+#EXTINF:-1 group-title="AZERBAIJAN",Naxcivan TV
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/az/naxcivantv.m3u8
 
-#EXTINF:-1 tvg-id="IdmanTV" tvg-logo="https://upload.wikimedia.org/wikipedia/az/d/d4/İdman_Azərbaycan_TV_Logosu.png" group-title="AZERBAIJAN", Idman TV (HD)
-https://idm01.itv.az/idman/idman/playlist.m3u8
-
-#EXTINF:-1 tvg-id="CBCSport" tvg-logo="https://upload.wikimedia.org/wikipedia/az/3/30/CBC_Sport_logo.png" group-title="AZERBAIJAN", CBC Sport (HD)
-https://cbcs.itv.az/cbcs/cbcs/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Medeniyyet" tvg-logo="https://upload.wikimedia.org/wikipedia/az/e/e0/Mədəniyyət_TV_logo.png" group-title="AZERBAIJAN", Medeniyyet TV
-https://idm01.itv.az/medeniyyet/medeniyyet/playlist.m3u8
-
-#EXTINF:-1 tvg-id="CBCAzerbaijan" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/CBC_Azerbaijan_logo.png" group-title="AZERBAIJAN", CBC Azerbaijan
-https://idm01.itv.az/cbc/cbc/playlist.m3u8
+#EXTINF:-1 group-title="TURKIYE",TRT 1
+https://tv-trt1.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 group-title="TURKIYE",TRT Haber
+https://tv-trthaber.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 group-title="TURKIYE",TRT Spor
+https://tv-trtspor.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 group-title="TURKIYE",TRT Spor Yildiz
+https://tv-trtspor2.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 group-title="TURKIYE",TRT Muzik
+https://tv-trtmuzik.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 group-title="TURKIYE",TRT Belgesel
+https://tv-trtbelgesel.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 group-title="TURKIYE",STAR TV
+https://dogus-live.daioncdn.net/startv/startv.m3u8
+#EXTINF:-1 group-title="TURKIYE",SHOW TV
+https://ciner-live.daioncdn.net/showtv/showtv.m3u8
+#EXTINF:-1 group-title="TURKIYE",KANAL D
+https://demiroren-live.daioncdn.net/kanald/kanald.m3u8
+#EXTINF:-1 group-title="TURKIYE",TV8
+https://tv8-live.daioncdn.net/tv8/tv8.m3u8
+#EXTINF:-1 group-title="TURKIYE",TV8.5
+https://tv8-live.daioncdn.net/tv8-5/tv8-5.m3u8
+#EXTINF:-1 group-title="TURKIYE",ATV Turkiye
+https://turkuvaz-live.daioncdn.net/atv/playlist.m3u8
+#EXTINF:-1 group-title="TURKIYE",A Haber
+https://turkuvaz-live.daioncdn.net/ahaber/playlist.m3u8
+#EXTINF:-1 group-title="TURKIYE",A Spor
+https://turkuvaz-live.daioncdn.net/aspor/playlist.m3u8
+#EXTINF:-1 group-title="TURKIYE",NOW TV
+https://disney-live.daioncdn.net/now/playlist.m3u8
+#EXTINF:-1 group-title="TURKIYE",Halk TV
+https://halktv.daioncdn.net/halktv/halktv.m3u8
+#EXTINF:-1 group-title="TURKIYE",SZC TV (Sozcu)
+https://szctv.daioncdn.net/szctv/szctv.m3u8
+#EXTINF:-1 group-title="TURKIYE",TV100
+https://tv100.daioncdn.net/tv100/tv100.m3u8
+#EXTINF:-1 group-title="TURKIYE",Haberturk
+https://ciner-live.daioncdn.net/haberturk/haberturk.m3u8
+#EXTINF:-1 group-title="TURKIYE",Bloomberg HT
+https://ciner-live.daioncdn.net/bloomberght/bloomberght.m3u8
+#EXTINF:-1 group-title="TURKIYE",NTV
+https://dogus-live.daioncdn.net/ntv/ntv.m3u8
+#EXTINF:-1 group-title="TURKIYE",TGRT Haber
+https://tgrt-live.daioncdn.net/tgrthaber/tgrthaber.m3u8
+#EXTINF:-1 group-title="TURKIYE",Ekol TV
+https://ekoltv.daioncdn.net/ekoltv/ekoltv.m3u8
