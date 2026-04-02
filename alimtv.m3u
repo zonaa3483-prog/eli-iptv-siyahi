@@ -1,15 +1,13 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Arb.az" group-title="AZERBAYCAN YAYINLAR",ARB
 https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/arb.m3u8
-
 #EXTINF:-1 tvg-name="ARBGUNES.az" group-title="AZERBAYCAN YAYINLAR",ARB Gunes
 https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/arb-gunes.m3u8
-#EXTINF:-1 tvg-name="AZADTV.az" group-title="AZERBAYCAN YAYINLAR",Azad TV
-https://stream.atv.az/WebRTCAppEE/streams/780339739845112514894920_adaptive.m3u8
 #EXTINF:-1 tvg-name="AzstarTV.az" group-title="AZERBAYCAN YAYINLAR",Azstar TV
 https://live.livestreamtv.ca/azstar/amlst:azstar/playlist.m3u8
-#EXTINF:-1 tvg-name="BAKUTV.az" group-title="AZERBAYCAN YAYINLAR",Baku TV (720p)
+#EXTINF:-1 tvg-name="BAKUTV.az" group-title="AZERBAYCAN YAYINLAR",Baku TV
 https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/baku-tv.m3u8
+
 #EXTINF:-1 tvg-name="CBCSPORT.az" group-title="AZERBAYCAN YAYINLAR",CBC Sport [Geo-blocked]
 https://mn-nl.mncdn.com/cbcsports_live/cbcsports/playlist.m3u8
 #EXTINF:-1 tvg-name="DUNYATV.az" group-title="AZERBAYCAN YAYINLAR",Dunya TV
