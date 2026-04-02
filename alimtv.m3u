@@ -3,34 +3,34 @@
 https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/arb.m3u8
 #EXTINF:-1 tvg-name="ARBGUNES.az" ,ARB Gunes (elimeherremovofc)
 https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/arb-gunes.m3u8
-#EXTINF:-1 tvg-name="AzstarTV.az" group-title="AZERBAYCAN YAYINLAR",Azstar TV
+#EXTINF:-1 tvg-name="AzstarTV.az" ,Azstar TV (elimeherremovofc)
 https://live.livestreamtv.ca/azstar/amlst:azstar/playlist.m3u8
-#EXTINF:-1 tvg-name="BAKUTV.az" group-title="AZERBAYCAN YAYINLAR",Baku TV
+#EXTINF:-1 tvg-name="BAKUTV.az" ,Baku TV (elimeherremovofc)
 https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/baku-tv.m3u8
-#EXTINF:-1 tvg-name="CBCSPORT.az" group-title="AZERBAYCAN YAYINLAR",CBC Sport [Geo-blocked]
+#EXTINF:-1 tvg-name="CBCSPORT.az" ,CBC Sport (elimeherremovofc)
 https://mn-nl.mncdn.com/cbcsports_live/cbcsports/playlist.m3u8
-#EXTINF:-1 tvg-name="DUNYATV.az" group-title="AZERBAYCAN YAYINLAR",Dunya TV
+#EXTINF:-1 tvg-name="DUNYATV.az" ,Dunya TV (elimeherremovofc)
 https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/dunya-tv.m3u8
-#EXTINF:-1 tvg-name="ELTV.az" group-title="AZERBAYCAN YAYINLAR",EL TV
+#EXTINF:-1 tvg-name="ELTV.az" ,EL TV (elimeherremovofc)
 http://85.132.53.162:1935/live/eltv/playlist.m3u8
-#EXTINF:-1 tvg-name="KANALSTV.az" group-title="AZERBAYCAN YAYINLAR",Kanal S TV
+#EXTINF:-1 tvg-name="KANALSTV.az" ,Kanal S TV (elimeherremovofc)
 https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/kanal-s.m3u8
-#EXTINF:-1 tvg-name="SPACETV.az" group-title="AZERBAYCAN YAYINLAR",Space TV
+#EXTINF:-1 tvg-name="SPACETV.az" ,Space TV (elimeherremovofc)
 https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/space-tv.m3u8
-#EXTINF:-1 tvg-name="VIPTV.az" group-title="AZERBAYCAN YAYINLAR",VIP TV
+#EXTINF:-1 tvg-name="VIPTV.az" ,VIP TV (elimeherremovofc)
 https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/vip.m3u8
-#EXTINF:-1 tvg-name="XEZERTV.az" group-title="AZERBAYCAN YAYINLAR",Xezer TV
+#EXTINF:-1 tvg-name="XEZERTV.az" ,Xezer TV (elimeherremovofc)
 https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/xezer-tv.m3u8
-#EXTINF:-1 tvg-id="ARB24.az@SD",ARB 24
+#EXTINF:-1 tvg-id="ARB24.az@SD",ARB 24 (elimeherremovofc)
 https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/arb-24.m3u8
-#EXTINF:-1 tvg-id="IctimaiTV.az@SD",Ictimai TV
+#EXTINF:-1 tvg-id="IctimaiTV.az@SD",Ictimai TV (elimeherremovofc)
 https://live.itv.az/itv.m3u8
-#EXTINF:-1 tvg-id="KapazTV.az@SD",Kapaz TV
+#EXTINF:-1 tvg-id="KapazTV.az@SD",Kapaz TV (elimeherremovofc)
 http://85.132.78.122:8050/hls/stream/index.m3u8
-#EXTINF:-1 tvg-id="TMB.tr@SD",TMB TV
+#EXTINF:-1 tvg-id="TMB.tr@SD",TMB TV (elimeherremovofc)
 https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/tmb-azerbaycan.m3u8
 #EXTM3U
-#EXTINF:-1 tvg-id="AzTV.az@SD",Az TV
+#EXTINF:-1 tvg-id="AzTV.az@SD",Az TV (elimeherremovofc)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 http://109.205.166.68/server124/aztv/index3.m3u8?e=1676581573&st=AzGSZjk1DpXY1SLc1m4OvA
 
