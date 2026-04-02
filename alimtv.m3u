@@ -1,6 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="AzTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/23/AzTV_logo.png" group-title="Azerbaijan", AzTV
 https://idm01.itv.az/aztv/aztv/playlist.m3u8
+
 #EXTM3U
 #EXTINF:-1 tvg-id="ARB.az" tvg-logo="https://i.imgur.com/4z8S9Q9.png" group-title="Azerbaijan", ARB
 https://arb-live.dyndns.tv/arb/live/playlist.m3u8
