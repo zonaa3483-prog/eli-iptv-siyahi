@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Arb.az" ,ARB TV (elimeherremovofc)
 https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/arb.m3u8
-#EXTINF:-1 tvg-name="ARBGUNES.az" group-title="AZERBAYCAN YAYINLAR",ARB Gunes
+#EXTINF:-1 tvg-name="ARBGUNES.az" ,ARB Gunes (elimeherremovofc)
 https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/arb-gunes.m3u8
 #EXTINF:-1 tvg-name="AzstarTV.az" group-title="AZERBAYCAN YAYINLAR",Azstar TV
 https://live.livestreamtv.ca/azstar/amlst:azstar/playlist.m3u8
