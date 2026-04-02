@@ -1,21 +1,11 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="AzTV.az" tvg-country="AZ" tvg-language="Azerbaijani" tvg-logo="https://itv.az/images/logos/aztv.png" group-title="Azerbaijan",AzTV
-https://idman.itv.az/hls/aztv.m3u8
-#EXTINF:-1 tvg-id="IctimaiTV.az" tvg-country="AZ" tvg-language="Azerbaijani" tvg-logo="https://itv.az/images/logos/itv.png" group-title="Azerbaijan",Ictimai TV
-https://idman.itv.az/hls/itv.m3u8
-#EXTINF:-1 tvg-id="IdmanTV.az" tvg-country="AZ" tvg-language="Azerbaijani" tvg-logo="https://itv.az/images/logos/idman.png" group-title="Azerbaijan",Idman TV
-https://idman.itv.az/hls/idman.m3u8
-#EXTINF:-1 tvg-id="MedeniyyetTV.az" tvg-country="AZ" tvg-language="Azerbaijani" tvg-logo="https://itv.az/images/logos/medeniyyet.png" group-title="Azerbaijan",Medeniyyet TV
-https://idman.itv.az/hls/medeniyyet.m3u8
-#EXTINF:-1 tvg-id="CBC.az" tvg-country="AZ" tvg-language="Azerbaijani" tvg-logo="https://cbctv.az/assets/images/logo.png" group-title="Azerbaijan",CBC Azerbaijan
-https://cbctv.az/hls/live.m3u8
-#EXTINF:-1 tvg-id="BakuTV.az" tvg-country="AZ" tvg-language="Azerbaijani" tvg-logo="https://baku.tv/img/logo.png" group-title="Azerbaijan",Baku TV
-https://baku.tv/hls/live.m3u8
-#EXTINF:-1 tvg-id="RealTV.az" tvg-country="AZ" tvg-language="Azerbaijani" tvg-logo="https://realtv.az/assets/images/logo.png" group-title="Azerbaijan",Real TV
-https://realtv.az/hls/live.m3u8
-#EXTINF:-1 tvg-id="ARB.az" tvg-country="AZ" tvg-language="Azerbaijani" group-title="Azerbaijan",ARB TV
-https://live.arbtv.az/hls/arbtv.m3u8
-
-#EXTINF:-1 tvg-id="AzTV.az" tvg-logo="https://aztv.az/logo.png" group-title="Azerbaijan", AzTV
-https://str.yodacdn.net/aztv/index.m3u8
+#EXTM3U
+#EXTINF:-1,AzTV HD
+http://85.132.81.184:8080/aztv/live1/index.m3u8
+#EXTINF:-1,Ictimai TV
+http://85.132.81.184:8080/itv/live1/index.m3u8
+#EXTINF:-1,Idman TV
+http://85.132.81.184:8080/idmantv/live1/index.m3u8
+#EXTINF:-1,Medeniyyet TV
+http://85.132.81.184:8080/medeniyyet/live1/index.m3u8
