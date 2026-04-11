@@ -1,7 +1,12 @@
 AZERBAYCAN TV
 
 #EXTM3U
-#EXTINF:-1 tvg-name="Arb.az" group-title="Eli Meherremov" ,ARB TV (elimeherremovofc)
+#EXTINF:-1 group-title="Eli Meherremov",AzTV (elimeherremovofc) 
+https://str.yodacdn.net/azertv/playlist.m3u8
+#EXTINF:-1 tvg-id="IctimaiTV.az@SD",Ictimai TV (elimeherremovofc)
+https://live.itv.az/itv.m3u8
+
+#EXTINF:-1 tvg-name="Arb.az" ,ARB TV (elimeherremovofc)
 https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/arb.m3u8
 #EXTINF:-1 tvg-name="ARBGUNES.az" ,ARB Gunes (elimeherremovofc)
 https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/arb-gunes.m3u8
@@ -25,28 +30,17 @@ https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-
 https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/xezer-tv.m3u8
 #EXTINF:-1 tvg-id="ARB24.az@SD",ARB 24 (elimeherremovofc)
 https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/arb-24.m3u8
-#EXTINF:-1 tvg-id="IctimaiTV.az@SD",Ictimai TV (elimeherremovofc)
-https://live.itv.az/itv.m3u8
+
+
 #EXTINF:-1 tvg-id="KapazTV.az@SD",Kapaz TV (elimeherremovofc)
 http://85.132.78.122:8050/hls/stream/index.m3u8
 #EXTINF:-1 tvg-id="TMB.tr@SD",TMB TV (elimeherremovofc)
 https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/tmb-azerbaycan.m3u8
-#EXTM3U
-#EXTINF:-1 tvg-id="AzTV.az@SD",Az TV (elimeherremovofc)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-http://109.205.166.68/server124/aztv/index3.m3u8?e=1676581573&st=AzGSZjk1DpXY1SLc1m4OvA
 
-#EXTM3U url-tvg="http://epg.it999.ru/epg2.xml.gz"
 
-# --- AZERBAIJAN CHANNELS ---
-#EXTINF:-1 group-title="Azerbaijan Channels",AzTV
-https://str.yodacdn.net/azertv/playlist.m3u8
-#EXTINF:-1 group-title="Azerbaijan Channels",AzTV (rez)
-https://str2.yodacdn.net/azertv/tracks-v1a1/mono.ts.m3u8?
-#EXTINF:-1 group-title="Azerbaijan Channels",Ictimai TV
-https://live.itv.az/itv.m3u8
-#EXTINF:-1 group-title="Azerbaijan Channels",Ictimai TV (rez)
-https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/ictimai-tv.m3u8
+
+
+
 #EXTINF:-1 group-title="Azerbaijan Channels",Real TV
 https://str.yodacdn.net/real/tracks-v1a1/mono.ts.m3u8?
 #EXTINF:-1 group-title="Azerbaijan Channels",Real TV (rez)
