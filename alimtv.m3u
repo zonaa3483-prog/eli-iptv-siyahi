@@ -36,6 +36,60 @@ https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 http://109.205.166.68/server124/aztv/index3.m3u8?e=1676581573&st=AzGSZjk1DpXY1SLc1m4OvA
 
+#EXTM3U url-tvg="http://epg.it999.ru/epg2.xml.gz"
+
+# --- AZERBAIJAN CHANNELS ---
+#EXTINF:-1 group-title="Azerbaijan Channels",AzTV
+https://str.yodacdn.net/azertv/playlist.m3u8
+#EXTINF:-1 group-title="Azerbaijan Channels",AzTV (rez)
+https://str2.yodacdn.net/azertv/tracks-v1a1/mono.ts.m3u8?
+#EXTINF:-1 group-title="Azerbaijan Channels",Ictimai TV
+https://live.itv.az/itv.m3u8
+#EXTINF:-1 group-title="Azerbaijan Channels",Ictimai TV (rez)
+https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/ictimai-tv.m3u8
+#EXTINF:-1 group-title="Azerbaijan Channels",Real TV
+https://str.yodacdn.net/real/tracks-v1a1/mono.ts.m3u8?
+#EXTINF:-1 group-title="Azerbaijan Channels",Real TV (rez)
+http://149.255.152.199/real.m3u8?bandwidth=2096&e=1769523849&playlistlength=5&shift=0&sid=coder_79&token=d39082df803400a19021b790ed15f904&user=37076
+#EXTINF:-1 group-title="Azerbaijan Channels",Idman
+https://str2.yodacdn.net/idmantele/tracks-v1a1/mono.ts.m3u8?token=eyJpcCI6IjQ2LjIyLjIzNy4xOTkiLCJ1YSI6Ik1vemlsbGEvNS4wIChMaW51eDsgQW5kcm9pZCAxMjsgMjIxMDEzMTZHKSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTQxLjAuNzM5MC4xMjIgTW9iaWxlIFNhZmFyaS81MyIsImV4cCI6MTc2MjExMTMxMywianRpIjoiNWZjYzZlMDVhYzEzNTljMSJ9.U230jxKdiYBKiQ+AyPDed%2FS8Hdjn6mn5aSEQ2E2b5go%3D
+#EXTINF:-1 group-title="Azerbaijan Channels",Idman (rez)
+https://str.yodacdn.net/idmantele/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Azerbaijan Channels",ARB 24
+https://str.yodacdn.net/arb24/playlist.m3u8?
+#EXTINF:-1 group-title="Azerbaijan Channels",ARB 24 (rez)
+https://str.yodacdn.net/real/playlist.m3u8
+#EXTINF:-1 group-title="Azerbaijan Channels",ARB Canli AZ
+https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/arb.m3u8
+#EXTINF:-1 group-title="Azerbaijan Channels",Azad TV
+https://str.yodacdn.net/atv/playlist.m3u8
+#EXTINF:-1 group-title="Azerbaijan Channels",Xazar TV
+https://raw.githubusercontent.com/fraudiay79/strm/refs/heads/main/platforms/links/az/xezer-tv.m3u8
+#EXTINF:-1 group-title="Azerbaijan Channels",Xazar TV (rez)
+https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/xezer-tv.m3u8
+#EXTINF:-1 group-title="Azerbaijan Channels",CBC Sport
+http://str.yodacdn.net/cbcsport/index.m3u8
+#EXTINF:-1 group-title="Azerbaijan Channels",CBC Sport (rez)
+https://mn-nl.mncdn.com/cbcsports_live/cbcsports/chunklist.m3u8
+#EXTINF:-1 group-title="Azerbaijan Channels",CBC Sport (rez3)
+http://supersportstv.site:8080/bakyuz/J7b6xK8mJMjD/33517
+#EXTINF:-1 group-title="Azerbaijan Channels",Baku.TV
+https://rtmp.baku.tv/hls/bakutv.m3u8
+#EXTINF:-1 group-title="Azerbaijan Channels",Medeniyyet
+https://str.yodacdn.net/medeniyyettele/playlist.m3u8
+#EXTINF:-1 group-title="Azerbaijan Channels",APA TV
+https://str.yodacdn.net/apatv/playlist.m3u8
+#EXTINF:-1 group-title="Azerbaijan Channels",CBC
+https://stream.cbctv.az:5443/LiveApp/streams/cbctv.m3u8
+#EXTINF:-1 group-title="Azerbaijan Channels",Kanal S
+https://str.yodacdn.net/start/playlist.m3u8
+#EXTINF:-1 group-title="Azerbaijan Channels",Kəpəz tv
+http://85.132.78.122:8050/hls/stream/index.m3u8
+#EXTINF:-1 group-title="Azerbaijan Channels",Muz TV
+https://str.yodacdn.net/mtvaz/playlist.m3u8
+#EXTINF:-1 group-title="Azerbaijan Channels",Space TV
+https://str.yodacdn.net/space/playlist.m3u8
+
 
 TÜRK KANALLARI
 
