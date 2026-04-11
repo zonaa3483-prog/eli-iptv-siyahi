@@ -5,9 +5,15 @@ AZERBAYCAN TV
 https://str.yodacdn.net/azertv/playlist.m3u8
 #EXTINF:-1 tvg-id="IctimaiTV.az@SD",Ictimai TV (elimeherremovofc)
 https://live.itv.az/itv.m3u8
-
 #EXTINF:-1 tvg-name="Arb.az" ,ARB TV (elimeherremovofc)
 https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/arb.m3u8
+#EXTINF:-1, Xəzər TV (elimeherremovofc) 
+https://raw.githubusercontent.com/fraudiay79/strm/refs/heads/main/platforms/links/az/xezer-tv.m3u8
+#EXTINF:-1, Azad TV (elimeherremovofc) 
+https://str.yodacdn.net/atv/playlist.m3u8
+
+
+
 #EXTINF:-1 tvg-name="ARBGUNES.az" ,ARB Gunes (elimeherremovofc)
 https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/arb-gunes.m3u8
 #EXTINF:-1 tvg-name="AzstarTV.az" ,Azstar TV (elimeherremovofc)
@@ -53,14 +59,10 @@ https://str.yodacdn.net/idmantele/tracks-v1a1/mono.ts.m3u8
 https://str.yodacdn.net/arb24/playlist.m3u8?
 #EXTINF:-1 group-title="Azerbaijan Channels",ARB 24 (rez)
 https://str.yodacdn.net/real/playlist.m3u8
-#EXTINF:-1 group-title="Azerbaijan Channels",ARB Canli AZ
+#EXTINF:-1 group-title="Azerbaijan Channels",ARB Canli AZ eri
 https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/arb.m3u8
-#EXTINF:-1 group-title="Azerbaijan Channels",Azad TV
-https://str.yodacdn.net/atv/playlist.m3u8
-#EXTINF:-1 group-title="Azerbaijan Channels",Xazar TV
-https://raw.githubusercontent.com/fraudiay79/strm/refs/heads/main/platforms/links/az/xezer-tv.m3u8
-#EXTINF:-1 group-title="Azerbaijan Channels",Xazar TV (rez)
-https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/xezer-tv.m3u8
+
+
 #EXTINF:-1 group-title="Azerbaijan Channels",CBC Sport
 http://str.yodacdn.net/cbcsport/index.m3u8
 #EXTINF:-1 group-title="Azerbaijan Channels",CBC Sport (rez)
