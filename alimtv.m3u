@@ -48,7 +48,6 @@ https://live.artidijitalmedya.com/artidijital_kanal12/kanal12/playlist.m3u8
 #EXTINF:-1 tvg-name="VIPTV.az" ,VIP TV 
 https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/vip.m3u8
 
-
 TÜRK KANALLARI
 #EXTINF:-1,A2
 https://streams.uzunmuhalefet.com/stream/cd13382a-cd53-46b1-964a-928bdf4e63e7.m3u8
@@ -130,6 +129,26 @@ https://streams.uzunmuhalefet.com/stream/74555614-af2a-40ca-aaba-eaa665343c5c.m3
 #EXTINF:-1,Beğen TV
 https://streams.uzunmuhalefet.com/stream/ed581547-9735-4ad1-804d-8ab925446060.m3u8
 
+Eli Meherremov Music
+#EXTM3U
+#EXTINF:-1 group-title="Eli Meherremov Music",Əli Məhərrəmov - Qaranlıq Şəhər 2026
+https://ia903106.us.archive.org/17/items/li-mhrrmov-qaranliq-shr-2026-720-p-hd/%C6%8Fli%20M%C9%99h%C9%99rr%C9%99mov%20-%20Qaranl%C4%B1q%20%C5%9E%C9%99h%C9%99r%202026%28720P_HD%29.ia.mp4
+#EXTINF:-1 group-title="Eli Meherremov Music",Əli Məhərrəmov - Ayrı Salıbdı
+https://ia800508.us.archive.org/30/items/li-mhrrmov-ayri-salibdi-720-p-hd/%C6%8Fli%20M%C9%99h%C9%99rr%C9%99mov%20-%20Ayr%C4%B1%20Sal%C4%B1bd%C4%B1%28720P_HD%29.ia.mp4
+#EXTINF:-1 group-title="Eli Meherremov Music",Əli Məhərrəmov - Getmisən
+https://ia903107.us.archive.org/9/items/li-mhrrmov-getmisn-720-p-hd/%C6%8Fli%20M%C9%99h%C9%99rr%C9%99mov%20-%20Getmis%C9%99n%28720P_HD%29.ia.mp4
+#EXTINF:-1 group-title="Eli Meherremov Music",Əli Məhərrəmov - Mübarək olsun
+https://ia801603.us.archive.org/28/items/li-mhrrmov-mubark-olsun-720-p-hd/%C6%8Fli%20M%C9%99h%C9%99rr%C9%99mov%20-%20M%C3%BCbar%C9%99k%20olsun%28720P_HD%29.ia.mp4
+#EXTINF:-1 group-title="Eli Meherremov Music",Əli Məhərrəmov - Unutmamışam
+https://ia600801.us.archive.org/19/items/li-mhrrmov-unutmamisam-720-p-hd/%C6%8Fli%20M%C9%99h%C9%99rr%C9%99mov%20-%20Unutmam%C4%B1%C5%9Fam%28720P_HD%29.ia.mp4
+#EXTINF:-1 group-title="Eli Meherremov Music",Əli Məhərrəmov - Qəlbim
+https://ia801507.us.archive.org/22/items/li-mhrrmov-qlbim-720-p-hd/%C6%8Fli%20M%C9%99h%C9%99rr%C9%99mov%20-%20Q%C9%99lbim%28720P_HD%29.ia.mp4
+#EXTINF:-1 group-title="Eli Meherremov Music",Əli Məhərrəmov - Hardasan
+https://ia601604.us.archive.org/23/items/li-mhrrmov-hardasan-720-p-hd/%C6%8Fli%20M%C9%99h%C9%99rr%C9%99mov%20-%20Hardasan%28720P_HD%29.ia.mp4
+#EXTINF:-1 group-title="Eli Meherremov Music",Əli Məhərrəmov - Unutmadım Ki
+https://ia601803.us.archive.org/6/items/li-mhrrmov-unutmadim-ki-720-p-hd/%C6%8Fli%20M%C9%99h%C9%99rr%C9%99mov%20-%20Unutmad%C4%B1m%20Ki%28720P_HD%29.mp4
+#EXTINF:-1 group-title="Eli Meherremov Music",Əli Məhərrəmov - Yadımda
+https://ia600908.us.archive.org/29/items/li-mhrrmov-yadimda-720-p-hd/%C6%8Fli%20M%C9%99h%C9%99rr%C9%99mov%20-%20Yad%C4%B1mda%28720P_HD%29.mp4
 
 KURTLAR VADİSİ 
 #EXTM3U
@@ -327,7 +346,6 @@ https://ia802803.us.archive.org/11/items/kurtlar-vadisi-95.-bolum-full-hd-720-p-
 https://ia600902.us.archive.org/28/items/kurtlar-vadisi-96.-bolum-full-hd-720-p-hd/Kurtlar%20Vadisi%20-%2096.%20B%C3%B6l%C3%BCm%20FULL%20HD%28720P_HD%29.ia.mp4
 #EXTINF:-1 tvg-logo="https://archive.org/download/cokgen-alfabe-harfleri-logo-kv-monogram-mor-mavi-renk-vektor-eps_1012565-1412/cokgen-alfabe-harfleri-logo-kv-monogram-mor-mavi-renk-vektor-eps_1012565-1412.jpg" group-title="Kurtlar Vadisi",Kurtlar Vadisi - 97. Bölüm Final
 https://ia600107.us.archive.org/18/items/kurtlar-vadisi-97.-bolum-fi-nal-full-hd-720-p-hd/Kurtlar%20Vadisi%20-%2097.%20B%C3%B6l%C3%BCm%20F%C4%B0NAL%20FULL%20HD%28720P_HD%29.mp4
-
 
 KURTLAR VADİSİ PUSU
 #EXTM3U
@@ -933,4 +951,20 @@ https://ia601904.us.archive.org/3/items/kurtlar-vadisi-pusu-299.-bolum-full-hd-1
 https://ia600801.us.archive.org/26/items/kurtlar-vadisi-pusu-300.-bolum-fi-nal-full-hd-1080-p-hd/Kurtlar%20Vadisi%20Pusu%20-%20300.%20B%C3%B6l%C3%BCm%20F%C4%B0NAL%20FULL%20HD%281080P_HD%29.mp4
 
 Kurtlar Vadisi Sinema
+#EXTM3U
+#EXTINF:-1 group-title="Kurtlar Vadisi Sinema",Kurtlar Vadisi Terör 1-2 Bölüm
+https://ia903201.us.archive.org/35/items/kurtlar-vadisi-teror-tek-parca-full-hd-i-zle-720-p-hd/Kurtlar%20Vadisi%20Ter%C3%B6r%20_%20Tek%20Par%C3%A7a%20FULL%20HD%20%C4%B0ZLE%28720P_HD%29.mp4
+#EXTINF:-1 group-title="Kurtlar Vadisi Sinema",Kurtlar Vadisi Irak 
+https://ia600903.us.archive.org/18/items/kurtlar-vadisi-irak-hd-720-p-hd/Kurtlar%20Vadisi%20Irak%20-%20HD%28720P_HD%29.ia.mp4
+#EXTINF:-1 group-title="Kurtlar Vadisi Sinema", Kurtlar Vadisi Muro
+https://ia601408.us.archive.org/16/items/muro-nalet-olsun-icimdeki-insan-sevgisine-tek-parca-full-hd-izle-720-p-hd/Muro_%20Nalet%20Olsun%20%C4%B0%C3%A7imdeki%20%C4%B0nsan%20Sevgisine%20_%20Tek%20Par%C3%A7a%20FULL%20HD%20%C4%B0zle%28720P_HD%29.mp4
+#EXTINF:-1 group-title="Kurtlar Vadisi Sinema",Kurtlar Vadisi Gladio
+https://ia601501.us.archive.org/21/items/kurtlar-vadisi-gladio-tek-parca-full-hd-i-zle-720-p-hd/Kurtlar%20Vadisi%20Gladio%20_%20Tek%20Par%C3%A7a%20FULL%20HD%20%C4%B0ZLE%28720P_HD%29.mp4
+#EXTINF:-1 group-title="Kurtlar Vadisi Sinema",Kurtlar Vadisi Filistin
+https://ia600903.us.archive.org/14/items/kurtlar-vadisi-filistin-full-hd-yeni-kurtlar-vadisi-polat-alemdar-720-p-hd/Kurtlar%20Vadisi%20Filistin%20-%20Full%20HD%20_%20Yeni%20_KurtlarVadisi%20_PolatAlemdar%28720P_HD%29.mp4
+#EXTINF:-1 group-title="Kurtlar Vadisi Sinema",Kurtlar Vadisi Vatan
+https://ia600709.us.archive.org/26/items/kurtlar-vadisi-vatan-tek-parca-full-hd-i-zle-720-p-hd/Kurtlar%20Vadisi%20Vatan%20_%20Tek%20Par%C3%A7a%20FULL%20HD%20%C4%B0ZLE%28720P_HD%29.mp4
+
+
+
 
