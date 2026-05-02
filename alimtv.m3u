@@ -48,6 +48,7 @@ https://live.artidijitalmedya.com/artidijital_kanal12/kanal12/playlist.m3u8
 #EXTINF:-1 tvg-name="VIPTV.az" group-title="Eli Meherremov TV", VIP TV 
 https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/vip.m3u8
 
+
 TÜRK KANALLARI
 #EXTINF:-1 group-title="Eli Meherremov TV", A2
 https://streams.uzunmuhalefet.com/stream/cd13382a-cd53-46b1-964a-928bdf4e63e7.m3u8
@@ -150,6 +151,11 @@ https://ia601803.us.archive.org/6/items/li-mhrrmov-unutmadim-ki-720-p-hd/%C6%8Fl
 https://ia600908.us.archive.org/29/items/li-mhrrmov-yadimda-720-p-hd/%C6%8Fli%20M%C9%99h%C9%99rr%C9%99mov%20-%20Yad%C4%B1mda%28720P_HD%29.mp4
 #EXTINF:-1 tvg-id="M" group-title="Eli Meherremov Music", Əli Məhərrəmov - Əzizim
 https://ia902800.us.archive.org/15/items/li-mhrrmov-zizim-720-p-hd/%C6%8Fli%20M%C9%99h%C9%99rr%C9%99mov%20-%20%C6%8Fzizim%28720P_HD%29.ia.mp4
+#EXTINF:-1 group-title="Eli Meherremov Music",Əli Məhərrəmov - Ölümdür
+https://ia600608.us.archive.org/23/items/li-mhrrmov-olumdur-720-p-hd/%C6%8Fli%20M%C9%99h%C9%99rr%C9%99mov%20-%20%C3%96l%C3%BCmd%C3%BCr%28720P_HD%29.mp4
+#EXTINF:-1 group-title="Eli Meherremov Music",Əli Məhərrəmov - Zərbələr
+https://ia902903.us.archive.org/19/items/li-mhrrmov-zrblr-720-p-hd/%C6%8Fli%20M%C9%99h%C9%99rr%C9%99mov%20-%20Z%C9%99rb%C9%99l%C9%99r%28720P_HD%29.mp4
+
 
 HZ. YUSİF
 #EXTM3U
