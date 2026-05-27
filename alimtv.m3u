@@ -118,14 +118,7 @@ http://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e2ee6
 #EXTINF:-1 group-title="Eli Meherremov TV" tvg-logo="https://assets.uzunmuhalefet.com/logos/82d9c0fb-ef2d-4f75-9eb5-673b7ed8b10b.png" tvg-url="https://tivi6.com.tr/" tvg-id="Tivi6.tr",Tivi6
 https://streams.uzunmuhalefet.com/stream/dfe0f95a-70ae-418b-b4e1-c9d63515edab.m3u8
 #EXTINF:-1 group-title="Eli Meherremov TV" tvg-logo="https://assets.uzunmuhalefet.com/logos/789232b7-b727-4adf-a6e9-017b4e11606b.png" tvg-url="https://www.minikago.com.tr/" tvg-id="MinikaGo.tr",Minika Go
-#EXTINF:-1 tvg-url="https://www.minikago.com.tr/" tvg-id="MinikaGo.tr",Minika Go
-https://streams.uzunmuhalefet.com/stream/d22a7171-68af-48ad-bd70-b2b6912fcdec.m3u8
-#EXTINF:-1 tvg-id="Sinema Tv.tr" tvg-logo="https://www.tivibu.com.tr/uploads/ChannelFiles/sinematv_logo_A0CC7C58-E100-4C18-8B8D-BF961C4F785E.png"  group-title="Eli Meherremov TV", Sinema TV
-http://65.108.239.207/sinema/index.m3u8
-#EXTINF:-1 group-title="Eli Meherremov TV" TIVI 6
-https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/playlist.m3u8
-#EXTINF:-1 tvg-name="AZTV" group-title="AZERBAYCAN YAYINLAR",AzTV
-http://0e770a63.ucomist.net/iptv/ZWZ54NWQ78NYQX/966/index&extension=m3u8
+
 
 
 
