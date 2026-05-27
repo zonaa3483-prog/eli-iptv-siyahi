@@ -2,7 +2,7 @@ AZERBAYCAN TV
 #EXTM3U
 #EXTINF:-1 tvg-id="AzTV" group-title="Eli Meherremov TV", AzTV HD
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-http://109.205.166.68/server124/aztv/index3.m3u8?e=1676581573&st=AzGSZjk1DpXY1SLc1m4OvA
+https://stream8.cinerama.uz/1455/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="IctimaiTV.az@SD" group-title="Eli Meherremov TV", Ictimai TV 
 https://live.itv.az/itv.m3u8
 #EXTINF:-1 tvg-name="Arb.az" group-title="Eli Meherremov TV", ARB TV 
@@ -119,11 +119,6 @@ http://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e2ee6
 https://streams.uzunmuhalefet.com/stream/dfe0f95a-70ae-418b-b4e1-c9d63515edab.m3u8
 #EXTINF:-1 group-title="Eli Meherremov TV" tvg-logo="https://assets.uzunmuhalefet.com/logos/789232b7-b727-4adf-a6e9-017b4e11606b.png" tvg-url="https://www.minikago.com.tr/" tvg-id="MinikaGo.tr",Minika Go
 
-
-
-
-#EXTINF:-1 tvg-id="AzTV.az@SD",Az TV
-https://stream8.cinerama.uz/1455/tracks-v1a1/mono.m3u8
 
 
 
