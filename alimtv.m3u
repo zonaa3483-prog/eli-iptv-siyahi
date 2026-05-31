@@ -138,63 +138,6 @@ http://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e2ee6
 
 
 
-
-
-
-AZERBAYCAN TV
-#EXTM3U
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-#EXTINF:-1 tvg-id="AzTV" group-title="Eli Meherremov TV", AzTV Canlı
-https://str.yodacdn.net/azertv/video.m3u8
-#EXTINF:-1 tvg-id="IctimaiTV.az@SD" group-title="Eli Meherremov TV", İctimai TV Canlı
-https://str.yodacdn.net/ictimaitv/video.m3u8
-#EXTINF:-1 tvg-name="Arb.az" group-title="Eli Meherremov TV", ARB TV Canlı
-https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/arb.m3u8
-#EXTINF:-1 group-title="Eli Meherremov TV", Xəzər TV Canlı 
-https://raw.githubusercontent.com/fraudiay79/strm/refs/heads/main/platforms/links/az/xezer-tv.m3u8
-#EXTINF:-1 group-title="Eli Meherremov TV", Azad TV  
-https://str.yodacdn.net/atv/playlist.m3u8
-#EXTINF:-1 tvg-name="CBCSPORT.az" group-title="Eli Meherremov TV", CBC Sport Canlı
-https://str1.yodacdn.net/cbc/video.m3u8
-#EXTINF:-1 tvg-name="SPACETV.az" group-title="Eli Meherremov TV", Space TV Canlı
-https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/space-tv.m3u8
-#EXTINF:-1 group-title="Eli Meherremov TV", Mədəniyyət TV Canlı
-https://str.yodacdn.net/medeniyyettele/playlist.m3u8
-#EXTINF:-1 group-title="Eli Meherremov TV", İdman TV Canlı 
-https://str2.yodacdn.net/idmantele/tracks-v1a1/mono.ts.m3u8?token=eyJpcCI6IjQ2LjIyLjIzNy4xOTkiLCJ1YSI6Ik1vemlsbGEvNS4wIChMaW5
-#EXTINF:-1 group-title="Eli Meherremov TV", Real TV Canlı
-https://str.yodacdn.net/real/tracks-v1a1/mono.ts.m3u8?
-#EXTINF:-1 tvg-name="DUNYATV.az" group-title="Eli Meherremov TV", Dünya TV Canlı
-https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/dunya-tv.m3u8
-#EXTINF:-1 group-title="Eli Meherremov TV", Baku TV Canlı
-https://rtmp.baku.tv/hls/bakutv.m3u8
-#EXTINF:-1 tvg-id="ARB24.az@SD" group-title="Eli Meherremov TV", ARB 24 Canlı
-https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/arb-24.m3u8
-#EXTINF:-1 tvg-name="ARBGUNES.az" group-title="Eli Meherremov TV", ARB Günəş Canlı 
-https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/arb-gunes.m3u8
-#EXTINF:-1 tvg-name="AzstarTV.az" group-title="Eli Meherremov TV", Azstar TV Canlı
-https://live.livestreamtv.ca/azstar/amlst:azstar/playlist.m3u8
-#EXTINF:-1 tvg-name="ELTV.az" group-title="Eli Meherremov TV", EL TV Canlı
-http://85.132.53.162:1935/live/eltv/playlist.m3u8
-#EXTINF:-1 tvg-name="KANALSTV.az" group-title="Eli Meherremov TV", Kanal S TV Canlı
-https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/kanal-s.m3u8
-#EXTINF:-1 tvg-id="KapazTV.az@SD" group-title="Eli Meherremov TV", Kəpəz TV Canlı
-http://85.132.78.122:8050/hls/stream/index.m3u8
-#EXTINF:-1 tvg-id="TMB.tr@SD" group-title="Eli Meherremov TV", TMB TV Canlı
-https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/tmb-azerbaycan.m3u8
-#EXTINF:-1 group-title="Eli Meherremov TV", APA TV Canlı 
-https://str.yodacdn.net/apatv/playlist.m3u8
-#EXTINF:-1 group-title="Eli Meherremov TV", Muz TV Canlı
-https://str.yodacdn.net/mtvaz/playlist.m3u8
-#EXTINF:-1 group-title="Eli Meherremov TV", KANAL 12 Canlı
-https://live.artidijitalmedya.com/artidijital_kanal12/kanal12/playlist.m3u8
-#EXTINF:-1 tvg-name="VIPTV.az" group-title="Eli Meherremov TV", VIP TV 
-https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/vip.m3u8
-#EXTINF:-1 group-title="Eli Meherremov TV", Naxçıvan TV Canlı
-https://str1.yodacdn.net/ntv/video.m3u8
-
-
-
 Eli Meherremov Music
 #EXTM3U
 #EXTINF:-1 group-title="Eli Meherremov Music",Əli Məhərrəmov - Qaranlıq Şəhər 2026
