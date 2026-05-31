@@ -57,6 +57,12 @@ https://str.yodacdn.net/kanal35/index.m3u8
 https://str.yodacdn.net/qafkaz/video.m3u8
 #EXTINF:-1 group-title="Eli Meherremov TV", Vilayet TV Canlı
 https://nl.livekadeh.com/hls2/vilayet.m3u8
+#EXTINF:-1 group-title="Eli Meherremov TV", Günaz TV Canlı
+tv.gunaz.tv/hls/live.m3u8
+#EXTINF:-1 group-title="Eli Meherremov TV", Səhiyyə TV Canlı
+tvkaista.net/stream-forwarder/get.php?x=SehiyyeTV
+
+
 
 
 
@@ -127,8 +133,6 @@ https://ajansplay.com:5443/LiveApp/streams/tv48.m3u8
 https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e2aa8acf44_1/playlist.m3u8
 #EXTINF:-1 tvg-name="NR1 FASHION ONE" group-title="Eli Meherremov TV", NR1 FASHION ONE 
 http://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e2ee6997cb_1/playlist.m3u8
-
-
 
 
 
