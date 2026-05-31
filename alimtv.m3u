@@ -57,9 +57,9 @@ https://str.yodacdn.net/kanal35/index.m3u8
 https://str.yodacdn.net/qafkaz/video.m3u8
 #EXTINF:-1 group-title="Eli Meherremov TV", Vilayet TV Canlı
 https://nl.livekadeh.com/hls2/vilayet.m3u8
-#EXTINF:-1 group-title="Eli Meherremov TV",Alvin TV
+#EXTINF:-1 group-title="Eli Meherremov TV",Alvin Canlı TV
 https://cdn10-alvinchannel.yayin.com.tr/alvinchannel/alvinchannel/playlist.m3u8
-#EXTINF:-1 group-title="Eli Meherremov TV",FTV HD
+#EXTINF:-1 group-title="Eli Meherremov TV",FTV Canlı TV HD
 https://stream.ftv.az/live/ftv.m3u8
 
 
@@ -134,79 +134,14 @@ https://ajansplay.com:5443/LiveApp/streams/tv48.m3u8
 https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e2aa8acf44_1/playlist.m3u8
 #EXTINF:-1 tvg-name="NR1 FASHION ONE" group-title="Eli Meherremov TV", NR1 FASHION ONE 
 http://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e2ee6997cb_1/playlist.m3u8
-#EXTINF:-1 "group-title="Eli Meherremov TV", Kanal D TV
-https://demiroren.daioncdn.net/kanald/kanald.m3u8
-
-
-
-
-AZƏRBAYCAN RADİO KANALLARI
 #EXTM3U
-#EXTINF:-1 tvg-logo="..." group-title="Azərbaycan Radio",Yurd FM 105.5
-https://restreamer.livetv.az/yurdfm.index.m3u8
+#EXTINF:-1 tvg-name="Cartoon Network" tvg-logo="https://canlitv.com/kanal/logo/11233.jpg" group-title="Çocuk",Cartoon Network
+https://yayin2.canlitv.fun/live/cartoon-network.stream/playlist.m3u8?hash=49afbb92121f4cfe824dab5dcd124dbf
 
-#EXTINF:-1 tvg-logo="..." group-title="Azərbaycan Radio",Media FM
-https://restreamer.livetv.az/mediafm.index.m3u8
 
-#EXTINF:-1 group-title="Azərbaycan Radio",Media Jazz
-https://restreamer.livetv.az/mediajazz.index.m3u8
 
-#EXTINF:-1 group-title="Azərbaycan Radio",Media Rock
-https://restreamer.livetv.az/mediarock.index.m3u8
 
-#EXTINF:-1 group-title="Azərbaycan Radio",Media Relax
-https://restreamer.livetv.az/mediarelax.index.m3u8
 
-#EXTINF:-1 group-title="Azərbaycan Radio",İctimai Radio
-https://stream.itv.az/rtmp:/radio/playlist.m3u8
-
-#EXTINF:-1 group-title="Azərbaycan Radio",ATV 106.3 FM
-https://audiostr.atv.az/106.3fm
-
-#EXTINF:-1 group-title="Azərbaycan Radio",Baku Retro FM
-https://stream.bakuradioalliance.az/retrofm
-
-#EXTINF:-1 group-title="Azərbaycan Radio",Radio Enerji 101.1 FM
-https://icecast.livetv.az/antennfm
-
-#EXTINF:-1 group-title="Azərbaycan Radio",Xezer 103 FM
-https://s40.myradiostream.com/22546/listen.mp3
-
-#EXTINF:-1 group-title="Azərbaycan Radio",Araz 103.3 FM
-http://s14.myradiostream.com:30454/listen.mp3
-
-#EXTINF:-1 group-title="Azərbaycan Radio",Radio TMB 100.5
-https://s39.myradiostream.com/:5458/listen.mp3
-
-#EXTINF:-1 group-title="Azərbaycan Radio",AVTO FM
-https://live.dinle.az/avtofm
-
-#EXTINF:-1 group-title="Azərbaycan Radio",Day.Az Radio
-https://radio.day.az:9443/128m
-
-#EXTINF:-1 group-title="Azərbaycan Radio",Kəpəz FM
-http://85.132.78.122:3344/now
-
-#EXTINF:-1 group-title="Azərbaycan Radio",NAZ Radio
-https://s2.myradiostream.com/5286/listen.mp3
-
-#EXTINF:-1 group-title="Azərbaycan Radio",Business Radio BOSS AZ
-https://myradio24.org/bosscomaz
-
-#EXTINF:-1 group-title="Azərbaycan Radio",Radio YSF
-https://icecast.livetv.az/yusif
-
-#EXTINF:-1 group-title="Azərbaycan Radio",Anti Radio
-https://stream.antiradio.net/radio/8000/web
-
-#EXTINF:-1 group-title="Azərbaycan Radio",Sağlam Radio
-https://s24.myradiostream.com/:17446/listen.mp3
-
-#EXTINF:-1 group-title="Azərbaycan Radio",Ağdam Radio
-https://a2.asurahosting.com:6650/radio.mp3
-
-#EXTINF:-1 group-title="Azərbaycan Radio",AutoLife Azerbaijan
-https://radio.autoliferadio.com:8005/radio
 
 
 
