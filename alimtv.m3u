@@ -55,6 +55,11 @@ https://str.yodacdn.net/biznestv/video.m3u8
 https://str.yodacdn.net/kanal35/index.m3u8
 #EXTINF:-1 group-title="Eli Meherremov TV", Qafqaz TV Canlı
 https://str.yodacdn.net/qafkaz/video.m3u8
+#EXTINF:-1 group-title="Eli Meherremov TV", Qafqaz TV Canlı
+https://nl.livekadeh.com/hls2/vilayet.m3u8
+
+
+
 
 TÜRK KANALLARI
 #EXTINF:-1 group-title="Eli Meherremov TV", A2
