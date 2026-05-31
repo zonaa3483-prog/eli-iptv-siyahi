@@ -57,12 +57,12 @@ https://str.yodacdn.net/kanal35/index.m3u8
 https://str.yodacdn.net/qafkaz/video.m3u8
 #EXTINF:-1 group-title="Eli Meherremov TV", Vilayet TV Canlı
 https://nl.livekadeh.com/hls2/vilayet.m3u8
-#EXTINF:-1 group-title="Eli Meherremov TV", Günaz TV Canlı
-https://tv.gunaz.tv/hls/live.m3u8
-#EXTINF:-1 group-title="Eli Meherremov TV", Səhiyyə TV Canlı
-https://tvkaista.net/stream-forwarder/get.php?x=SehiyyeTV
-#EXTINF:0 tvg-country="AZ" tvg-logo="" group-title="Eli Meherremov TV",QƏBƏLƏ TV
-https://qebele.tv/live/stream/index.m3u8
+#EXTINF:-1 group-title="Eli Meherremov TV",Alvin TV
+https://cdn10-alvinchannel.yayin.com.tr/alvinchannel/alvinchannel/playlist.m3u8
+#EXTINF:-1 group-title="Eli Meherremov TV",FTV HD
+https://stream.ftv.az/live/ftv.m3u8
+
+
 
 
 
