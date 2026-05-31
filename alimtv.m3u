@@ -58,9 +58,9 @@ https://str.yodacdn.net/qafkaz/video.m3u8
 #EXTINF:-1 group-title="Eli Meherremov TV", Vilayet TV Canlı
 https://nl.livekadeh.com/hls2/vilayet.m3u8
 #EXTINF:-1 group-title="Eli Meherremov TV", Günaz TV Canlı
-tv.gunaz.tv/hls/live.m3u8
+https://tv.gunaz.tv/hls/live.m3u8
 #EXTINF:-1 group-title="Eli Meherremov TV", Səhiyyə TV Canlı
-tvkaista.net/stream-forwarder/get.php?x=SehiyyeTV
+https://tvkaista.net/stream-forwarder/get.php?x=SehiyyeTV
 
 
 
