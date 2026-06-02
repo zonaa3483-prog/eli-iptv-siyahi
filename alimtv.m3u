@@ -135,7 +135,7 @@ https://live.artidijitalmedya.com/artidijital_tv41/tv41/playlist.m3u8
 https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e2aa8acf44_1/playlist.m3u8
 #EXTINF:-1 tvg-name="NR1 FASHION ONE" group-title="Eli Meherremov TV", NR1 FASHION ONE 
 http://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e2ee6997cb_1/playlist.m3u8
-tvg-url="https://www.nowtv.com.tr/" tvg-id="NOWTV.tr",NOW TV2
+#EXTINF:-1 group-title="Eli Meherremov TV", tvg-url="https://www.nowtv.com.tr/" tvg-id="NOWTV.tr",NOW TV2
 https://streams.uzunmuhalefet.com/stream/f9368c57-16e5-44a2-a559-46377a476b04.m3u8
 
 
