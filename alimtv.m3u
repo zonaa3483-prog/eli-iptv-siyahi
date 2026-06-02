@@ -135,12 +135,10 @@ https://live.artidijitalmedya.com/artidijital_tv41/tv41/playlist.m3u8
 https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e2aa8acf44_1/playlist.m3u8
 #EXTINF:-1 tvg-name="NR1 FASHION ONE" group-title="Eli Meherremov TV", NR1 FASHION ONE 
 http://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e2ee6997cb_1/playlist.m3u8
-#EXTINF:-1 tvg-id="MinikaCocuk.tr@SD", group-title="Eli Meherremov TV" Minika Cocuk (480p)
-https://tgn.bozztv.com/dvrfl05/gin-minikacocuk/index.m3u8
-#EXTINF:-1 tvg-id="MinikaGo.tr@SD", group-title="Eli Meherremov TV" Minika Go (480p)
-https://tgn.bozztv.com/dvrfl05/gin-minikago/index.m3u8
-#EXTINF:-1 tvg-id="NOWTV.tr@SD",group-title="Eli Meherremov TV" NOW TV 1
-http://116.202.238.88/FOXTV_TR/index.m3u8
+#EXTINF:-1 tvg-name="ATV CINEMA.az" group-title="AZERBAYCAN YAYINLAR",ATV Cinema AZ
+http://ce3b68a7.kazaktelekom.com/iptv/D4RBLXPNVWMY54/2120/index.m3u8
+#EXTINF:-1 tvg-name="ATV VIVACE.az" group-title="AZERBAYCAN YAYINLAR",ATV Vivace AZ
+http://ce3b68a7.kazaktelekom.com/iptv/D4RBLXPNVWMY54/2120/index.m3u8
 
 
 
