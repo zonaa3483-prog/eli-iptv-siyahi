@@ -135,8 +135,12 @@ https://live.artidijitalmedya.com/artidijital_tv41/tv41/playlist.m3u8
 https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e2aa8acf44_1/playlist.m3u8
 #EXTINF:-1 tvg-name="NR1 FASHION ONE" group-title="Eli Meherremov TV", NR1 FASHION ONE 
 http://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e2ee6997cb_1/playlist.m3u8
-#EXTINF:-1 group-title="Eli Meherremov TV", tvg-url="https://www.nowtv.com.tr/" tvg-id="NOWTV.tr",NOW TV2
-https://streams.uzunmuhalefet.com/stream/f9368c57-16e5-44a2-a559-46377a476b04.m3u8
+#EXTINF:-1 group-title="Çocuk" tvg-logo="https://assets.uzunmuhalefet.com/logos/98687328-412c-452d-a7ac-71fbbc329b5e.png" tvg-url="https://eba.gov.tr/" tvg-id="TRTEBA.tr",TRT EBA
+https://streams.uzunmuhalefet.com/stream/3cad8cd6-f7b5-4a71-98ea-586e50109ca0.m3u8
+#EXTINF:-1 group-title="Çocuk" tvg-logo="https://assets.uzunmuhalefet.com/logos/7be5925e-181a-4c4c-96c0-9cd4ec14caea.png" tvg-url="https://www.minikacocuk.com.tr/" tvg-id="MinikaCocuk.tr",Minika Çocuk
+https://streams.uzunmuhalefet.com/stream/507ebfe3-0c78-4804-b3be-637e9b45f5a0.m3u8
+#EXTINF:-1 group-title="Çocuk" tvg-logo="https://assets.uzunmuhalefet.com/logos/789232b7-b727-4adf-a6e9-017b4e11606b.png" tvg-url="https://www.minikago.com.tr/" tvg-id="MinikaGo.tr",Minika Go
+https://streams.uzunmuhalefet.com/stream/d22a7171-68af-48ad-bd70-b2b6912fcdec.m3u8
 
 
 
