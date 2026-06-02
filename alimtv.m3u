@@ -131,15 +131,12 @@ https://tv-trtdiyanetcocuk.medya.trt.com.tr/master_720.m3u8
 https://live.artidijitalmedya.com/artidijital_kanalplus/kanalplus/mpeg/playlist.m3u8
 #EXTINF:-1 group-title="Eli Meherremov TV", TV 41  
 https://live.artidijitalmedya.com/artidijital_tv41/tv41/playlist.m3u8
-#EXTINF:-1 group-title="Eli Meherremov TV", TV 48  
-https://ajansplay.com:5443/LiveApp/streams/tv48.m3u8
 #EXTINF:-1 tvg-name="Number 1 Dance" tvg-id="Number1Dance.tr" tvg-logo="https://i.ibb.co/kXFSFTN/nr1-dance.png" group-title="Eli Meherremov TV", NR1 DANCE 
 https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e2aa8acf44_1/playlist.m3u8
 #EXTINF:-1 tvg-name="NR1 FASHION ONE" group-title="Eli Meherremov TV", NR1 FASHION ONE 
 http://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e2ee6997cb_1/playlist.m3u8
-#EXTINF:-1 tvg-id="Now.tr" tvg-logo="http://assets.tvcdn.net/80eb8816-1855-41f5-9002-7a05cc93fe4f.png" group-title="Ulusal",Now TV 2
-https://tv-trtbelgesel.medya.trt.com.tr/master.m3u8
-
+#EXTINF:-1 tvg-id="CartoonNW.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/512px-Cartoon_Network_2010_logo.svg.png" group-title="Cocuk",Cartoon Network
+https://tv.arectv31.sbs/live/cartoonnetwork.m3u8
 
 
 
