@@ -140,31 +140,6 @@ http://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e2ee6
 
 
 
-Azərbaycan Radio Kanalları
-#EXTM3U
-#EXTINF:-1 group-title="Eli Meherremov Radio",Naz FM
-https://s2.myradiostream.com/5286/listen.mp3
-#EXTINF:-1 group-title="Eli Meherremov Radio",Ağdam FM
-https://a2.asurahosting.com:6650/radio.mp3
-#EXTINF:-1 group-title="Eli Meherremov Radio",TMB 100.5 FM
-https://s39.myradiostream.com/:5458/listen.mp3
-#EXTINF:-1 group-title="Eli Meherremov Radio",Xəzər FM
-https://s40.myradiostream.com/22546/listen.mp3
-#EXTINF:-1 group-title="Eli Meherremov Radio",Sağlam FM
-https://a2.asurahosting.com:6650/radio.mp3
-#EXTINF:-1 group-title="Eli Meherremov Radio",Sən Günəşsən FM
-https://a5.asurahosting.com:6560/radio.mp3
-#EXTINF:-1 group-title="Eli Meherremov Radio",Uşaqlar FM
-https://a2.asurahosting.com:7660/radio.mp3
-#EXTINF:-1 group-title="Eli Meherremov Radio",90 FM
-https://stream.itv.az/rtmp:/radio/playlist.m3u8
-
-
-
-
-
-
-
 
 
 
