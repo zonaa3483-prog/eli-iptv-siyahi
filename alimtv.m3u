@@ -135,8 +135,11 @@ https://live.artidijitalmedya.com/artidijital_tv41/tv41/playlist.m3u8
 https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e2aa8acf44_1/playlist.m3u8
 #EXTINF:-1 tvg-name="NR1 FASHION ONE" group-title="Eli Meherremov TV", NR1 FASHION ONE 
 http://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e2ee6997cb_1/playlist.m3u8
-#EXTINF:-1 tvg-id="ATV.tr" tvg-name="ATV",ATV23
-http://116.202.238.88/ATV_TR/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-id="ATV.tr@SD",ATV (360p)
+http://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_360p.m3u8
+
+
+
 
 
 
@@ -178,14 +181,6 @@ https://ia801800.us.archive.org/18/items/li-mhrrmov-ata-720-p-hd/%C6%8Fli%20M%C9
 https://ia902809.us.archive.org/17/items/li-mhrrmov-ad-gunu-720-p-hd/%C6%8Fli%20M%C9%99h%C9%99rr%C9%99mov%20-%20Ad%20g%C3%BCn%C3%BC%28720P_HD%29.ia.mp4
 #EXTINF:-1 group-title="Eli Meherremov Music",Əli Məhərrəmov - Mutluluklar sana
 https://ia600504.us.archive.org/28/items/li-mhrrmov-mutluluklar-sana-720-p-hd/%C6%8Fli%20M%C9%99h%C9%99rr%C9%99mov%20-%20Mutluluklar%20sana%28720P_HD%29.mp4
-
-
-
-
-
-
-
-
 
 
 
