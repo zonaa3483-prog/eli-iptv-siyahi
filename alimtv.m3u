@@ -135,8 +135,8 @@ https://live.artidijitalmedya.com/artidijital_tv41/tv41/playlist.m3u8
 https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e2aa8acf44_1/playlist.m3u8
 #EXTINF:-1 tvg-name="NR1 FASHION ONE" group-title="Eli Meherremov TV", NR1 FASHION ONE 
 http://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e2ee6997cb_1/playlist.m3u8
-#EXTINF:-1,İCTİMAİ TV 235
-http://erlyvideo.izone.az:80/ictimaitv/mono.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Azerbaijani" tvg-country="AZ", Ictimai TV HD
+http://streams.livetv.az/azerbaijan/ictimai_stream2/playlist.m3u8?checkedby:iptvcat.com
 
 
 
