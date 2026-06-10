@@ -135,10 +135,8 @@ https://live.artidijitalmedya.com/artidijital_tv41/tv41/playlist.m3u8
 https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e2aa8acf44_1/playlist.m3u8
 #EXTINF:-1 tvg-name="NR1 FASHION ONE" group-title="Eli Meherremov TV", NR1 FASHION ONE 
 http://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e2ee6997cb_1/playlist.m3u8
-#EXTINF:1 tvg-id="ATVTurkiye.tr" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/0d3f32ba-3304-4397-b6e5-116d482b0731.png" group-title="Ulusal",atv
-https://trkvz-live.daioncdn.net/atv/atv_1080p.m3u8
-
-
+#EXTINF:-1 group-title="Eli Meherremov TV", iv
+http://109.205.166.68/server124/ictimai_tv/index.m3u8
 
 
 
