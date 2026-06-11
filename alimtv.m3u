@@ -63,6 +63,8 @@ https://cdn10-alvinchannel.yayin.com.tr/alvinchannel/alvinchannel/playlist.m3u8
 https://stream.ftv.az/live/ftv.m3u8
 
 
+
+
 TÜRK KANALLARI 
 #EXTINF:-1 group-title="Eli Meherremov TV", A2
 https://streams.uzunmuhalefet.com/stream/cd13382a-cd53-46b1-964a-928bdf4e63e7.m3u8
@@ -129,8 +131,9 @@ https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e2aa
 http://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e2ee6997cb_1/playlist.m3u8
 #EXTINF:-1 tvg-name="Kanal15" group-title="Eli Meherremov TV",Kanal 15 TV
 https://live.artidijitalmedya.com/artidijital_kanal15/kanal15/playlist.m3u8
-#EXTINF:-1 group-title="Eli Meherremov TV", Recep İvedik 
-http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/61192
+#EXTINF:-1 group-title="Eli Meherremov TV", TV
+
+
 
 
 
@@ -177,6 +180,7 @@ https://ia801800.us.archive.org/18/items/li-mhrrmov-ata-720-p-hd/%C6%8Fli%20M%C9
 https://ia902809.us.archive.org/17/items/li-mhrrmov-ad-gunu-720-p-hd/%C6%8Fli%20M%C9%99h%C9%99rr%C9%99mov%20-%20Ad%20g%C3%BCn%C3%BC%28720P_HD%29.ia.mp4
 #EXTINF:-1 group-title="Eli Meherremov Music",Əli Məhərrəmov - Mutluluklar sana
 https://ia600504.us.archive.org/28/items/li-mhrrmov-mutluluklar-sana-720-p-hd/%C6%8Fli%20M%C9%99h%C9%99rr%C9%99mov%20-%20Mutluluklar%20sana%28720P_HD%29.mp4
+
 
 
 
@@ -1504,6 +1508,10 @@ https://ia600802.us.archive.org/9/items/esref-ruya-36.-bolum-720-p-hd/E%C5%9Fref
 https://ia902808.us.archive.org/3/items/esref-ruya-37.-bolum-720-p-hd/E%C5%9Fref%20R%C3%BCya%2037.%20B%C3%B6l%C3%BCm%28720P_HD%29.mp4
 #EXTINF:-1 tvg-name="Eşref Rüya 38. Bölüm" group-title="Eşref Rüya",Eşref Rüya - 38. Bölüm
 https://ia600608.us.archive.org/28/items/esref-ruya-38.-bolum-720-p-hd/E%C5%9Fref%20R%C3%BCya%2038.%20B%C3%B6l%C3%BCm%28720P_HD%29.mp4
+#EXTINF:-1 tvg-name="Eşref Rüya 38. Bölüm" group-title="Eşref Rüya",Eşref Rüya - 39. Bölüm
+https://ia800409.us.archive.org/9/items/esref-ruya-39.-bolum-720-p-hd/E%C5%9Fref%20R%C3%BCya%2039.%20B%C3%B6l%C3%BCm%28720P_HD%29.ia.mp4
+
+
 
 
 
