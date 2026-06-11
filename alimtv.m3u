@@ -129,9 +129,8 @@ https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e2aa
 http://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e2ee6997cb_1/playlist.m3u8
 #EXTINF:-1 tvg-name="Kanal15" group-title="Eli Meherremov TV",Kanal 15 TV
 https://live.artidijitalmedya.com/artidijital_kanal15/kanal15/playlist.m3u8
-#EXTINF:-1 group-title="Eli Meherremov TV",Belgesel
-https://tv-trtbelgesel.medya.trt.com.tr/master.m3u8
-
+#EXTINF:-1 group-title="Eli Meherremov TV", Belgesel 
+https://tv-trtbelgesel-dai.medya.trt.com.tr/master.m3u8
 
 
 
