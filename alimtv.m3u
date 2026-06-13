@@ -1,6 +1,6 @@
 AZERBAYCAN TV
 #EXTM3U
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36 OTT-Play/1.1.24"
+#EXTVLCOPT:Mozilla/5.0 (SmartHub; SmartTV; U; Linux/SmartTV) AppleWebKit/538.1 (KHTML, like Gecko) Version/5.0 OTT-Play/1.0 Safari/538.1
 #EXTINF:-1 tvg-id="AzTV" group-title="Eli Meherremov TV", AzTV Canlı
 https://str.yodacdn.net/azertv/video.m3u8
 #EXTINF:-1 tvg-id="IctimaiTV.az@SD" group-title="Eli Meherremov TV", İctimai TV Canlı
