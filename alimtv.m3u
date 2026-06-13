@@ -1,6 +1,6 @@
 AZERBAYCAN TV
 #EXTM3U
-#EXTVLCOPT:Mozilla/5.0 (SmartHub; SmartTV; U; Linux/SmartTV) AppleWebKit/538.1 (KHTML, like Gecko) Version/5.0 OTT-Play/1.0 Safari/538.1
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36 OTT-Play/1.1.24"
 #EXTINF:-1 tvg-id="AzTV" group-title="Eli Meherremov TV", AzTV Canlı
 https://str.yodacdn.net/azertv/video.m3u8
 #EXTINF:-1 tvg-id="IctimaiTV.az@SD" group-title="Eli Meherremov TV", İctimai TV Canlı
@@ -67,8 +67,10 @@ https://stream.ftv.az/live/ftv.m3u8
 
 TÜRK KANALLARI
 #EXTM3U
-#EXTVLCOPT:Mozilla/5.0 (SmartHub; SmartTV; U; Linux/SmartTV) AppleWebKit/538.1 (KHTML, like Gecko) Version/5.0 OTT-Play/1.0 Safari/538.1
 #EXTINF:-1 group-title="Eli Meherremov TV", A2
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36 OTT-Play/1.1.24"
+#EXTVLCOPT:http-referer="https://www.a2tv.com.tr/"
+#EXTVLCOPT:http-origin="https://www.a2tv.com.tr"
 https://streams.uzunmuhalefet.com/stream/cd13382a-cd53-46b1-964a-928bdf4e63e7.m3u8
 #EXTINF:-1 tvg-id="ATV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2e/Atv_logo.png" group-title="Eli Meherremov TV", ATV 
 http://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_360p.m3u8
