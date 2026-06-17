@@ -25,15 +25,15 @@ https://str.yodacdn.net/real/tracks-v1a1/mono.ts.m3u8?
 https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/dunya-tv.m3u8
 #EXTINF:-1 group-title="Eli Meherremov TV", Baku TV Canlı
 https://rtmp.baku.tv/hls/bakutv.m3u8
-#EXTINF:-1 tvg-id="ARB24.az@SD" group-title="Eli Meherremov TV", ARB 24 Canlı
+#EXTINF:-1 tvg-id="ARB24.az@SD" group-title="Eli Meherremov TV", ARB 24 Canlı TV
 https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/arb-24.m3u8
-#EXTINF:-1 tvg-name="ARBGUNES.az" group-title="Eli Meherremov TV", ARB Günəş Canlı 
+#EXTINF:-1 tvg-name="ARBGUNES.az" group-title="Eli Meherremov TV", ARB Günəş Canlı TV
 https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/arb-gunes.m3u8
-#EXTINF:-1 tvg-name="AzstarTV.az" group-title="Eli Meherremov TV", Azstar TV Canlı
+#EXTINF:-1 tvg-name="AzstarTV.az" group-title="Eli Meherremov TV", Azstar Canlı TV
 https://live.livestreamtv.ca/azstar/amlst:azstar/playlist.m3u8
 #EXTINF:-1 tvg-name="ELTV.az" group-title="Eli Meherremov TV", EL TV Canlı
 http://85.132.53.162:1935/live/eltv/playlist.m3u8
-#EXTINF:-1 tvg-name="KANALSTV.az" group-title="Eli Meherremov TV", Kanal S TV Canlı
+#EXTINF:-1 tvg-name="KANALSTV.az" group-title="Eli Meherremov TV", Kanal-S TV Canlı
 https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/kanal-s.m3u8
 #EXTINF:-1 tvg-id="KapazTV.az@SD" group-title="Eli Meherremov TV", Kəpəz TV Canlı
 http://85.132.78.122:8050/hls/stream/index.m3u8
@@ -45,7 +45,7 @@ https://str.yodacdn.net/apatv/playlist.m3u8
 https://str.yodacdn.net/mtvaz/playlist.m3u8
 #EXTINF:-1 group-title="Eli Meherremov TV", KANAL 12 Canlı
 https://live.artidijitalmedya.com/artidijital_kanal12/kanal12/playlist.m3u8
-#EXTINF:-1 tvg-name="VIPTV.az" group-title="Eli Meherremov TV", VIP TV 
+#EXTINF:-1 tvg-name="VIPTV.az" group-title="Eli Meherremov TV", VIP TV Canlı
 https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/vip.m3u8
 #EXTINF:-1 group-title="Eli Meherremov TV", Naxçıvan TV Canlı
 https://str1.yodacdn.net/ntv/video.m3u8
@@ -144,9 +144,9 @@ https://live.artidijitalmedya.com/artidijital_kanal15/kanal15/playlist.m3u8
 
 Eli Meherremov Music
 #EXTM3U
-#EXTINF:-1 group-title="Eli Meherremov Music",Əli Məhərrəmov - Qaranlıq Şəhər 2026
+#EXTINF:-1 group-title="Eli Meherremov Music",Əli Məhərrəmov - Qaranlıq şəhər
 https://ia903106.us.archive.org/17/items/li-mhrrmov-qaranliq-shr-2026-720-p-hd/%C6%8Fli%20M%C9%99h%C9%99rr%C9%99mov%20-%20Qaranl%C4%B1q%20%C5%9E%C9%99h%C9%99r%202026%28720P_HD%29.ia.mp4
-#EXTINF:-1 group-title="Eli Meherremov Music",Əli Məhərrəmov - Ayrı Salıbdı
+#EXTINF:-1 group-title="Eli Meherremov Music",Əli Məhərrəmov - Ayrı salıbdı
 https://ia800508.us.archive.org/30/items/li-mhrrmov-ayri-salibdi-720-p-hd/%C6%8Fli%20M%C9%99h%C9%99rr%C9%99mov%20-%20Ayr%C4%B1%20Sal%C4%B1bd%C4%B1%28720P_HD%29.ia.mp4
 #EXTINF:-1 group-title="Eli Meherremov Music",Əli Məhərrəmov - Getmisən
 https://ia903107.us.archive.org/9/items/li-mhrrmov-getmisn-720-p-hd/%C6%8Fli%20M%C9%99h%C9%99rr%C9%99mov%20-%20Getmis%C9%99n%28720P_HD%29.ia.mp4
@@ -158,7 +158,7 @@ https://ia600801.us.archive.org/19/items/li-mhrrmov-unutmamisam-720-p-hd/%C6%8Fl
 https://ia801507.us.archive.org/22/items/li-mhrrmov-qlbim-720-p-hd/%C6%8Fli%20M%C9%99h%C9%99rr%C9%99mov%20-%20Q%C9%99lbim%28720P_HD%29.ia.mp4
 #EXTINF:-1 group-title="Eli Meherremov Music",Əli Məhərrəmov - Hardasan
 https://ia601604.us.archive.org/23/items/li-mhrrmov-hardasan-720-p-hd/%C6%8Fli%20M%C9%99h%C9%99rr%C9%99mov%20-%20Hardasan%28720P_HD%29.ia.mp4
-#EXTINF:-1 group-title="Eli Meherremov Music",Əli Məhərrəmov - Unutmadım Ki
+#EXTINF:-1 group-title="Eli Meherremov Music",Əli Məhərrəmov - Unutmadım ki
 https://ia601803.us.archive.org/6/items/li-mhrrmov-unutmadim-ki-720-p-hd/%C6%8Fli%20M%C9%99h%C9%99rr%C9%99mov%20-%20Unutmad%C4%B1m%20Ki%28720P_HD%29.mp4
 #EXTINF:-1 group-title="Eli Meherremov Music",Əli Məhərrəmov - Yadımda
 https://ia600908.us.archive.org/29/items/li-mhrrmov-yadimda-720-p-hd/%C6%8Fli%20M%C9%99h%C9%99rr%C9%99mov%20-%20Yad%C4%B1mda%28720P_HD%29.mp4
