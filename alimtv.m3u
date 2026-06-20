@@ -62,7 +62,6 @@ https://stream.ftv.az/live/ftv.m3u8
 
 
 
-
 TÜRK KANALLARI
 #EXTM3U
 #EXTINF:-1 group-title="Eli Meherremov TV", A2
@@ -136,12 +135,6 @@ https://live.artidijitalmedya.com/artidijital_kanal15/kanal15/playlist.m3u8
 
 
 
-
-
-
-
-
-
 Eli Meherremov Music
 #EXTM3U
 #EXTINF:-1 group-title="Eli Meherremov Music",Əli Məhərrəmov - Qaranlıq şəhər
@@ -180,8 +173,6 @@ https://ia801800.us.archive.org/18/items/li-mhrrmov-ata-720-p-hd/%C6%8Fli%20M%C9
 https://ia902809.us.archive.org/17/items/li-mhrrmov-ad-gunu-720-p-hd/%C6%8Fli%20M%C9%99h%C9%99rr%C9%99mov%20-%20Ad%20g%C3%BCn%C3%BC%28720P_HD%29.ia.mp4
 #EXTINF:-1 group-title="Eli Meherremov Music",Əli Məhərrəmov - Mutluluklar sana
 https://ia600504.us.archive.org/28/items/li-mhrrmov-mutluluklar-sana-720-p-hd/%C6%8Fli%20M%C9%99h%C9%99rr%C9%99mov%20-%20Mutluluklar%20sana%28720P_HD%29.mp4
-
-
 
 
 
@@ -901,16 +892,6 @@ https://ia600704.us.archive.org/4/items/kurtlar-vadisi-pusu-130.-bolum-yuksek-go
 
 
 
-
-
-
-
-
-
-
-
-
-
 Kertenkele Dizisi
 #EXTINF:-1 group-title="Kertenkele",Kertenkele - 1. Bölüm
 https://ia600705.us.archive.org/29/items/kertenkele-001-full-hd-1080p-720-p-hd/Kertenkele%20001%20FullHD%201080p%28720P_HD%29.mp4
@@ -1538,45 +1519,6 @@ https://ia903100.us.archive.org/23/items/esref-ruya-40.-bolum-720-p-hd/E%C5%9Fre
 
 
 
-YERALTI 
-#EXTINF:-1 group-title="Yeraltı",Yeraltı - 1. Bölüm
-https://ia601604.us.archive.org/25/items/yeralti-1.-bolum-720-p-hd/Yeralt%C4%B1%201.%20B%C3%B6l%C3%BCm%28720P_HD%29.mp4
-#EXTINF:-1 group-title="Yeraltı",Yeraltı - 2. Bölüm
-https://ia801909.us.archive.org/4/items/yeralti-2.-bolum-720-p-hd/Yeralt%C4%B1%202.%20B%C3%B6l%C3%BCm%28720P_HD%29.ia.mp4
-#EXTINF:-1 group-title="Yeraltı",Yeraltı - 3. Bölüm
-https://ia800709.us.archive.org/10/items/yeralti-3.-bolum-720-p-hd/Yeralt%C4%B1%203.%20B%C3%B6l%C3%BCm%28720P_HD%29.ia.mp4
-#EXTINF:-1 group-title="Yeraltı",Yeraltı - 4. Bölüm
-https://ia600604.us.archive.org/19/items/yeralti-4.-bolum-720-p-hd/Yeralt%C4%B1%204.%20B%C3%B6l%C3%BCm%28720P_HD%29.mp4
-#EXTINF:-1 group-title="Yeraltı",Yeraltı - 5. Bölüm
-https://ia600806.us.archive.org/19/items/yeralti-5.-bolum-720-p-hd/Yeralt%C4%B1%205.%20B%C3%B6l%C3%BCm%28720P_HD%29.mp4
-#EXTINF:-1 group-title="Yeraltı",Yeraltı - 6. Bölüm
-https://ia601407.us.archive.org/28/items/yeralti-6.-bolum-720-p-hd/Yeralt%C4%B1%206.%20B%C3%B6l%C3%BCm%28720P_HD%29.mp4
-#EXTINF:-1 group-title="Yeraltı",Yeraltı - 7. Bölüm
-https://ia803101.us.archive.org/7/items/yeralti-7.-bolum-720-p-hd/Yeralt%C4%B1%207.%20B%C3%B6l%C3%BCm%28720P_HD%29.ia.mp4
-#EXTINF:-1 group-title="Yeraltı",Yeraltı - 8. Bölüm
-https://ia600407.us.archive.org/22/items/yeralti-8.-bolum-720-p-hd/Yeralt%C4%B1%208.%20B%C3%B6l%C3%BCm%28720P_HD%29.ia.mp4
-#EXTINF:-1 group-title="Yeraltı",Yeraltı - 9. Bölüm
-https://ia600507.us.archive.org/5/items/yeralti-9.-bolum-720-p-hd/Yeralt%C4%B1%209.%20B%C3%B6l%C3%BCm%28720P_HD%29.ia.mp4
-#EXTINF:-1 group-title="Yeraltı",Yeraltı - 10. Bölüm
-https://ia903201.us.archive.org/31/items/yeralti-10.-bolum-720-p-hd/Yeralt%C4%B1%2010.%20B%C3%B6l%C3%BCm%28720P_HD%29.ia.mp4
-#EXTINF:-1 group-title="Yeraltı",Yeraltı - 11. Bölüm
-https://ia902900.us.archive.org/34/items/yeralti-11.-bolum-720-p-hd/Yeralt%C4%B1%2011.%20B%C3%B6l%C3%BCm%28720P_HD%29.ia.mp4
-#EXTINF:-1 group-title="Yeraltı",Yeraltı - 12. Bölüm
-https://ia800806.us.archive.org/33/items/yeralti-12.-bolum-720-p-hd/Yeralt%C4%B1%2012.%20B%C3%B6l%C3%BCm%28720P_HD%29.ia.mp4
-#EXTINF:-1 group-title="Yeraltı",Yeraltı - 13. Bölüm
-https://ia800101.us.archive.org/25/items/yeralti-13.-bolum-720-p-hd/Yeralt%C4%B1%2013.%20B%C3%B6l%C3%BCm%28720P_HD%29.ia.mp4
-#EXTINF:-1 group-title="Yeraltı",Yeraltı - 14. Bölüm
-https://ia800409.us.archive.org/33/items/yeralti-14.-bolum-720-p-hd/Yeralt%C4%B1%2014.%20B%C3%B6l%C3%BCm%28720P_HD%29.ia.mp4
-#EXTINF:-1 group-title="Yeraltı",Yeraltı - 15. Bölüm
-https://ia601407.us.archive.org/14/items/yeralti-15.-bolum-720-p-hd_202606/Yeralt%C4%B1%2015.%20B%C3%B6l%C3%BCm%28720P_HD%29.mp4
-#EXTINF:-1 group-title="Yeraltı",Yeraltı - 16. Bölüm Sezon Finalı
-https://ia902907.us.archive.org/1/items/yeralti-16.-bolum-sezon-fi-nali-720-p-hd/Yeralt%C4%B1%2016.%20B%C3%B6l%C3%BCm%20%28SEZON%20F%C4%B0NAL%C4%B0%29%28720P_HD%29.mp4
-
-
-
-ABİ
-
-
 
 Eşkiya Dünyaya Hükümdar Olmaz 
 #EXTINF:-1 group-title="Edho",Eşkiya Dünyaya Hükümdar Olmaz - 1. Bölüm
@@ -1782,11 +1724,6 @@ https://ia802900.us.archive.org/12/items/eskiya-dunyaya-hukumdar-olmaz-100.-bolu
 
 
 
-Ah nerede
-#EXTINF:-1 group-title="Ah nerede",Ah nerede Bölüm 1
-https://youtu.be/cjZ9OfYbksU
-#EXTINF:-1 group-title="Ah nerede",Ah nerede Bölüm 2
-https://youtu.be/FkEfzndj6uY
 
 
 
@@ -1796,6 +1733,85 @@ https://youtu.be/FkEfzndj6uY
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+YERALTI 
+#EXTINF:-1 group-title="Yeraltı",Yeraltı - 1. Bölüm
+https://ia601604.us.archive.org/25/items/yeralti-1.-bolum-720-p-hd/Yeralt%C4%B1%201.%20B%C3%B6l%C3%BCm%28720P_HD%29.mp4
+#EXTINF:-1 group-title="Yeraltı",Yeraltı - 2. Bölüm
+https://ia801909.us.archive.org/4/items/yeralti-2.-bolum-720-p-hd/Yeralt%C4%B1%202.%20B%C3%B6l%C3%BCm%28720P_HD%29.ia.mp4
+#EXTINF:-1 group-title="Yeraltı",Yeraltı - 3. Bölüm
+https://ia800709.us.archive.org/10/items/yeralti-3.-bolum-720-p-hd/Yeralt%C4%B1%203.%20B%C3%B6l%C3%BCm%28720P_HD%29.ia.mp4
+#EXTINF:-1 group-title="Yeraltı",Yeraltı - 4. Bölüm
+https://ia600604.us.archive.org/19/items/yeralti-4.-bolum-720-p-hd/Yeralt%C4%B1%204.%20B%C3%B6l%C3%BCm%28720P_HD%29.mp4
+#EXTINF:-1 group-title="Yeraltı",Yeraltı - 5. Bölüm
+https://ia600806.us.archive.org/19/items/yeralti-5.-bolum-720-p-hd/Yeralt%C4%B1%205.%20B%C3%B6l%C3%BCm%28720P_HD%29.mp4
+#EXTINF:-1 group-title="Yeraltı",Yeraltı - 6. Bölüm
+https://ia601407.us.archive.org/28/items/yeralti-6.-bolum-720-p-hd/Yeralt%C4%B1%206.%20B%C3%B6l%C3%BCm%28720P_HD%29.mp4
+#EXTINF:-1 group-title="Yeraltı",Yeraltı - 7. Bölüm
+https://ia803101.us.archive.org/7/items/yeralti-7.-bolum-720-p-hd/Yeralt%C4%B1%207.%20B%C3%B6l%C3%BCm%28720P_HD%29.ia.mp4
+#EXTINF:-1 group-title="Yeraltı",Yeraltı - 8. Bölüm
+https://ia600407.us.archive.org/22/items/yeralti-8.-bolum-720-p-hd/Yeralt%C4%B1%208.%20B%C3%B6l%C3%BCm%28720P_HD%29.ia.mp4
+#EXTINF:-1 group-title="Yeraltı",Yeraltı - 9. Bölüm
+https://ia600507.us.archive.org/5/items/yeralti-9.-bolum-720-p-hd/Yeralt%C4%B1%209.%20B%C3%B6l%C3%BCm%28720P_HD%29.ia.mp4
+#EXTINF:-1 group-title="Yeraltı",Yeraltı - 10. Bölüm
+https://ia903201.us.archive.org/31/items/yeralti-10.-bolum-720-p-hd/Yeralt%C4%B1%2010.%20B%C3%B6l%C3%BCm%28720P_HD%29.ia.mp4
+#EXTINF:-1 group-title="Yeraltı",Yeraltı - 11. Bölüm
+https://ia902900.us.archive.org/34/items/yeralti-11.-bolum-720-p-hd/Yeralt%C4%B1%2011.%20B%C3%B6l%C3%BCm%28720P_HD%29.ia.mp4
+#EXTINF:-1 group-title="Yeraltı",Yeraltı - 12. Bölüm
+https://ia800806.us.archive.org/33/items/yeralti-12.-bolum-720-p-hd/Yeralt%C4%B1%2012.%20B%C3%B6l%C3%BCm%28720P_HD%29.ia.mp4
+#EXTINF:-1 group-title="Yeraltı",Yeraltı - 13. Bölüm
+https://ia800101.us.archive.org/25/items/yeralti-13.-bolum-720-p-hd/Yeralt%C4%B1%2013.%20B%C3%B6l%C3%BCm%28720P_HD%29.ia.mp4
+#EXTINF:-1 group-title="Yeraltı",Yeraltı - 14. Bölüm
+https://ia800409.us.archive.org/33/items/yeralti-14.-bolum-720-p-hd/Yeralt%C4%B1%2014.%20B%C3%B6l%C3%BCm%28720P_HD%29.ia.mp4
+#EXTINF:-1 group-title="Yeraltı",Yeraltı - 15. Bölüm
+https://ia601407.us.archive.org/14/items/yeralti-15.-bolum-720-p-hd_202606/Yeralt%C4%B1%2015.%20B%C3%B6l%C3%BCm%28720P_HD%29.mp4
+#EXTINF:-1 group-title="Yeraltı",Yeraltı - 16. Bölüm Sezon Finalı
+https://ia902907.us.archive.org/1/items/yeralti-16.-bolum-sezon-fi-nali-720-p-hd/Yeralt%C4%B1%2016.%20B%C3%B6l%C3%BCm%20%28SEZON%20F%C4%B0NAL%C4%B0%29%28720P_HD%29.mp4
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ABİ
 
 
 
