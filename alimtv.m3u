@@ -136,278 +136,139 @@ https://live.artidijitalmedya.com/artidijital_kanal15/kanal15/playlist.m3u8
 
 RUSİYA KANALLARI
 #EXTM3U
-#EXTINF:-1 tvg-id="AutoPlus.ru@SD" group-title="Eli Meherremov TV",Auto Plus
+#EXTINF:-1 tvg-id="AutoPlus.ru@SD" group-title="Eli Meherremov TV",Auto Plus RUS
 https://stream8.cinerama.uz/1036/tracks-v1a1/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="Doctor.ru@SD" group-title="Eli Meherremov TV",Doctor (576i)
+#EXTINF:-1 tvg-id="Doctor.ru@SD" group-title="Eli Meherremov TV",Doctor RUS
 https://stream8.cinerama.uz/1409/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="FastFunBox.ru@SD" group-title="Eli Meherremov TV",Fast&FunBox (1080p)
+#EXTINF:-1 tvg-id="FastFunBox.ru@SD" group-title="Eli Meherremov TV",Fast & FunBox RUS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
 https://iptv.prosto.tv/ch120/index.m3u8
-#EXTINF:-1 tvg-id="GlazamiTurista.ru@SD" group-title="Eli Meherremov TV",Glazami Turista (576i)
+#EXTINF:-1 tvg-id="GlazamiTurista.ru@SD" group-title="Eli Meherremov TV",Glazami Turista RUS
 https://stream8.cinerama.uz/1423/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="GulliGirl.ru@SD" group-title="Eli Meherremov TV",Gulli Girl (720p)
+#EXTINF:-1 tvg-id="GulliGirl.ru@SD" group-title="Eli Meherremov TV",Gulli Girl RUS
 https://stream8.cinerama.uz/1445/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="IndiyskoyeKino.ru@SD" group-title="Eli Meherremov TV",Indiyskoye Kino
+#EXTINF:-1 tvg-id="IndiyskoyeKino.ru@SD" group-title="Eli Meherremov TV",Indiyskoye Kino RUS
 https://stream8.cinerama.uz/1060/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="InsaytTV.ru@4K" group-title="Eli Meherremov TV",Insayt TV (2160p)
+#EXTINF:-1 tvg-id="InsaytTV.ru@4K" group-title="Eli Meherremov TV",Insayt TV RUS
 https://stream8.cinerama.uz/1416/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="KinoHit.ru@SD" group-title="Eli Meherremov TV",KinoHit
+#EXTINF:-1 tvg-id="KinoHit.ru@SD" group-title="Eli Meherremov TV",KinoHit RUS
 https://stream8.cinerama.uz/1055/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="NTV.ru@SD" group-title="Eli Meherremov TV",NTV
+#EXTINF:-1 tvg-id="NTV.ru@SD" group-title="Eli Meherremov TV",NTV RUS
 https://stream8.cinerama.uz/1023/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="Ohotnikirybolov.ru@SD" group-title="Eli Meherremov TV",Ohotnik i rybolov (576i)
+#EXTINF:-1 tvg-id="Ohotnikirybolov.ru@SD" group-title="Eli Meherremov TV",Ohotnik i Rybolov RUS
 https://stream8.cinerama.uz/1413/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="Okhotairybalka.ru@SD" group-title="Eli Meherremov TV",Okhota i rybalka
+#EXTINF:-1 tvg-id="Okhotairybalka.ru@SD" group-title="Eli Meherremov TV",Okhota i Rybalka RUS
 https://stream8.cinerama.uz/1038/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="Retro.ru@SD" group-title="Eli Meherremov TV",Retro
+#EXTINF:-1 tvg-id="Retro.ru@SD" group-title="Eli Meherremov TV",Retro RUS
 https://stream8.cinerama.uz/1047/tracks-v1a1/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36 OPR/130.0.0.0 (Edition std-2)
-#EXTINF:-1 tvg-id="RUTV.ru@SD" group-title="Eli Meherremov TV",RU.TV
+#EXTINF:-1 tvg-id="RUTV.ru@SD" group-title="Eli Meherremov TV",RU TV RUS
 https://stream8.cinerama.uz/1202/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="Russia1.ru@SD" group-title="Eli Meherremov TV",Russia-1
+#EXTINF:-1 tvg-id="Russia1.ru@SD" group-title="Eli Meherremov TV",Russia-1 
 https://stream8.cinerama.uz/1020/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Russia24.ru@SD" group-title="Eli Meherremov TV",Russia-24
 https://stream8.cinerama.uz/1021/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="SochiLive.ru@HD" group-title="Eli Meherremov TV",Sochi Live HD (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="SochiLive.ru@HD" group-title="Eli Meherremov TV",Sochi Live HD RUS
 http://serv30.vintera.tv:8081/sochi/sochi_stream/playlist.m3u8
-#EXTINF:-1 tvg-id="T24.ru@SD" group-title="Eli Meherremov TV",T24
+#EXTINF:-1 tvg-id="T24.ru@SD" group-title="Eli Meherremov TV",T24 RUS
 https://stream8.cinerama.uz/1037/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="Telecafe.ru@SD" group-title="Eli Meherremov TV",Telecafe
+#EXTINF:-1 tvg-id="Telecafe.ru@SD" group-title="Eli Meherremov TV",Telecafe RUS
 https://stream8.cinerama.uz/1035/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="ZagorodnayaZhizn.ru@SD" group-title="Eli Meherremov TV",Zagorodnaya Zhizn
+#EXTINF:-1 tvg-id="ZagorodnayaZhizn.ru@SD" group-title="Eli Meherremov TV",Zagorodnaya Zhizn RUS
 https://stream8.cinerama.uz/1044/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="Zoopark.ru@SD" group-title="Eli Meherremov TV",Zoopark (576i)
+#EXTINF:-1 tvg-id="Zoopark.ru@SD" group-title="Eli Meherremov TV",Zoopark RUS
 https://stream8.cinerama.uz/1417/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="AISTTV.ru@SD" group-title="Eli Meherremov TV",Аист ТВ (1080p)
+#EXTINF:-1 tvg-id="AISTTV.ru@SD" group-title="Eli Meherremov TV",АYST ТV RUS
 http://live2-aisttv.cdnvideo.ru/aisttv2/aisttv.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="Aris24.ru@SD" group-title="Eli Meherremov TV",Арис 24 (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="Aris24.ru@SD" group-title="Eli Meherremov TV",АRİS 24 RUS
 http://serv25.vintera.tv:8081/test/aris/playlist.m3u8
-#EXTINF:-1 tvg-id="GuberniaSamara.ru@SD" group-title="Eli Meherremov TV",Губерния (Самара) (576p)
+#EXTINF:-1 tvg-id="GuberniaSamara.ru@SD" group-title="Eli Meherremov TV",Quberniya RUS
 http://live.guberniatv.cdnvideo.ru/guberniatv/guberniatv.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="Eurasia.ru@SD" group-title="Eli Meherremov TV",Евразия (Орск) (720p)
+#EXTINF:-1 tvg-id="Eurasia.ru@SD" group-title="Eli Meherremov TV",Yevraviziya RUS
 https://infochh.trkeurasia.ru/hlsinfoch/infochhd.m3u8
-#EXTINF:-1 tvg-id="Enisey.ru@SD" group-title="Eli Meherremov TV",Енисей (1080p) [Not 24/7]
+#EXTINF:-1 tvg-id="Enisey.ru@SD" group-title="Eli Meherremov TV",Yenisey RUS
 https://hls-eniseytv.cdnvideo.ru/eniseytv/stream1/playlist.m3u8
-#EXTINF:-1 tvg-id="Channel16.ru@SD" group-title="Eli Meherremov TV",К16 (Саров) (406p) [Not 24/7]
+#EXTINF:-1 tvg-id="Channel16.ru@SD" group-title="Eli Meherremov TV",К16 RUS
 http://serv25.vintera.tv:8081/test/k16/playlist.m3u8
-#EXTINF:-1 tvg-id="Crimea24.ru@SD" group-title="Eli Meherremov TV",Крым 24
+#EXTINF:-1 tvg-id="Crimea24.ru@SD" group-title="Eli Meherremov TV",KRIM 24
 https://cdn.1tvcrimea.ru/24tvcrimea.m3u8
-#EXTINF:-1 tvg-id="Millet.ru@SD" group-title="Eli Meherremov TV",Миллет (720p)
+#EXTINF:-1 tvg-id="Millet.ru@SD" group-title="Eli Meherremov TV",Millet Rus
 https://live1.1tvcrimea.ru/milletlive.m3u8
-#EXTINF:-1 tvg-id="Mir.ru@SD" group-title="Eli Meherremov TV",Мир (1080p) [Not 24/7]
+#EXTINF:-1 tvg-id="Mir.ru@SD" group-title="Eli Meherremov TV",MİR RUS
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
-#EXTINF:-1 tvg-id="Mir.ru@Plus7" group-title="Eli Meherremov TV",Мир +7 (540p)
+#EXTINF:-1 tvg-id="Mir.ru@Plus7" group-title="Eli Meherremov TV",Mir +7 RUS
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv7_2500/playlist.m3u8
-#EXTINF:-1 tvg-id="MTVVolgograd.ru@SD" group-title="Eli Meherremov TV",МТВ (Волгоград) (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="MTVVolgograd.ru@SD" group-title="Eli Meherremov TV",МТВ RUS
 http://hls.volgograd1vtv.cdnvideo.ru/volgograd1vtv/volgograd1vtv.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="NVKSakha.ru@SD" group-title="Eli Meherremov TV",НВК Саха (1080p) [Not 24/7]
+#EXTINF:-1 tvg-id="NVKSakha.ru@SD" group-title="Eli Meherremov TV",НВК RUS
 https://live-saha.cdnvideo.ru/saha/saha/playlist.m3u8
-#EXTINF:-1 tvg-id="SamaraGIS.ru@SD" group-title="Eli Meherremov TV",Самара ГИС (1080p) [Not 24/7]
+#EXTINF:-1 tvg-id="SamaraGIS.ru@SD" group-title="Eli Meherremov TV",Samara Qis RUS
 https://tv.samaragis.ru/new/new/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="Sever.ru@SD" group-title="Eli Meherremov TV",Север (Нарьян-Мар)
+#EXTINF:-1 tvg-id="Sever.ru@SD" group-title="Eli Meherremov TV",Sever RUS
 https://2vko9pchwon.a.trbcdn.net/livemaster/8ilgc_cw63ucn03p.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="SmileTV.ru@SD" group-title="Eli Meherremov TV",Смайл TV
+#EXTINF:-1 tvg-id="SmileTV.ru@SD" group-title="Eli Meherremov TV",Smayl RUS
 https://5f05e059699ae.streamlock.net/WEB_Smilik/ngrp:Smilik.stream-adaptive/playlist.m3u8
-#EXTINF:-1 tvg-id="Sochi24.ru@SD" group-title="Eli Meherremov TV",Сочи 24 HD (720p)
+#EXTINF:-1 tvg-id="Sochi24.ru@SD" group-title="Eli Meherremov TV",SOÇİ RUS
 http://serv30.vintera.tv:8081/sochi/sochi24_tv/playlist.m3u8
-#EXTINF:-1 tvg-id="Tamyr.ru@SD" group-title="Eli Meherremov TV",Тамыр (Уфа)
+#EXTINF:-1 tvg-id="Tamyr.ru@SD" group-title="Eli Meherremov TV",Tamr RUS
 https://bstonline.mediacdn.ru/cdn/tamyr/playlist.m3u8
-#EXTINF:-1 tvg-id="TVCentr.ru@SD" group-title="Eli Meherremov TV",ТВ Центр
+#EXTINF:-1 tvg-id="TVCentr.ru@SD" group-title="Eli Meherremov TV",TV Çentr RUS
 https://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="86.ru@SD" group-title="Eli Meherremov TV",Телеканал 86 (Сургут) (1080p) [Not 24/7]
+#EXTINF:-1 tvg-id="86.ru@SD" group-title="Eli Meherremov TV",TELEKANAL 86 RUS
 https://sitv.ru/hls/s86.m3u8
-#EXTINF:-1 tvg-id="Tolk.ru@HD" group-title="Eli Meherremov TV",Толк HD (720p)
+#EXTINF:-1 tvg-id="Tolk.ru@HD" group-title="Eli Meherremov TV",TOLK HD RUS
 http://live-tolknews.cdnvideo.ru/tolknews/stream/playlist.m3u8
-#EXTINF:-1 tvg-id="Kinopremyera.ru@SD" group-title="Eli Meherremov TV",Kinopremyera
+#EXTINF:-1 tvg-id="Kinopremyera.ru@SD" group-title="Eli Meherremov TV",Kinopremyera RUS
 https://stream8.cinerama.uz/1207/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="MMATVcom.ru@SD" group-title="Eli Meherremov TV",MMA-TV.com
+#EXTINF:-1 tvg-id="MMATVcom.ru@SD" group-title="Eli Meherremov TV",MMA TV RUS
 https://stream8.cinerama.uz/1226/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="Cinema.ru@SD" group-title="Eli Meherremov TV",Cinema
+#EXTINF:-1 tvg-id="Cinema.ru@SD" group-title="Eli Meherremov TV",Cinema RUS
 https://stream8.cinerama.uz/1227/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="vijuNature.ru@SD" group-title="Eli Meherremov TV",viju Nature
+#EXTINF:-1 tvg-id="vijuNature.ru@SD" group-title="Eli Meherremov TV",Viju Nature
 https://stream8.cinerama.uz/1228/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="DaVinci.ru@SD" group-title="Eli Meherremov TV",Da Vinci
 https://stream8.cinerama.uz/1231/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="Carousel.ru@SD" group-title="Eli Meherremov TV",Carousel (576p)
+#EXTINF:-1 tvg-id="Carousel.ru@SD" group-title="Eli Meherremov TV",Carousel
 https://stream.smotrim.ru/hls2/karusel/playlist_3.m3u8
-#EXTINF:-1 tvg-id="Moskva24.ru@SD" group-title="Eli Meherremov TV",Moskva 24 (576p)
+#EXTINF:-1 tvg-id="Moskva24.ru@SD" group-title="Eli Meherremov TV",Moskva 24
 https://stream.smotrim.ru/hls2/moscow_24/playlist_3.m3u8
-#EXTINF:-1 tvg-id="Kinopokaz.ru@HD" group-title="Eli Meherremov TV",Kinopokaz HD (1080p)
+#EXTINF:-1 tvg-id="Kinopokaz.ru@HD" group-title="Eli Meherremov TV",Kinopokaz HD
 http://hls127.freeott.top:8080/Kinopokaz_HD/video.m3u8
-#EXTINF:-1 tvg-id="ProLyubov.ru@SD" group-title="Eli Meherremov TV",Pro Lyubov (1080p)
+#EXTINF:-1 tvg-id="ProLyubov.ru@SD" group-title="Eli Meherremov TV",Pro Lyubov
 http://hls127.freeott.top:8080/ProLubovHD/video.m3u8
-#EXTINF:-1 tvg-id="Hit.ru@HD" group-title="Eli Meherremov TV",Hit HD (1080p)
+#EXTINF:-1 tvg-id="Hit.ru@HD" group-title="Eli Meherremov TV",Hit HD
 http://hls127.freeott.top:8080/XitHD/video.m3u8
-#EXTINF:-1 tvg-id="Kinoseriya.ru@SD" group-title="Eli Meherremov TV",Kinoseriya (1080p)
+#EXTINF:-1 tvg-id="Kinoseriya.ru@SD" group-title="Eli Meherremov TV",Kinoseriya
 http://hls127.freeott.top:8080/Kinoseriya_HD/video.m3u8
-#EXTINF:-1 tvg-id="STSkids.ru@SD" group-title="Eli Meherremov TV",STS kids (576p)
+#EXTINF:-1 tvg-id="STSkids.ru@SD" group-title="Eli Meherremov TV",STS kids
 http://hls127.freeott.top:8080/STS_Kids/video.m3u8
-#EXTINF:-1 tvg-id="STS.ru@SD" group-title="Eli Meherremov TV",STS (576p)
+#EXTINF:-1 tvg-id="STS.ru@SD" group-title="Eli Meherremov TV",STS
 http://94.230.128.107:8080/CTC/index.m3u8
-#EXTINF:-1 tvg-id="Channel5.ru@SD" group-title="Eli Meherremov TV",Channel 5 (576p)
+#EXTINF:-1 tvg-id="Channel5.ru@SD" group-title="Eli Meherremov TV",Channel 5
 http://94.230.128.107:8080/5_kanal/index.m3u8
-#EXTINF:-1 tvg-id="Bolt.ru@SD" group-title="Eli Meherremov TV",Bolt (576p)
+#EXTINF:-1 tvg-id="Bolt.ru@SD" group-title="Eli Meherremov TV",Bolt
 http://hls127.freeott.top:8080/Bolt/video.m3u8
-#EXTINF:-1 tvg-id="MosfilmGoldCollection.ru@SD" group-title="Eli Meherremov TV",Mosfilm Gold Collection (576p)
+#EXTINF:-1 tvg-id="MosfilmGoldCollection.ru@SD" group-title="Eli Meherremov TV",Mosfilm Gold Collection
 http://31.222.235.15/mosfilm/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
-#EXTINF:-1 tvg-id="Nostalgia.ru@SD" group-title="Eli Meherremov TV",Nostalgia (576p)
+#EXTINF:-1 tvg-id="Nostalgia.ru@SD" group-title="Eli Meherremov TV",Nostalgia
 http://hls127.freeott.top:8080/Nostalgiya/video.m3u8
-#EXTINF:-1 tvg-id="OceanTV.ru@SD" group-title="Eli Meherremov TV",Ocean-TV (576p)
+#EXTINF:-1 tvg-id="OceanTV.ru@SD" group-title="Eli Meherremov TV",Ocean-TV
 http://hls127.freeott.top:8080/Ocean_TV/video.m3u8
-#EXTINF:-1 tvg-id="STS.ru@SD" group-title="Eli Meherremov TV",STS (576p)
+#EXTINF:-1 tvg-id="STS.ru@SD" group-title="Eli Meherremov TV",STS
 http://tshift-1.telecoma.tv/sts/index.m3u8
 #EXTINF:-1 tvg-id="StarCinema.ru@SD" group-title="Eli Meherremov TV",Star Cinema
 https://dash2.antik.sk/live/test_star_cinema_atktv/playlist.m3u8
-#EXTINF:-1 tvg-id="KarapuzTV.ru@SD" group-title="Eli Meherremov TV",Karapuz TV (720p)
+#EXTINF:-1 tvg-id="KarapuzTV.ru@SD" group-title="Eli Meherremov TV",Karapuz TV
 http://live-saha.cdnvideo.ru/saha/tooky/playlist.m3u8
-#EXTINF:-1 tvg-id="Solnce.ru@SD" group-title="Eli Meherremov TV",Solnce (576p)
+#EXTINF:-1 tvg-id="Solnce.ru@SD" group-title="Eli Meherremov TV",Solnce
 https://tv.mediacdn.ru/live/solntse/playlist.m3u8
-#EXTINF:-1 tvg-id="Smotrim100Klassika.ru@SD" group-title="Eli Meherremov TV",Smotrim 100% Klassika (720p)
+#EXTINF:-1 tvg-id="Smotrim100Klassika.ru@SD" group-title="Eli Meherremov TV",SmotriM Klassika
 https://stream.smotrim.ru/hls/fasttv03/playlist_3.m3u8
-#EXTINF:-1 tvg-id="Smotrim100Prazdnik.ru@SD" group-title="Eli Meherremov TV",Smotrim 100% Prazdnik (720p)
+#EXTINF:-1 tvg-id="Smotrim100Prazdnik.ru@SD" group-title="Eli Meherremov TV",Smotrim Prazdnik
 https://stream.smotrim.ru/hls/fasttv04/playlist_3.m3u8
 
-
-
-
-
-
-
-RUS KANALLARI
-#EXTINF:-1 tvg-id="AutoPlus.ru@SD",Auto Plus
-https://stream8.cinerama.uz/1036/tracks-v1a1/mono.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="Doctor.ru@SD",Doctor (576i)
-https://stream8.cinerama.uz/1409/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="FastFunBox.ru@SD",Fast&FunBox (1080p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
-https://iptv.prosto.tv/ch120/index.m3u8
-#EXTINF:-1 tvg-id="GlazamiTurista.ru@SD",Glazami Turista (576i)
-https://stream8.cinerama.uz/1423/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="GulliGirl.ru@SD",Gulli Girl (720p)
-https://stream8.cinerama.uz/1445/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="IndiyskoyeKino.ru@SD",Indiyskoye Kino
-https://stream8.cinerama.uz/1060/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="InsaytTV.ru@4K",Insayt TV (2160p)
-https://stream8.cinerama.uz/1416/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="KinoHit.ru@SD",KinoHit
-https://stream8.cinerama.uz/1055/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="NTV.ru@SD",NTV
-https://stream8.cinerama.uz/1023/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="Ohotnikirybolov.ru@SD",Ohotnik i rybolov (576i)
-https://stream8.cinerama.uz/1413/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="Okhotairybalka.ru@SD",Okhota i rybalka
-https://stream8.cinerama.uz/1038/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="Retro.ru@SD",Retro
-https://stream8.cinerama.uz/1047/tracks-v1a1/mono.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36 OPR/130.0.0.0 (Edition std-2)
-#EXTINF:-1 tvg-id="RUTV.ru@SD",RU.TV
-https://stream8.cinerama.uz/1202/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="Russia1.ru@SD",Russia-1
-https://stream8.cinerama.uz/1020/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="Russia24.ru@SD",Russia-24
-https://stream8.cinerama.uz/1021/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="SochiLive.ru@HD",Sochi Live HD (720p) [Not 24/7]
-http://serv30.vintera.tv:8081/sochi/sochi_stream/playlist.m3u8
-#EXTINF:-1 tvg-id="T24.ru@SD",T24
-https://stream8.cinerama.uz/1037/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="Telecafe.ru@SD",Telecafe
-https://stream8.cinerama.uz/1035/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="ZagorodnayaZhizn.ru@SD",Zagorodnaya Zhizn
-https://stream8.cinerama.uz/1044/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="Zoopark.ru@SD",Zoopark (576i)
-https://stream8.cinerama.uz/1417/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="AISTTV.ru@SD",Аист ТВ (1080p)
-http://live2-aisttv.cdnvideo.ru/aisttv2/aisttv.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="Aris24.ru@SD",Арис 24 (720p) [Not 24/7]
-http://serv25.vintera.tv:8081/test/aris/playlist.m3u8
-#EXTINF:-1 tvg-id="GuberniaSamara.ru@SD",Губерния (Самара) (576p)
-http://live.guberniatv.cdnvideo.ru/guberniatv/guberniatv.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="Eurasia.ru@SD",Евразия (Орск) (720p)
-https://infochh.trkeurasia.ru/hlsinfoch/infochhd.m3u8
-#EXTINF:-1 tvg-id="Enisey.ru@SD",Енисей (1080p) [Not 24/7]
-https://hls-eniseytv.cdnvideo.ru/eniseytv/stream1/playlist.m3u8
-#EXTINF:-1 tvg-id="Channel16.ru@SD",К16 (Саров) (406p) [Not 24/7]
-http://serv25.vintera.tv:8081/test/k16/playlist.m3u8
-#EXTINF:-1 tvg-id="Crimea24.ru@SD",Крым 24
-https://cdn.1tvcrimea.ru/24tvcrimea.m3u8
-#EXTINF:-1 tvg-id="Millet.ru@SD",Миллет (720p)
-https://live1.1tvcrimea.ru/milletlive.m3u8
-#EXTINF:-1 tvg-id="Mir.ru@SD",Мир (1080p) [Not 24/7]
-http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
-#EXTINF:-1 tvg-id="Mir.ru@Plus7",Мир +7 (540p)
-http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv7_2500/playlist.m3u8
-#EXTINF:-1 tvg-id="MTVVolgograd.ru@SD",МТВ (Волгоград) (720p) [Not 24/7]
-http://hls.volgograd1vtv.cdnvideo.ru/volgograd1vtv/volgograd1vtv.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="NVKSakha.ru@SD",НВК Саха (1080p) [Not 24/7]
-https://live-saha.cdnvideo.ru/saha/saha/playlist.m3u8
-#EXTINF:-1 tvg-id="SamaraGIS.ru@SD",Самара ГИС (1080p) [Not 24/7]
-https://tv.samaragis.ru/new/new/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="Sever.ru@SD",Север (Нарьян-Мар)
-https://2vko9pchwon.a.trbcdn.net/livemaster/8ilgc_cw63ucn03p.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="SmileTV.ru@SD",Смайл ТВ
-https://5f05e059699ae.streamlock.net/WEB_Smilik/ngrp:Smilik.stream-adaptive/playlist.m3u8
-#EXTINF:-1 tvg-id="Sochi24.ru@SD",Сочи 24 HD (720p)
-http://serv30.vintera.tv:8081/sochi/sochi24_tv/playlist.m3u8
-#EXTINF:-1 tvg-id="Tamyr.ru@SD",Тамыр (Уфа)
-https://bstonline.mediacdn.ru/cdn/tamyr/playlist.m3u8
-#EXTINF:-1 tvg-id="TVCentr.ru@SD",ТВ Центр
-https://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="86.ru@SD",Телеканал 86 (Сургут) (1080p) [Not 24/7]
-https://sitv.ru/hls/s86.m3u8
-#EXTINF:-1 tvg-id="Tolk.ru@HD",Толк HD (720p)
-http://live-tolknews.cdnvideo.ru/tolknews/stream/playlist.m3u8
-#EXTINF:-1 tvg-id="Kinopremyera.ru@SD",Kinopremyera
-https://stream8.cinerama.uz/1207/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="MMATVcom.ru@SD",MMA-TV.com
-https://stream8.cinerama.uz/1226/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="Cinema.ru@SD",Cinema
-https://stream8.cinerama.uz/1227/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="vijuNature.ru@SD",viju Nature
-https://stream8.cinerama.uz/1228/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="DaVinci.ru@SD",Da Vinci
-https://stream8.cinerama.uz/1231/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="Carousel.ru@SD",Carousel (576p)
-https://stream.smotrim.ru/hls2/karusel/playlist_3.m3u8
-#EXTINF:-1 tvg-id="Moskva24.ru@SD",Moskva 24 (576p)
-https://stream.smotrim.ru/hls2/moscow_24/playlist_3.m3u8
-#EXTINF:-1 tvg-id="Kinopokaz.ru@HD",Kinopokaz HD (1080p)
-http://hls127.freeott.top:8080/Kinopokaz_HD/video.m3u8
-#EXTINF:-1 tvg-id="ProLyubov.ru@SD",Pro Lyubov (1080p)
-http://hls127.freeott.top:8080/ProLubovHD/video.m3u8
-#EXTINF:-1 tvg-id="Hit.ru@HD",Hit HD (1080p)
-http://hls127.freeott.top:8080/XitHD/video.m3u8
-#EXTINF:-1 tvg-id="Kinoseriya.ru@SD",Kinoseriya (1080p)
-http://hls127.freeott.top:8080/Kinoseriya_HD/video.m3u8
-#EXTINF:-1 tvg-id="STSkids.ru@SD",STS kids (576p)
-http://hls127.freeott.top:8080/STS_Kids/video.m3u8
-#EXTINF:-1 tvg-id="STS.ru@SD",STS (576p)
-http://94.230.128.107:8080/CTC/index.m3u8
-#EXTINF:-1 tvg-id="Channel5.ru@SD",Channel 5 (576p)
-http://94.230.128.107:8080/5_kanal/index.m3u8
-#EXTINF:-1 tvg-id="Bolt.ru@SD",Bolt (576p)
-http://hls127.freeott.top:8080/Bolt/video.m3u8
-#EXTINF:-1 tvg-id="MosfilmGoldCollection.ru@SD",Mosfilm Gold Collection (576p)
-http://31.222.235.15/mosfilm/index.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
-#EXTINF:-1 tvg-id="Nostalgia.ru@SD",Nostalgia (576p)
-http://hls127.freeott.top:8080/Nostalgiya/video.m3u8
-#EXTINF:-1 tvg-id="OceanTV.ru@SD",Ocean-TV (576p)
-http://hls127.freeott.top:8080/Ocean_TV/video.m3u8
-#EXTINF:-1 tvg-id="STS.ru@SD",STS (576p)
-http://tshift-1.telecoma.tv/sts/index.m3u8
-#EXTINF:-1 tvg-id="StarCinema.ru@SD",Star Cinema
-https://dash2.antik.sk/live/test_star_cinema_atktv/playlist.m3u8
-#EXTINF:-1 tvg-id="KarapuzTV.ru@SD",Karapuz TV (720p)
-http://live-saha.cdnvideo.ru/saha/tooky/playlist.m3u8                                       
-#EXTINF:-1 tvg-id="Solnce.ru@SD",Solnce (576p)
-https://tv.mediacdn.ru/live/solntse/playlist.m3u8               
-#EXTINF:-1 tvg-id="Smotrim100Klassika.ru@SD",Smotrim 100% Klassika (720p)
-https://stream.smotrim.ru/hls/fasttv03/playlist_3.m3u8
-#EXTINF:-1 tvg-id="Smotrim100Prazdnik.ru@SD",Smotrim 100% Prazdnik (720p)
-https://stream.smotrim.ru/hls/fasttv04/playlist_3.m3u8           
 
 
 
