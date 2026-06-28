@@ -132,7 +132,21 @@ http://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e2ee6
 https://live.artidijitalmedya.com/artidijital_kanal15/kanal15/playlist.m3u8
 #EXTINF:-1 group-title="Eli Meherremov TV", TV
 #EXTINF:-1 tvg-id="2x2.ru@SD",2x2 (576i)
-https://bl.rutube.ru/livestream/392b4686b770bae2da6bf5ac4574add5/index.m3u8?e=2068731801&s=tenr-yHXUv1wibfka78s2A&scheme=http
+https://bl.rutube.ru/livestream/392b4686b770bae2da6bf5ac4574add5/index.m3u8
+#EXTINF:-1 tvg-id="InsaytTV.ru@4K",Insayt TV (2160p)
+https://stream8.cinerama.uz/1416/tracks-v1a1/mono.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
