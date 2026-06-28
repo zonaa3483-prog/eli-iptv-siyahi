@@ -262,7 +262,16 @@ http://hls127.freeott.top:8080/Nostalgiya/video.m3u8
 http://hls127.freeott.top:8080/Ocean_TV/video.m3u8
 #EXTINF:-1 tvg-id="STS.ru@SD",STS (576p)
 http://tshift-1.telecoma.tv/sts/index.m3u8
-
+#EXTINF:-1 tvg-id="StarCinema.ru@SD",Star Cinema
+https://dash2.antik.sk/live/test_star_cinema_atktv/playlist.m3u8
+#EXTINF:-1 tvg-id="KarapuzTV.ru@SD",Karapuz TV (720p)
+http://live-saha.cdnvideo.ru/saha/tooky/playlist.m3u8                                       
+#EXTINF:-1 tvg-id="Solnce.ru@SD",Solnce (576p)
+https://tv.mediacdn.ru/live/solntse/playlist.m3u8               
+#EXTINF:-1 tvg-id="Smotrim100Klassika.ru@SD",Smotrim 100% Klassika (720p)
+https://stream.smotrim.ru/hls/fasttv03/playlist_3.m3u8
+#EXTINF:-1 tvg-id="Smotrim100Prazdnik.ru@SD",Smotrim 100% Prazdnik (720p)
+https://stream.smotrim.ru/hls/fasttv04/playlist_3.m3u8           
 
 
 
