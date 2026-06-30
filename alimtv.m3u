@@ -59,10 +59,6 @@ https://str.yodacdn.net/qafkaz/video.m3u8
 https://nl.livekadeh.com/hls2/vilayet.m3u8
 #EXTINF:-1 group-title="Eli Meherremov TV",FTV Canlı TV HD
 https://stream.ftv.az/live/ftv.m3u8
-#EXTINF:-1 tvg-id="TurkmeneliTV" tvg-name="Turkmeneli TV" tvg-logo="https://www.turkmenelitv.com/images/logo.png" group-title="Irak / Turkmens", Türkmeneli TV HD
-https://turkmeneli.live.net/live/playlist.m3u8
-#EXTINF:-1 tvg-name="Gunaz TV" tvg-logo="https://www.gunaz.tv/assets/images/logo.png" group-title="Azerbaijan", Günaz TV HD
-http://gtv.live.net/live/playlist.m3u8
 
 
 
@@ -393,6 +389,9 @@ https://ia902809.us.archive.org/17/items/li-mhrrmov-ad-gunu-720-p-hd/%C6%8Fli%20
 https://ia600504.us.archive.org/28/items/li-mhrrmov-mutluluklar-sana-720-p-hd/%C6%8Fli%20M%C9%99h%C9%99rr%C9%99mov%20-%20Mutluluklar%20sana%28720P_HD%29.mp4
 #EXTINF:-1 group-title="Eli Meherremov Music",Əli Məhərrəmov - Həsrəti qəmi
 https://ia601800.us.archive.org/34/items/li-mhrrmov-hsrti-qmi-720-p-hd/%C6%8Fli%20M%C9%99h%C9%99rr%C9%99mov%20-%20H%C9%99sr%C9%99ti%20q%C9%99mi%28720P_HD%29.mp4
+
+
+
 
 
 
@@ -1116,9 +1115,8 @@ https://ia600402.us.archive.org/11/items/kurtlar-vadisi-pusu-136.-bolum-yuksek-g
 https://ia902801.us.archive.org/34/items/kurtlar-vadisi-pusu-137.-bolum-yuksek-goruntu-kalitesi-720-p-hd/Kurtlar%20Vadisi%20Pusu%20_%20137.%20B%C3%B6l%C3%BCm%20_%20Y%C3%BCksek%20G%C3%B6r%C3%BCnt%C3%BC%20Kalitesi%28720P_HD%29.mp4
 #EXTINF:-1 group-title="Kurtlar Vadisi İzlenme Sırası",Kurtlar Vadisi Pusu - 138. Bölüm
 https://ia600800.us.archive.org/16/items/kurtlar-vadisi-pusu-138.-bolum-yuksek-goruntu-kalitesi-720-p-hd/Kurtlar%20Vadisi%20Pusu%20_%20138.%20B%C3%B6l%C3%BCm%20_%20Y%C3%BCksek%20G%C3%B6r%C3%BCnt%C3%BC%20Kalitesi%28720P_HD%29.mp4
-
-
-
+#EXTINF:-1 group-title="Kurtlar Vadisi İzlenme Sırası",Kurtlar Vadisi Pusu - 139. Bölüm
+https://ia600803.us.archive.org/32/items/kurtlar-vadisi-pusu-139.-bolum-yuksek-goruntu-kalitesi-720-p-hd/Kurtlar%20Vadisi%20Pusu%20_%20139.%20B%C3%B6l%C3%BCm%20_%20Y%C3%BCksek%20G%C3%B6r%C3%BCnt%C3%BC%20Kalitesi%28720P_HD%29.mp4
 
 
 
