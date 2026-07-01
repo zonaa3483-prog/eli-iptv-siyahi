@@ -62,25 +62,6 @@ https://stream.ftv.az/live/ftv.m3u8
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 TÜRK KANALLARI
 #EXTM3U
 #EXTINF:-1 group-title="Eli Meherremov TV", A2
@@ -200,9 +181,6 @@ https://gzttv-live.lg.mncdn.com/gzttv/gzttv/playlist.m3u8
 https://tvnet-live.lg.mncdn.com/tvnet/tvnet/playlist.m3u8
 #EXTINF:-1 tvg-id="0" group-title="Eli Meherremov TV",Sinema Keyfi 
 https://host.onlineradyotv.net:8081/sdmtv/tracks-v1a1/mono.m3u8
-
-
-
 
 
 
@@ -454,7 +432,6 @@ https://live.artidijitalmedya.com/artidijital_olayturk/olayturk/playlist.m3u8
 https://edge1.socialsmart.tv/oncurtv/bant1/playlist.m3u8
 #EXTINF:-1 group-title="Eli Meherremov TV",Persiana Fight
 https://fighthls.persiana.live/hls/stream.m3u8
-#EXTM3U
 #EXTINF:-1 group-title="Eli Meherremov TV",Power Dance (1080p)
 https://livetv.powerapp.com.tr/dance/dance.smil/playlist.m3u8
 #EXTINF:-1 group-title="Eli Meherremov TV",SA TV (720p)
@@ -505,7 +482,12 @@ https://jmp2.uk/plu-67921b78b83355184c667770.m3u8
 https://jmp2.uk/plu-679205a13de7c8cf941e7857.m3u8
 #EXTINF:-1 group-title="Eli Meherremov TV",UFC 15
 https://jmp2.uk/plu-677d9adfa9a51b0008497fa0.m3u8
-
+#EXTINF:-1 group-title="Eli Meherremov TV",Urfa Natik TV (720p)
+https://live.artidijitalmedya.com/artidijital_urfanatiktv/urfanatiktv/playlist.m3u8
+#EXTINF:-1 group-title="Eli Meherremov TV",Wrestling Legends TV (720p)
+https://jmp2.uk/plu-68c820525ec82769fdfcd104.m3u8
+#EXTINF:-1 group-title="Eli Meherremov TV",WWE Superstar Central (1080p)
+https://dpv6ceilvhyrw.cloudfront.net/playlist.m3u8
 
 
 
