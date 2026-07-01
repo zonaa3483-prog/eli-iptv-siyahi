@@ -454,7 +454,57 @@ https://live.artidijitalmedya.com/artidijital_olayturk/olayturk/playlist.m3u8
 https://edge1.socialsmart.tv/oncurtv/bant1/playlist.m3u8
 #EXTINF:-1 group-title="Eli Meherremov TV",Persiana Fight
 https://fighthls.persiana.live/hls/stream.m3u8
-
+#EXTM3U
+#EXTINF:-1 group-title="Eli Meherremov TV",Power Dance (1080p)
+https://livetv.powerapp.com.tr/dance/dance.smil/playlist.m3u8
+#EXTINF:-1 group-title="Eli Meherremov TV",SA TV (720p)
+https://tvsen6.aynaott.com/satv/index.m3u8
+#EXTINF:-1 group-title="Eli Meherremov TV",The Voice TV (720p)
+https://bss1.neterra.tv/thevoice/thevoice.m3u8
+#EXTINF:-1 group-title="Eli Meherremov TV",TNT (576p)
+http://94.230.129.31:8080/THT/index.m3u8
+#EXTINF:-1 group-title="Eli Meherremov TV",Tom And Jerry (720p)
+https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8
+#EXTINF:-1 group-title="Eli Meherremov TV",Ton TV (720p) [Not 24/7]
+https://live.artidijitalmedya.com/artidijital_tontv/tontv/playlist.m3u8
+#EXTINF:-1 group-title="Eli Meherremov TV",Travelxp France (720p)
+https://travelxp-travelxp-4-fr.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="Eli Meherremov TV",Travelxp Spain (720p)
+https://travelxp-travelxp-5-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="Eli Meherremov TV",TV Cosmos (720p)
+https://videoserver.tmcreativos.com:19360/tvcosmos/tvcosmos.m3u8
+#EXTINF:-1 group-title="Eli Meherremov TV",TVS Travel Network (720p) [Not 24/7]
+https://rpn.bozztv.com/gusa/gusa-tvstravel/index.m3u8
+#EXTINF:-1 group-title="Eli Meherremov TV",Road to UFC at the White House 1
+https://jmp2.uk/plu-6a037119f6ac24413f849d5b.m3u8
+#EXTINF:-1 group-title="Eli Meherremov TV",UFC (1080p) 2
+https://aegis-cloudfront-1.tubi.video/a78ea283-8666-44a1-a0f6-fde5d229ac21/playlist.m3u8
+#EXTINF:-1 group-title="Eli Meherremov TV",UFC (1080p) 3
+https://linear-893.frequency.stream/dist/xumo/893/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Eli Meherremov TV",UFC (1080p) [Geo-blocked] 4
+https://pb-ljudrmfw5j68n.akamaized.net/playlist.m3u8
+#EXTINF:-1 group-title="Eli Meherremov TV",UFC (720p) 5
+https://jmp2.uk/plu-66ed3eb27358ce000830df49.m3u8
+#EXTINF:-1 group-title="Eli Meherremov TV",UFC (720p) 6
+https://jmp2.uk/plu-679203d4bc03978b9b4b79a6.m3u8
+#EXTINF:-1 group-title="Eli Meherremov TV",UFC (720p) 7
+https://jmp2.uk/plu-67a52cd4ec91870008a62164.m3u8
+#EXTINF:-1 group-title="Eli Meherremov TV",UFC (720p) 8
+https://jmp2.uk/plu-6792066f3de7c8cf941e7ce3.m3u8
+#EXTINF:-1 group-title="Eli Meherremov TV",UFC (720p) 9
+https://jmp2.uk/plu-66ed3e9d5e4a6e0008b346e0.m3u8
+#EXTINF:-1 group-title="Eli Meherremov TV",UFC 10
+https://jmp2.uk/plu-69a20556814d27f4ae630a92.m3u8
+#EXTINF:-1 group-title="Eli Meherremov TV",UFC 11
+https://jmp2.uk/plu-6792044b680721c77c5b9ba2.m3u8
+#EXTINF:-1 group-title="Eli Meherremov TV",UFC 12
+https://jmp2.uk/plu-67921b873de7c8cf94233f52.m3u8
+#EXTINF:-1 group-title="Eli Meherremov TV",UFC 13
+https://jmp2.uk/plu-67921b78b83355184c667770.m3u8
+#EXTINF:-1 group-title="Eli Meherremov TV",UFC 14
+https://jmp2.uk/plu-679205a13de7c8cf941e7857.m3u8
+#EXTINF:-1 group-title="Eli Meherremov TV",UFC 15
+https://jmp2.uk/plu-677d9adfa9a51b0008497fa0.m3u8
 
 
 
