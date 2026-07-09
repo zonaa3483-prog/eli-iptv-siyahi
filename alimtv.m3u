@@ -71,7 +71,8 @@ https://arazhls.wns.live/hls/stream.m3u8
 https://live.itbtvlive.com/itbtvlive/tracks-v2a1/mono.m3u8
 #EXTINF:-1 group-title="Eli Meherremov TV",Sahar Azərbaijan Canlı TV HD
 https://nl2-cdn.sepehrtv.org/securelive3/saharazarsd/saharazarsd.m3u8
-
+#EXTINF:-1 group-title="Eli Meherremov TV",IRIB TV 
+https://live.itbtvlive.com/itbtvlive/tracks-v2a1/mono.m3u8
 
 
 
