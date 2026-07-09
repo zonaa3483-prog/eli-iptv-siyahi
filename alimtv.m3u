@@ -67,13 +67,10 @@ https://tv.gunaz.tv/hls/live.m3u8
 https://a8.radyotelekom.com.tr:3179/stream/play.m3u8
 #EXTINF:-1 group-title="Eli Meherremov TV",Araz News İran Azərbaycan TV HD
 https://arazhls.wns.live/hls/stream.m3u8
-#EXTINF:-1 group-title="Eli Meherremov TV",ITB İran Azərbaycan TV HD
+#EXTINF:-1 group-title="Eli Meherremov TV",ITB İran Az-Tr TV HD
 https://live.itbtvlive.com/itbtvlive/tracks-v2a1/mono.m3u8
-#EXTINF:-1 group-title="Eli Meherremov TV",Sahar Azərbaijan Canlı TV HD
+#EXTINF:-1 group-title="Eli Meherremov TV",Sahar AzErbaijan Canlı TV HD
 https://nl2-cdn.sepehrtv.org/securelive3/saharazarsd/saharazarsd.m3u8
-#EXTINF:-1 group-title="Eli Meherremov TV",IRIB TV 
-https://live.itbtvlive.com/itbtvlive/tracks-v2a1/mono.m3u8
-
 
 
 
