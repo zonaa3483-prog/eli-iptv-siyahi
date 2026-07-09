@@ -4,8 +4,6 @@ AZERBAYCAN TV
 #EXTINF:-1 tvg-id="AzTV" group-title="Eli Meherremov TV", AzTV Canlı
 https://str.yodacdn.net/azertv/video.m3u8
 #EXTINF:-1 tvg-id="IctimaiTV.az@SD" group-title="Eli Meherremov TV", İctimai TV Canlı
-https://str.yodacdn.net/ictimaitv/video.m3u8
-#EXTINF:-1 tvg-id="IctimaiTV.az@SD" group-title="Eli Meherremov TV", İctimai TV Alternative
 https://live.itv.az/itv.m3u8
 #EXTINF:-1 tvg-name="Arb.az" group-title="Eli Meherremov TV", ARB TV Canlı
 https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/arb.m3u8
