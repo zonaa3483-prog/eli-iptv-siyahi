@@ -70,6 +70,7 @@ https://arazhls.wns.live/hls/stream.m3u8
 #EXTINF:-1 group-title="Eli Meherremov TV",ITB İran Az-Tr TV HD
 https://live.itbtvlive.com/itbtvlive/tracks-v2a1/mono.m3u8
 #EXTINF:-1 group-title="Eli Meherremov TV",Sahar Azerbaijan Canlı TV HD
+#EXTVLCOPT:http-user-agent=iMPlayer/2.5.5 (Linux;Android 16) AndroidXMedia3/1.7.1
 https://nl2-cdn.sepehrtv.org/securelive3/saharazarsd/saharazarsd.m3u8
 #EXTINF:-1 group-title="Eli Meherremov TV",İmam Hüseyn Tv Canlı
 https://ak.imamhussein.live/alzahratvlive/alzahra.smil/alzahrapublish/alzahra_720p/chunks.m3u8
