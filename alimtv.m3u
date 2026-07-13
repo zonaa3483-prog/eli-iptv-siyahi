@@ -70,11 +70,7 @@ https://arazhls.wns.live/hls/stream.m3u8
 #EXTINF:-1 group-title="Eli Meherremov TV",ITB İran Az-Tr TV HD
 https://live.itbtvlive.com/itbtvlive/tracks-v2a1/mono.m3u8
 #EXTINF:-1 group-title="Eli Meherremov TV",Sahar Azerbaijan Canlı TV HD
-https://nl2-cdn.sepehrtv.org/securelive3/saharazarsd/saharazarsd.m3u8|User-Agent=iMPlayer/2.5.5 (Linux;Android 16) AndroidXMedia3/1.7.1
-
-#EXTINF:-1 group-title="Eli Meherremov TV",İmam Hüseyn Tv Canlı Türkcə
-https://ak.imamhussein.live/alzahratvlive/alzahra.smil/alzahrapublish/alzahra_720p/chunks.m3u8
-
+https://nl2-cdn.sepehrtv.org/securelive3/saharazarsd/saharazarsd.m3u8
 
 
 
@@ -85,6 +81,8 @@ TÜRK KANALLARI
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/a2tv/a2tv.m3u8
 #EXTINF:-1 tvg-id="ATV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2e/Atv_logo.png" group-title="Eli Meherremov TV", ATV 
 http://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_360p.m3u8
+#EXTINF:-1 group-title="Eli Meherremov TV",İmam Hüseyn Tv Canlı Türkcə
+https://ak.imamhussein.live/alzahratvlive/alzahra.smil/alzahrapublish/alzahra_720p/chunks.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="STAR TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/star-tv-tr.png" group-title="Eli Meherremov TV", STAR TV 
 http://dygvideo.dygdigital.com/live/hls/startv4puhu?m3u8
 #EXTINF:-1 tvg-id="SHOW TV.tr" tvg-logo="https://dsmart-static-v2.ercdn.net//resize-width/400/content/E/aM/11889/Thumbnail.png" group-title="Eli Meherremov TV", SHOW TV HD 
