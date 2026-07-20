@@ -299,8 +299,6 @@ http://serv30.vintera.tv:8081/sochi/sochi24_tv/playlist.m3u8
 https://bstonline.mediacdn.ru/cdn/tamyr/playlist.m3u8
 #EXTINF:-1 tvg-id="TVCentr.ru@SD" group-title="Eli Meherremov TV",TV Çentr RUS
 https://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="86.ru@SD" group-title="Eli Meherremov TV",TELEKANAL 86 RUS
-https://sitv.ru/hls/s86.m3u8
 #EXTINF:-1 tvg-id="Tolk.ru@HD" group-title="Eli Meherremov TV",TOLK HD RUS
 http://live-tolknews.cdnvideo.ru/tolknews/stream/playlist.m3u8
 #EXTINF:-1 tvg-id="Kinopremyera.ru@SD" group-title="Eli Meherremov TV",Kinopremyera RUS
@@ -354,8 +352,6 @@ https://dash2.antik.sk/live/test_one_plus_one_int_tizen/playlist.m3u8
 https://d2qh3gh0k5vp3v.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-n6pess5lwbghr/2M_ES.m3u8
 #EXTINF:-1 group-title="Eli Meherremov TV",3 Cat TV
 https://directes-tv-int.3catdirectes.cat/live-content/beauties-hls/master.m3u8
-#EXTINF:-1 group-title="Eli Meherremov TV",Action TV HD
-http://rezofoot.tv/Action/index.m3u8
 #EXTINF:-1 group-title="Eli Meherremov TV",Ac Hollywood
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
 #EXTINF:-1 group-title="Eli Meherremov TV",Afroland Afro Kiddos
