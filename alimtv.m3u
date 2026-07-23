@@ -341,19 +341,13 @@ http://hls127.freeott.top:8080/ProLubovHD/video.m3u8
 http://hls127.freeott.top:8080/XitHD/video.m3u8
 #EXTINF:-1 tvg-id="Kinoseriya.ru@SD" group-title="Eli Meherremov TV",Kinoseriya
 http://hls127.freeott.top:8080/Kinoseriya_HD/video.m3u8
-#EXTINF:-1 tvg-id="STSkids.ru@SD" group-title="Eli Meherremov TV",STS kids
-http://hls127.freeott.top:8080/STS_Kids/video.m3u8
 #EXTINF:-1 tvg-id="Bolt.ru@SD" group-title="Eli Meherremov TV",Bolt
 http://hls127.freeott.top:8080/Bolt/video.m3u8
 #EXTINF:-1 tvg-id="MosfilmGoldCollection.ru@SD" group-title="Eli Meherremov TV",Mosfilm Gold Collection
 http://31.222.235.15/mosfilm/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
-#EXTINF:-1 tvg-id="Nostalgia.ru@SD" group-title="Eli Meherremov TV",Nostalgia
-http://hls127.freeott.top:8080/Nostalgiya/video.m3u8
 #EXTINF:-1 tvg-id="OceanTV.ru@SD" group-title="Eli Meherremov TV",Ocean-TV
 http://hls127.freeott.top:8080/Ocean_TV/video.m3u8
-#EXTINF:-1 tvg-id="STS.ru@SD" group-title="Eli Meherremov TV",STS
-http://tshift-1.telecoma.tv/sts/index.m3u8
 #EXTINF:-1 tvg-id="StarCinema.ru@SD" group-title="Eli Meherremov TV",Star Cinema
 https://dash2.antik.sk/live/test_star_cinema_atktv/playlist.m3u8
 #EXTINF:-1 tvg-id="KarapuzTV.ru@SD" group-title="Eli Meherremov TV",Karapuz TV
