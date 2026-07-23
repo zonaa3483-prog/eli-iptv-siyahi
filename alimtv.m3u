@@ -8,7 +8,7 @@ https://live.itv.az/itv.m3u8
 #EXTINF:-1 tvg-name="Arb.az" group-title="Eli Meherremov TV", ARB TV Canlı
 https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/arb.m3u8
 #EXTINF:-1 group-title="Eli Meherremov TV", Xəzər TV Canlı 
-https://raw.githubusercontent.com/fraudiay79/strm/refs/heads/main/platforms/links/az/xezer-tv.m3u8
+https://xezerxeber.az/stream/main_stream.m3u8
 #EXTINF:-1 group-title="Eli Meherremov TV", Azad Azərbaycan TV  
 https://str.yodacdn.net/atv/playlist.m3u8
 #EXTINF:-1 tvg-name="CBCSPORT.az" group-title="Eli Meherremov TV", CBC Sport Azərbaycan TV Canlı
