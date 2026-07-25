@@ -8,7 +8,7 @@ https://live.itv.az/itv.m3u8
 #EXTINF:-1 tvg-name="Arb.az" group-title="Eli Meherremov TV", ARB TV Canlı
 https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/arb.m3u8
 #EXTINF:-1 group-title="Eli Meherremov TV", Xəzər TV Canlı 
-https://xezerxeber.az/stream/main_stream.m3u8
+https://xezer.tvstream.az/hls/stream/main_stream.m3u8
 #EXTINF:-1 group-title="Eli Meherremov TV", Azad Azərbaycan TV  
 https://lives.atv.az:5443/ATV_TV_STREAM/streams/atvcanli.m3u8
 #EXTINF:-1 tvg-name="CBCSPORT.az" group-title="Eli Meherremov TV", CBC Sport Azərbaycan TV Canlı
@@ -1226,8 +1226,8 @@ https://ia902908.us.archive.org/0/items/kurtlar-vadisi-pusu-163.-bolum-yuksek-go
 https://ia600109.us.archive.org/24/items/kurtlar-vadisi-pusu-164.-bolum-yuksek-goruntu-kalitesi-720-p-hd/Kurtlar%20Vadisi%20Pusu%20_%20164.%20B%C3%B6l%C3%BCm%20_%20Y%C3%BCksek%20G%C3%B6r%C3%BCnt%C3%BC%20Kalitesi%28720P_HD%29.mp4
 #EXTINF:-1 group-title="Kurtlar Vadisi İzlenme Sırası",Kurtlar Vadisi Pusu - 165. Bölüm
 https://ia600401.us.archive.org/18/items/kurtlar-vadisi-pusu-165.-bolum-yuksek-goruntu-kalitesi-720-p-hd/Kurtlar%20Vadisi%20Pusu%20_%20165.%20B%C3%B6l%C3%BCm%20_%20Y%C3%BCksek%20G%C3%B6r%C3%BCnt%C3%BC%20Kalitesi%28720P_HD%29.mp4
-
-
+#EXTINF:-1 group-title="Kurtlar Vadisi İzlenme Sırası",Kurtlar Vadisi Pusu - 166. Bölüm
+https://ia600705.us.archive.org/2/items/kurtlar-vadisi-pusu-166.-bolum-yuksek-goruntu-kalitesi-720-p-hd/Kurtlar%20Vadisi%20Pusu%20_%20166.%20B%C3%B6l%C3%BCm%20_%20Y%C3%BCksek%20G%C3%B6r%C3%BCnt%C3%BC%20Kalitesi%28720P_HD%29.mp4
 
 
 
