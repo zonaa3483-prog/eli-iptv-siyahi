@@ -55,7 +55,7 @@ https://str.yodacdn.net/biznestv/video.m3u8
 https://str.yodacdn.net/kanal35/index.m3u8
 #EXTINF:-1 group-title="Eli Meherremov TV", Qafqaz TV Canlı
 https://str.yodacdn.net/qafkaz/video.m3u8
-#EXTINF:-1 group-title="Eli Meherremov TV", Vilayet TV Canlı
+#EXTINF:-1 group-title="Eli Meherremov TV", Vilayət TV Canlı
 https://nl.livekadeh.com/hls2/vilayet.m3u8
 #EXTINF:-1 group-title="Eli Meherremov TV",Fortuna Canlı TV HD
 https://stream.ftv.az/live/ftv.m3u8
@@ -84,7 +84,7 @@ https://nl2-cdn.sepehrtv.org/securelive3/saharazarsd/saharazarsd.m3u8
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/a2tv/a2tv.m3u8
 #EXTINF:-1 tvg-id="ATV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2e/Atv_logo.png" group-title="Eli Meherremov TV", ATV 
 http://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_360p.m3u8
-#EXTINF:-1 group-title="Eli Meherremov TV",İmam Hüseyn Tv Canlı Türkcə
+#EXTINF:-1 group-title="Eli Meherremov TV",İmam Hüseyn Tv Canlı Türk
 https://ak.imamhussein.live/alzahratvlive/alzahra.smil/alzahrapublish/alzahra_720p/chunks.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="STAR TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/star-tv-tr.png" group-title="Eli Meherremov TV", STAR TV 
 http://dygvideo.dygdigital.com/live/hls/startv4puhu?m3u8
@@ -179,10 +179,6 @@ https://live.artidijitalmedya.com/artidijital_tempotv/tempotv/playlist.m3u8
 https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/playlist.m3u8
 #EXTINF:-1 tvg-id="TJKTV.tr@SD" group-title="Eli Meherremov TV",TJK TV
 https://tjktv-live.tjk.org/tjktv.m3u8
-#EXTINF:-1 tvg-id="TMB.tr@SD" group-title="Eli Meherremov TV",TMB
-https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/tmb-tv.m3u8
-#EXTINF:-1 tvg-id="TrabzonBuyuksehirBelediyesiTV.tr@FHD" group-title="Eli Meherremov TV",Trabzon Buyuksehir Belediyesi TV
-https://tv191.radyotelekom.com.tr:3612/stream/play.m3u8
 #EXTINF:-1 tvg-id="TRTEBA.tr@SD" group-title="Eli Meherremov TV",TRT EBA Ortaokul
 https://tv-e-okul01.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="TRTHaber.tr@SD" group-title="Eli Meherremov TV",TRT Haber
