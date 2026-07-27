@@ -75,6 +75,8 @@ https://arazhls.wns.live/hls/stream.m3u8
 https://live.itbtvlive.com/itbtvlive/tracks-v2a1/mono.m3u8
 #EXTINF:-1 group-title="Eli Meherremov TV",Vostok TV HD
 https://str.yodacdn.net/tmb/video.m3u8
+#EXTINF:-1 group-title="Eli Meherremov TV",Könül TV HD
+https://cdn-konultvazerbaijan.yayin.com.tr/konultvazerbaijan/konultvazerbaijan/playlist.m3u8
 #EXTINF:-1 group-title="Eli Meherremov TV",Sahar Azerbaijan Canlı TV HD
 https://nl2-cdn.sepehrtv.org/securelive3/saharazarsd/saharazarsd.m3u8
 
