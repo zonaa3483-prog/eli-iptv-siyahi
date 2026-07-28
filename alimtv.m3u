@@ -79,6 +79,20 @@ https://str.yodacdn.net/tmb/video.m3u8
 https://cdn-konultvazerbaijan.yayin.com.tr/konultvazerbaijan/konultvazerbaijan/playlist.m3u8
 #EXTINF:-1 group-title="Eli Meherremov TV",Sahar Azerbaijan Canlı TV HD
 https://nl2-cdn.sepehrtv.org/securelive3/saharazarsd/saharazarsd.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-name="Dunya TV" tvg-country="AZ" group-title="Azerbaijan TV",Dünya TVyy
+http://149.255.152.218/channels.aspx?channel=dunya.m3u8
+#EXTINF:-1 tvg-name="ARB 24" tvg-country="AZ" group-title="Azerbaijan TV",ARB 24huu
+http://149.255.152.218/channels.aspx?channel=arb24.m3u8
+#EXTINF:-1 tvg-name="ARB Gunes" tvg-country="AZ" group-title="Azerbaijan TV",ARB Günəşuyy
+http://149.255.152.218/channels.aspx?channel=arbgunes.m3u8
+#EXTINF:-1 tvg-name="Muz TV" tvg-country="AZ" group-title="Azerbaijan TV",Muz TVhjh
+http://46.32.176.50/muztvaz/index.m3u8
+#EXTINF:-1 tvg-name="VIP TV" tvg-country="AZ" group-title="Azerbaijan TV",VIP TV Azerbaijanjjj
+http://149.255.152.218/channels.aspx?channel=vip.m3u8
+
+
+
 
 
 
