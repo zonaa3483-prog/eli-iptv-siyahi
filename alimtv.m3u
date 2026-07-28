@@ -405,26 +405,6 @@ https://dpv6ceilvhyrw.cloudfront.net/playlist.m3u8
 
 
 
-#EXTM3U
-#EXTINF:-1 tvg-name="Radio Ictimai" tvg-country="AZ" group-title="Azerbaijan Radio",Radio İctimai (90.0 FM)
-https://stream.itv.az/rtmp:/radio/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Real FM" tvg-country="AZ" group-title="Azerbaijan Radio",Real FM (107.0 FM)
-http://94.20.137.130:8995/realfm
-
-#EXTINF:-1 tvg-name="Naxcivan Radio" tvg-country="AZ" group-title="Azerbaijan Radio",Naxçıvan Radio (104.1 FM)
-http://s33.myradiostream.com:12782/listen.mp3
-
-#EXTINF:-1 tvg-name="Kepez FM" tvg-country="AZ" group-title="Azerbaijan Radio",Kəpəz FM (93.3 FM)
-http://85.132.78.122:3344/now
-
-#EXTINF:-1 tvg-name="Saglam Radio" tvg-country="AZ" group-title="Azerbaijan Radio",Sağlam Radio (93.0 FM)
-https://s24.myradiostream.com/:17446/listen.mp3
-
-#EXTINF:-1 tvg-name="Azerbaycan Radio" tvg-country="AZ" group-title="Azerbaijan Radio",Azərbaycan Radio (105.0 FM)
-https://audiostr.atv.az/105fm
-
-
 
 
 
