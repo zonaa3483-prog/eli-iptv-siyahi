@@ -79,6 +79,15 @@ https://str.yodacdn.net/tmb/video.m3u8
 https://cdn-konultvazerbaijan.yayin.com.tr/konultvazerbaijan/konultvazerbaijan/playlist.m3u8
 #EXTINF:-1 group-title="Eli Meherremov TV",Sahar Azerbaijan Canlı TV HD
 https://nl2-cdn.sepehrtv.org/securelive3/saharazarsd/saharazarsd.m3u8
+#EXTM3U
+#EXTINF:-1 group-title="Azərbaycan Kanalları", Biznes TV rr (Avto-Yenilənən)
+https://yt2m3u.koyeb.app/channel/BiznesTV/live.m3u8
+
+
+
+
+
+
 
 
 
