@@ -79,30 +79,6 @@ https://str.yodacdn.net/tmb/video.m3u8
 https://cdn-konultvazerbaijan.yayin.com.tr/konultvazerbaijan/konultvazerbaijan/playlist.m3u8
 #EXTINF:-1 group-title="Eli Meherremov TV",Sahar Azerbaijan Canlı TV HD
 https://nl2-cdn.sepehrtv.org/securelive3/saharazarsd/saharazarsd.m3u8
-#EXTM3U
-#EXTINF:-1,ARB 24
-Http://85.132.81.184:8080/arb24/live1/index.m3u8
-#EXTINF:-1,ARB Günəş
-http://streams.livetv.az/azerbaijan/gunes/playlist.m3u8
-#EXTINF:-1,ARB TV
-https://streams.livetv.az/azerbaijan/arb/playlist.m3u8
-#EXTINF:-1,ARB Kəpəz TV
-https://streams.livetv.az/arbkepez/live/playlist.m3u8
-#EXTINF:-1,Dünya TV
-https://stream.ftv.az/live/dunyatv.m3u8
-#EXTINF:-1,Dünya TV (Yedək)
-https://www.tvkaista.net/stream-forwarder/get.php?x=Dunya
-#EXTINF:-1,Muz TV
-http://streams2.livetv.az/azerbaijan/muztv/playlist.m3u8
-#EXTINF:-1,Biznes TV
-https://str.yodacdn.net/biznestv/index.m3u8
-#EXTINF:-1,ATV Vivace
-https://lives.atv.az:5443/VIVACE/streams/vivacecanli.m3u8
-#EXTINF:-1,TMB TV (Əsas link)
-https://str.yodacdn.net/tmb_az_app/index.m3u8?token=tmb_app_token_13579
-#EXTINF:-1,TMB TV (Yedək 1)
-http://mfe.cliptv.az/dash/TMB_TV_SD.ism/playlist.mpd
-
 
 
 
