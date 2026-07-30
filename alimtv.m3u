@@ -218,11 +218,9 @@ https://tytturk-live.ercdn.net/tytturk/tytturk_1080p.m3u8
 https://canli.sercemtv.com.tr/hls/0/stream.m3u8
 #EXTINF:-1 group-title="Eli Meherremov TV",Diyanet TV HD
 https://b01c02nl.mediatriple.net/videoonlylive/mtikoimxnztxlive/broadcast_5e3bf95a47e07.smil/chunklist_b200000.m3u8
-#EXTINF:-1 group-title="Eli Meherremov TV",f TV HD
+#EXTINF:-1 group-title="Eli Meherremov TV",fortuna TV HD
 https://edge2.taksimbilisim.com/ftvturk/bant1/chunks.m3u8
 #EXTINF:-1 group-title="Eli Meherremov TV",Semerkand TV HD
-#EXTINF:-1 group-title="Eli Meherremov TV",TRT Genç TV HD
-https://tv-trtgenc.medya.trt.com.tr/master_1440.m3u8
 https://b01c02nl.mediatriple.net/videoonlylive/mtisvwurbfcyslive/broadcast_58d915bd40efc.smil/mt_0.m3u8
 #EXTINF:-1 group-title="Eli Meherremov TV",Fashion TV Secrets 18+
 https://ssai.aniview.com/api/v1/hls/stream.m3u8?AVS_SSAIID=67c0c39764ad6f7dab07aa0b&AV_APPNAME=[ADS.APP_NAME]&AV_APPPKGNAME=[ADS.APP_BUNDLE]&AV_APPSTOREURL=[ADS.APP_STORE_URL]&AV_CCPA=[ADS.US_PRIVACY]&AV_CLIENT_SECTION=ftv_secrets&AV_CONSENT=[ADS.GDPR_CONSENT]&AV_CONTENT_CAT=IAB7&AV_CONTENT_CHANNEL=&AV_CONTENT_CONTEXT=&AV_CONTENT_EPISODE=&AV_CONTENT_GENRE=fashion+and+lifestyle&AV_CONTENT_ID=[ADS.VIDAA_ADS_CONTENTID]&AV_CONTENT_KEYWORDS=&AV_CONTENT_LANGUAGE=en&AV_CONTENT_LENGTH=&AV_CONTENT_NETWORK=&AV_CONTENT_PROVIDER=FTV&AV_CONTENT_RATING=R&AV_CONTENT_SEASON=&AV_CONTENT_SERIES=&AV_CONTENT_TITLE=&AV_CONTENT_URL=&AV_DNT=[ADS.DNT]&AV_GDPR=[ADS.GDPR]&AV_HEIGHT=[ADS.H]&AV_IDFA=[ADS.IFA]&AV_IFA_TYPE=[ADS.IFA_TYPE]&AV_LANGUAGE=[ADS.DEVICE_LANGUAGE]&AV_OSVERS=[ADS.DEVICE_OSV]&AV_RTB_DEVICE_TYPE=[ADS.DEVICE_TYPE]&AV_VAUTH=[ADS.VAUTH]&AV_WIDTH=[ADS.W]&Content_Id=[ADS.ADS_CONTENTID]&ads.vidaa_ads_param=1191723366&cb=[CACHEBUSTER]&content_channel_name=ftv+-fashiontv+Secrets&content_livestream=1
@@ -306,8 +304,6 @@ https://live-saha.cdnvideo.ru/saha/saha/playlist.m3u8
 https://tv.samaragis.ru/new/new/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Sever.ru@SD" group-title="Eli Meherremov TV",Sever RUS
 https://2vko9pchwon.a.trbcdn.net/livemaster/8ilgc_cw63ucn03p.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="SmileTV.ru@SD" group-title="Eli Meherremov TV",Smayl RUS
-https://5f05e059699ae.streamlock.net/WEB_Smilik/ngrp:Smilik.stream-adaptive/playlist.m3u8
 #EXTINF:-1 tvg-id="Sochi24.ru@SD" group-title="Eli Meherremov TV",SOÇİ RUS
 http://serv30.vintera.tv:8081/sochi/sochi24_tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Tamyr.ru@SD" group-title="Eli Meherremov TV",Tamr RUS
@@ -340,8 +336,6 @@ http://hls127.freeott.top:8080/XitHD/video.m3u8
 http://hls127.freeott.top:8080/Kinoseriya_HD/video.m3u8
 #EXTINF:-1 tvg-id="Bolt.ru@SD" group-title="Eli Meherremov TV",Bolt
 http://hls127.freeott.top:8080/Bolt/video.m3u8
-#EXTINF:-1 tvg-id="MosfilmGoldCollection.ru@SD" group-title="Eli Meherremov TV",Mosfilm Gold Collection
-http://31.222.235.15/mosfilm/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
 #EXTINF:-1 tvg-id="OceanTV.ru@SD" group-title="Eli Meherremov TV",Ocean-TV
 http://hls127.freeott.top:8080/Ocean_TV/video.m3u8
