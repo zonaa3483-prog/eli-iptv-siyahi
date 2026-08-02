@@ -26,7 +26,7 @@ https://stream.dunyatv.az/live/dunyatv.m3u8
 #EXTINF:-1 group-title="Eli Meherremov TV", Baku TV Canlı
 https://rtmp.baku.tv/hls/bakutv.m3u8
 #EXTINF:-1 tvg-id="ARB24.az@SD" group-title="Eli Meherremov TV", ARB 24 Canlı TV
-https://str.yodacdn.net/arb24/video.m3u8
+https://www.youtube.com/live/6pdsAN2vHyA?si=oIhrbu93ohMcTUlT
 #EXTINF:-1 tvg-name="ARBGUNES.az" group-title="Eli Meherremov TV", ARB Günəş Canlı TV
 https://str.yodacdn.net/arbgunesh/video.m3u8
 #EXTINF:-1 tvg-name="AzstarTV.az" group-title="Eli Meherremov TV", Azstar Canlı TV
@@ -49,7 +49,7 @@ https://live.artidijitalmedya.com/artidijital_kanal12/kanal12/playlist.m3u8
 https://str.yodacdn.net/vip/video.m3u8
 #EXTINF:-1 group-title="Eli Meherremov TV", Naxçıvan TV Canlı
 https://str1.yodacdn.net/ntv/video.m3u8
-#EXTINF:-1 group-title="Eli Meherremov TV", Biznes TV Canlı YT
+#EXTINF:-1 group-title="Eli Meherremov TV", Biznes TV Canlı
 https://www.youtube.com/live/zwMQIMf7li8?si=7ug42xyIXyfj4Yax
 #EXTINF:-1 group-title="Eli Meherremov TV", Kanal 35 Canlı
 https://str.yodacdn.net/kanal35/index.m3u8
@@ -81,7 +81,7 @@ https://str.yodacdn.net/tmb/video.m3u8
 https://cdn-konultvazerbaijan.yayin.com.tr/konultvazerbaijan/konultvazerbaijan/playlist.m3u8
 #EXTINF:-1 group-title="Eli Meherremov TV",Sahar Azerbaijan Canlı TV HD
 https://nl2-cdn.sepehrtv.org/securelive3/saharazarsd/saharazarsd.m3u8
-#EXTINF:-1 tvg-name="Yayım 1" group-title="Eli Meherremov TV", Kurtlar Vadisi Pusu 7/24 YT
+#EXTINF:-1 tvg-name="Yayım 1" group-title="Eli Meherremov TV", Kurtlar Vadisi Pusu 7/24 Canlı
 https://www.youtube.com/live/4QICVoMeA4s?si=aSawNiMGkwK97hZz
 
 
@@ -137,6 +137,8 @@ https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/haberturktv/haberturktv_1080p.m3
 https://turkmedya-live.ercdn.net/tv360/tv360_720p.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="BEYAZ TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/beyaz-tv-tr.png" group-title="Eli Meherremov TV", BEYAZ TV 
 https://beyaztv-live.daioncdn.net/beyaztv/beyaztv.m3u8
+#EXTINF:-1 group-title="Eli Meherremov TV", Cartoon Network
+https://www.youtube.com/live/LwKF_GkaNF4?si=00z1CbDiqQRGuAvs
 #EXTINF:-1 group-title="Eli Meherremov TV", Minika Go
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago/minikago.m3u8
 #EXTINF:-1 group-title="Eli Meherremov TV", Minika Çocuk
