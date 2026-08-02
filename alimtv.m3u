@@ -79,7 +79,17 @@ https://live.itbtvlive.com/itbtvlive/tracks-v2a1/mono.m3u8
 https://cdn-konultvazerbaijan.yayin.com.tr/konultvazerbaijan/konultvazerbaijan/playlist.m3u8
 #EXTINF:-1 group-title="Eli Meherremov TV",Sahar Azerbaijan Canlı TV HD
 https://nl2-cdn.sepehrtv.org/securelive3/saharazarsd/saharazarsd.m3u8
-
+#EXTM3U
+#EXTINF:-1 tvg-name="ARB TV AZ" tvg-logo="https://tv.canlitvvolo.com/media/images/tvlogo/arb-az-tv-tvlive-lkec.png" group-title="Azərbaycan",ARB TV AZ  11
+https://yayin2.canlitv.fun/live/arb.stream/playlist.m3u8?hash=62d73cfb044b604a7f9b3f95709b5440
+#EXTINF:-1 tvg-name="Kanal S AZ" tvg-logo="https://tv.canlitvvolo.com/media/images/tvlogo/kanals-az-tv-tvlive-6tbd.png" group-title="Azərbaycan",Kanal S AZ  11
+https://yayin2.canlitv.fun/live/kanals.stream/playlist.m3u8?hash=62d73cfb044b604a7f9b3f95709b5440
+#EXTINF:-1 group-title="Eli Meherremov TV",Sn Canlı TV HD
+https://str.yodacdn.net/tmbaz/mono.m3u8
+#EXTINF:-1 group-title="Eli Meherremov TV",anlı TV HD
+http://serv25.vintera.tv:8081/restream/muztv/playlist.m3u8
+#EXTINF:-1 group-title="Eli Meherremov TV",TV HD
+https://str.yodacdn.net/arbgunesh/mono.m3u8
 
 
 
