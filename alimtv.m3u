@@ -49,8 +49,8 @@ https://live.artidijitalmedya.com/artidijital_kanal12/kanal12/playlist.m3u8
 https://str.yodacdn.net/vip/video.m3u8
 #EXTINF:-1 group-title="Eli Meherremov TV", Naxçıvan TV Canlı
 https://str1.yodacdn.net/ntv/video.m3u8
-#EXTINF:-1 group-title="Eli Meherremov TV", Biznes TV Canlı
-https://str.yodacdn.net/biznestv/video.m3u8
+#EXTINF:-1 group-title="Eli Meherremov TV", Biznes TV Canlı YT
+https://www.youtube.com/live/zwMQIMf7li8?si=7ug42xyIXyfj4Yax
 #EXTINF:-1 group-title="Eli Meherremov TV", Kanal 35 Canlı
 https://str.yodacdn.net/kanal35/index.m3u8
 #EXTINF:-1 group-title="Eli Meherremov TV", Qafqaz TV Canlı
@@ -81,7 +81,7 @@ https://str.yodacdn.net/tmb/video.m3u8
 https://cdn-konultvazerbaijan.yayin.com.tr/konultvazerbaijan/konultvazerbaijan/playlist.m3u8
 #EXTINF:-1 group-title="Eli Meherremov TV",Sahar Azerbaijan Canlı TV HD
 https://nl2-cdn.sepehrtv.org/securelive3/saharazarsd/saharazarsd.m3u8
-#EXTINF:-1 tvg-name="Yayım 1" group-title="YouTube Live", Kanal 1
+#EXTINF:-1 tvg-name="Yayım 1" group-title="Eli Meherremov TV", Kurtlar Vadisi Pusu 7/24 YT
 https://www.youtube.com/live/4QICVoMeA4s?si=aSawNiMGkwK97hZz
 
 
