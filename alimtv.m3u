@@ -221,6 +221,8 @@ https://live.artidijitalmedya.com/artidijital_tontv/tontv/playlist.m3u8
 https://live.artidijitalmedya.com/artidijital_urfanatiktv/urfanatiktv/playlist.m3u8
 #EXTINF:-1 group-title="Eli Meherremov TV",TYT Türk TV HD
 https://tytturk-live.ercdn.net/tytturk/tytturk_1080p.m3u8
+#EXTINF:-1 group-title="Eli Meherremov TV",TGRT BELGESEL Canlı
+https://www.youtube.com/live/32y7IEtD5OU
 #EXTINF:-1 group-title="Eli Meherremov TV",Sercem TV HD
 https://canli.sercemtv.com.tr/hls/0/stream.m3u8
 #EXTINF:-1 group-title="Eli Meherremov TV",Diyanet TV HD
@@ -241,6 +243,12 @@ https://www.youtube.com/live/RqegY0WKtZA
 https://www.youtube.com/live/F0yeYa-SSDc
 #EXTINF:-1 group-title="Eli Meherremov TV",A.B.İ 7/24 Canlı
 https://www.youtube.com/live/jhEx9jk3wuc
+#EXTINF:-1 group-title="Eli Meherremov TV",Dünya Turu 7/24 Canlı
+https://www.youtube.com/live/OMz7Pdp8t48
+#EXTINF:-1 group-title="Eli Meherremov TV",Film Kuşağı 7/24 Canlı
+https://www.youtube.com/live/wJbP12jam70
+#EXTINF:-1 group-title="Eli Meherremov TV",Aşkı Memnu 7/24 Canlı
+https://www.youtube.com/live/JpP13Wp1ke0
 #EXTINF:-1 group-title="Eli Meherremov TV", Dini Türk 7/24 Canlı
 https://www.youtube.com/live/YzZ7UG9p6Ak
 #EXTINF:-1 group-title="Eli Meherremov TV",Mehmet Fetihler Sultanı 7/24 Canlı
