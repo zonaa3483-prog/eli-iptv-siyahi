@@ -26,7 +26,7 @@ https://stream.dunyatv.az/live/dunyatv.m3u8
 #EXTINF:-1 group-title="Eli Meherremov TV", Baku TV Canlı
 https://rtmp.baku.tv/hls/bakutv.m3u8
 #EXTINF:-1 tvg-id="ARB24.az@SD" group-title="Eli Meherremov TV", ARB 24 Canlı TV
-https://www.youtube.com/embed/live_stream?channel=UC4_A1-4S_m118K84X80tV9g
+https://youtube.com/@arb24/live
 #EXTINF:-1 tvg-name="AzstarTV.az" group-title="Eli Meherremov TV", Azstar Canlı TV
 https://live.livestreamtv.ca/azstar/amlst:azstar/playlist.m3u8
 #EXTINF:-1 tvg-name="ELTV.az" group-title="Eli Meherremov TV", EL TV Canlı
