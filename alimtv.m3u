@@ -253,8 +253,6 @@ https://www.youtube.com/live/JpP13Wp1ke0
 https://www.youtube.com/live/YzZ7UG9p6Ak
 #EXTINF:-1 group-title="Eli Meherremov TV",Mehmet Fetihler Sultanı 7/24 Canlı
 https://www.youtube.com/live/6_AnQrbFvY8
-#EXTINF:-1 group-title="Eli Meherremov TV",Koyun Şoun 7/24 Canlı
-https://www.youtube.com/live/MlkEJ0jWUAg
 #EXTINF:-1 group-title="Eli Meherremov TV",Diriliş Ertuğrul 7/24 Canlı
 https://www.youtube.com/live/GOCHAfe2ZQ8
 #EXTINF:-1 group-title="Eli Meherremov TV",Adanalı 7/24 Canlı
@@ -273,6 +271,10 @@ https://www.youtube.com/live/hblgoy-_yWw
 https://www.youtube.com/live/mq4GiHzxZwk
 #EXTINF:-1 group-title="Eli Meherremov TV",Alemin Kralı 7/24 Canlı
 https://www.youtube.com/live/avDRwKKjeSI
+#EXTINF:-1 group-title="Eli Meherremov TV",Yalı Çapkını 7/24 Canlı
+https://www.youtube.com/live/GiWeH1H1bDU?si=XHajl2JLTJM-Qb5F
+#EXTINF:-1 group-title="Eli Meherremov TV",Aileler Yarışıyor 7/24 Canlı
+https://www.youtube.com/live/y_ZUCowdGNo?si=2Ma_taCt3HUuNmZ7
 #EXTINF:-1 group-title="Eli Meherremov TV",Fashion TV Secrets 18+
 https://ssai.aniview.com/api/v1/hls/stream.m3u8?AVS_SSAIID=67c0c39764ad6f7dab07aa0b&AV_APPNAME=[ADS.APP_NAME]&AV_APPPKGNAME=[ADS.APP_BUNDLE]&AV_APPSTOREURL=[ADS.APP_STORE_URL]&AV_CCPA=[ADS.US_PRIVACY]&AV_CLIENT_SECTION=ftv_secrets&AV_CONSENT=[ADS.GDPR_CONSENT]&AV_CONTENT_CAT=IAB7&AV_CONTENT_CHANNEL=&AV_CONTENT_CONTEXT=&AV_CONTENT_EPISODE=&AV_CONTENT_GENRE=fashion+and+lifestyle&AV_CONTENT_ID=[ADS.VIDAA_ADS_CONTENTID]&AV_CONTENT_KEYWORDS=&AV_CONTENT_LANGUAGE=en&AV_CONTENT_LENGTH=&AV_CONTENT_NETWORK=&AV_CONTENT_PROVIDER=FTV&AV_CONTENT_RATING=R&AV_CONTENT_SEASON=&AV_CONTENT_SERIES=&AV_CONTENT_TITLE=&AV_CONTENT_URL=&AV_DNT=[ADS.DNT]&AV_GDPR=[ADS.GDPR]&AV_HEIGHT=[ADS.H]&AV_IDFA=[ADS.IFA]&AV_IFA_TYPE=[ADS.IFA_TYPE]&AV_LANGUAGE=[ADS.DEVICE_LANGUAGE]&AV_OSVERS=[ADS.DEVICE_OSV]&AV_RTB_DEVICE_TYPE=[ADS.DEVICE_TYPE]&AV_VAUTH=[ADS.VAUTH]&AV_WIDTH=[ADS.W]&Content_Id=[ADS.ADS_CONTENTID]&ads.vidaa_ads_param=1191723366&cb=[CACHEBUSTER]&content_channel_name=ftv+-fashiontv+Secrets&content_livestream=1
 #EXTINF:-1 group-title="Eli Meherremov TV",Tom And Jerry
@@ -288,6 +290,8 @@ https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8
 #EXTM3U
 #EXTINF:-1 tvg-id="ZarokTV.tr@SD" group-title="Eli Meherremov TV",Zarok TV Kürdi
 https://zindikurmanci.zaroktv.com.tr/hls/stream.m3u8
+#EXTINF:-1 group-title="Eli Meherremov TV",Koyun Şoun 7/24 Canlı
+https://www.youtube.com/live/MlkEJ0jWUAg
 #EXTINF:-1 group-title="Eli Meherremov TV",Mr.Bean Live TV
 https://amg00627-amg00627c40-rakuten-uk-5725.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanpopupcc-rakutenuk/playlist.m3u8
 #EXTINF:-1 tvg-id="AutoPlus.ru@SD" group-title="Eli Meherremov TV",Auto Plus RUS
