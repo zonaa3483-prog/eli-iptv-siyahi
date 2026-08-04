@@ -44,7 +44,7 @@ https://str.yodacdn.net/vip/video.m3u8
 #EXTINF:-1 group-title="Eli Meherremov TV", Naxçıvan TV Canlı
 https://str1.yodacdn.net/ntv/video.m3u8
 #EXTINF:-1 group-title="Eli Meherremov TV", Biznes TV Canlı
-https://www.youtube.com/channel/UC_jZ9I0-L5i6uO8S8iCmsaQ/live
+https://www.youtube.com/embed/live_stream?channel=UCWSj5oxUTsPegZ7Pd36_cQg
 #EXTINF:-1 group-title="Eli Meherremov TV", Kanal 35 Canlı
 https://str.yodacdn.net/kanal35/index.m3u8
 #EXTINF:-1 group-title="Eli Meherremov TV", Qafqaz TV Canlı
@@ -73,6 +73,8 @@ https://live.itbtvlive.com/itbtvlive/tracks-v2a1/mono.m3u8
 https://cdn-konultvazerbaijan.yayin.com.tr/konultvazerbaijan/konultvazerbaijan/playlist.m3u8
 #EXTINF:-1 group-title="Eli Meherremov TV",Sahar Azerbaijan Canlı TV HD
 https://nl2-cdn.sepehrtv.org/securelive3/saharazarsd/saharazarsd.m3u8
+#EXTINF:-1 group-title="Eli Meherremov TV",kvvvv
+https://www.youtube.com/embed/live_stream?channel=UCz1UfNp9VFp9R1HEFn5PY5A
 
 
 
