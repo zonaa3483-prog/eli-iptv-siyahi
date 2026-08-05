@@ -73,14 +73,7 @@ https://live.itbtvlive.com/itbtvlive/tracks-v2a1/mono.m3u8
 https://cdn-konultvazerbaijan.yayin.com.tr/konultvazerbaijan/konultvazerbaijan/playlist.m3u8
 #EXTINF:-1 group-title="Eli Meherremov TV",Sahar Azerbaijan Canlı TV HD
 https://nl2-cdn.sepehrtv.org/securelive3/saharazarsd/saharazarsd.m3u8
-#EXTINF:-1 group-title="Eli Meherremov TV",Tropikal 7/24 TV HD
-https://www.youtube.com/live/g9Rc_zZiEnI
-#EXTINF:-1 group-title="Eli Meherremov TV",İstanbul 7/24 TV HD
-https://www.youtube.com/live/bbVe5h7X3uw
-#EXTINF:-1 group-title="Eli Meherremov TV",Koyun Şaun 7/24 TV HD
-https://www.youtube.com/live/yH28BYhTIYo
-#EXTINF:-1 group-title="Eli Meherremov TV",Dünya Turu 7/24 TV HD
-https://www.youtube.com/live/OMz7Pdp8t48
+
 
 
 
@@ -271,6 +264,12 @@ https://www.youtube.com/embed/live_stream?channel=UCyahIZNtNmqK1LeNF0KlFZw
 https://www.youtube.com/embed/live_stream?channel=UCeIOtvpp4yNAgPiTBGNXNBw
 #EXTINF:-1 group-title="Eli Meherremov TV",Maya and Mary 7/24 Canlı
 https://www.youtube.com/embed/live_stream?channel=UC8__1T7RvD2hV3YGgvZfUSQ
+#EXTINF:-1 group-title="Eli Meherremov TV",Tropikal 7/24 TV HD
+https://www.youtube.com/live/g9Rc_zZiEnI
+#EXTINF:-1 group-title="Eli Meherremov TV",İstanbul 7/24 TV HD
+https://www.youtube.com/live/bbVe5h7X3uw
+#EXTINF:-1 group-title="Eli Meherremov TV",Dünya Turu 7/24 TV HD
+https://www.youtube.com/live/OMz7Pdp8t48
 #EXTINF:-1 group-title="Eli Meherremov TV",Cartoonito Cizgi Dizi 7/24 Canlı
 https://www.youtube.com/watch?v=FsRq_t322-g
 #EXTINF:-1 group-title="Eli Meherremov TV",Fashion TV Secrets 18+
