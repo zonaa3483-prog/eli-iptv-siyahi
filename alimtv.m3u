@@ -447,8 +447,6 @@ https://rpn.bozztv.com/gusa/gusa-tvstravel/index.m3u8
 https://aegis-cloudfront-1.tubi.video/a78ea283-8666-44a1-a0f6-fde5d229ac21/playlist.m3u8
 #EXTINF:-1 group-title="Eli Meherremov TV",Persiana Fight
 https://fighthls.persiana.live/hls/stream.m3u8
-#EXTINF:-1 group-title="Eli Meherremov TV",TNT
-http://94.230.129.31:8080/THT/index.m3u8
 #EXTINF:-1 group-title="Eli Meherremov TV",WWE Superstar Central
 https://dpv6ceilvhyrw.cloudfront.net/playlist.m3u8
 
