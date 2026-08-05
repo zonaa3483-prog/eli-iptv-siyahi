@@ -74,10 +74,13 @@ https://cdn-konultvazerbaijan.yayin.com.tr/konultvazerbaijan/konultvazerbaijan/p
 #EXTINF:-1 group-title="Eli Meherremov TV",Sahar Azerbaijan Canlı TV HD
 https://nl2-cdn.sepehrtv.org/securelive3/saharazarsd/saharazarsd.m3u8
 #EXTINF:-1 group-title="Eli Meherremov TV",Tropikal 7/24 TV HD
-https://www.youtube.com/embed/live_stream?channel=UCpk3W9ZdKX83AakFh6j4uQw
+https://www.youtube.com/live/g9Rc_zZiEnI
 #EXTINF:-1 group-title="Eli Meherremov TV",İstanbul 7/24 TV HD
-https://www.youtube.com/embed/live_stream?channel=UCKH3euoCLvcV3FK6WWpTwpQ
-
+https://www.youtube.com/live/bbVe5h7X3uw
+#EXTINF:-1 group-title="Eli Meherremov TV",Koyun Şaun 7/24 TV HD
+https://www.youtube.com/live/yH28BYhTIYo
+#EXTINF:-1 group-title="Eli Meherremov TV",Dünya Turu 7/24 TV HD
+https://www.youtube.com/live/OMz7Pdp8t48
 
 
 
@@ -128,7 +131,7 @@ https://turkmedya-live.ercdn.net/tv360/tv360_720p.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="BEYAZ TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/beyaz-tv-tr.png" group-title="Eli Meherremov TV", BEYAZ TV 
 https://beyaztv-live.daioncdn.net/beyaztv/beyaztv.m3u8
 #EXTINF:-1 group-title="Eli Meherremov TV", Cartoon Network
-https://www.youtube.com/embed/live_stream?channel=UCehmwSZGPod7JFbHJspmxzQ
+https://www.youtube.com/live/JyMeD9wfMZQ
 #EXTINF:-1 group-title="Eli Meherremov TV", Minika Go
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago/minikago.m3u8
 #EXTINF:-1 group-title="Eli Meherremov TV", Minika Çocuk
