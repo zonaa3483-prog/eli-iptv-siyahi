@@ -73,8 +73,10 @@ https://live.itbtvlive.com/itbtvlive/tracks-v2a1/mono.m3u8
 https://cdn-konultvazerbaijan.yayin.com.tr/konultvazerbaijan/konultvazerbaijan/playlist.m3u8
 #EXTINF:-1 group-title="Eli Meherremov TV",Sahar Azerbaijan Canlı TV HD
 https://nl2-cdn.sepehrtv.org/securelive3/saharazarsd/saharazarsd.m3u8
-
-
+#EXTINF:-1 group-title="Eli Meherremov TV",Tropikal 7/24 TV HD
+https://www.youtube.com/embed/live_stream?channel=UCpk3W9ZdKX83AakFh6j4uQw
+#EXTINF:-1 group-title="Eli Meherremov TV",İstanbul 7/24 TV HD
+https://www.youtube.com/embed/live_stream?channel=UCKH3euoCLvcV3FK6WWpTwpQ
 
 
 
@@ -91,8 +93,6 @@ https://ak.imamhussein.live/alzahratvlive/alzahra.smil/alzahrapublish/alzahra_72
 https://www.youtube.com/embed/live_stream?channel=UCsFINj3y7SjBaeUxiSdRjlA
 #EXTINF:-1 tvg-id="SHOW TV.tr" tvg-logo="https://dsmart-static-v2.ercdn.net//resize-width/400/content/E/aM/11889/Thumbnail.png" group-title="Eli Meherremov TV", SHOW TV HD 
 https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/showtv/showtv.m3u8
-#EXTINF:-1 group-title="Eli Meherremov TV", Show TÜRK TV
-https://www.youtube.com/embed/live_stream?channel=UC9JMe_We017gYrRc7kZHgmg
 #EXTINF:-1 group-title="Eli Meherremov TV", Show Max
 http://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/showmax/showmax.m3u8
 #EXTINF:-1 tvg-id="KanalD.tr" tvg-logo="https://mediacms01.digiturkplay.com/channel_logo/kanald_250x150.png" group-title="Eli Meherremov TV", KANAL D 
@@ -128,7 +128,7 @@ https://turkmedya-live.ercdn.net/tv360/tv360_720p.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="BEYAZ TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/beyaz-tv-tr.png" group-title="Eli Meherremov TV", BEYAZ TV 
 https://beyaztv-live.daioncdn.net/beyaztv/beyaztv.m3u8
 #EXTINF:-1 group-title="Eli Meherremov TV", Cartoon Network
-https://www.youtube.com/embed/live_stream?channel=UCsFINj3y7SjBaeUxiSdRjlA
+https://www.youtube.com/embed/live_stream?channel=UCehmwSZGPod7JFbHJspmxzQ
 #EXTINF:-1 group-title="Eli Meherremov TV", Minika Go
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago/minikago.m3u8
 #EXTINF:-1 group-title="Eli Meherremov TV", Minika Çocuk
@@ -236,8 +236,6 @@ https://www.youtube.com/embed/live_stream?channel=UCUALYmnkEmx8vlxIbpr2gmw
 https://www.youtube.com/embed/live_stream?channel=UCeLBNGSG9w5qEbzQqZjqjuw
 #EXTINF:-1 group-title="Eli Meherremov TV",A.B.İ 7/24 Canlı
 https://www.youtube.com/embed/live_stream?channel=UCSifzNCnyapTKmQPYs-SZvA
-#EXTINF:-1 group-title="Eli Meherremov TV",Dünya Turu 7/24 Canlı
-https://www.youtube.com/embed/live_stream?channel=UCLnkM0PsGsDtdzyJfDAaf9w
 #EXTINF:-1 group-title="Eli Meherremov TV",Film Kuşağı 7/24 Canlı
 https://www.youtube.com/embed/live_stream?channel=UCcpY8WNM1xHPb8t2rjjZmwg
 #EXTINF:-1 group-title="Eli Meherremov TV",Aşkı Memnu 7/24 Canlı
@@ -271,9 +269,7 @@ https://www.youtube.com/embed/live_stream?channel=UCeIOtvpp4yNAgPiTBGNXNBw
 #EXTINF:-1 group-title="Eli Meherremov TV",Maya and Mary 7/24 Canlı
 https://www.youtube.com/embed/live_stream?channel=UC8__1T7RvD2hV3YGgvZfUSQ
 #EXTINF:-1 group-title="Eli Meherremov TV",Cartoonito Cizgi Dizi 7/24 Canlı
-https://www.youtube.com/embed/live_stream?channel=UCai9a-7GjCkWiaV7cCkIMJg
-#EXTINF:-1 group-title="Eli Meherremov TV",Eşref Rüya 7/24 Canlı
-https://www.youtube.com/embed/live_stream?channel=UCFQ6ddDglWtXpPK3Qmn3k1w
+https://www.youtube.com/watch?v=FsRq_t322-g
 #EXTINF:-1 group-title="Eli Meherremov TV",Fashion TV Secrets 18+
 https://ssai.aniview.com/api/v1/hls/stream.m3u8?AVS_SSAIID=67c0c39764ad6f7dab07aa0b&AV_APPNAME=[ADS.APP_NAME]&AV_APPPKGNAME=[ADS.APP_BUNDLE]&AV_APPSTOREURL=[ADS.APP_STORE_URL]&AV_CCPA=[ADS.US_PRIVACY]&AV_CLIENT_SECTION=ftv_secrets&AV_CONSENT=[ADS.GDPR_CONSENT]&AV_CONTENT_CAT=IAB7&AV_CONTENT_CHANNEL=&AV_CONTENT_CONTEXT=&AV_CONTENT_EPISODE=&AV_CONTENT_GENRE=fashion+and+lifestyle&AV_CONTENT_ID=[ADS.VIDAA_ADS_CONTENTID]&AV_CONTENT_KEYWORDS=&AV_CONTENT_LANGUAGE=en&AV_CONTENT_LENGTH=&AV_CONTENT_NETWORK=&AV_CONTENT_PROVIDER=FTV&AV_CONTENT_RATING=R&AV_CONTENT_SEASON=&AV_CONTENT_SERIES=&AV_CONTENT_TITLE=&AV_CONTENT_URL=&AV_DNT=[ADS.DNT]&AV_GDPR=[ADS.GDPR]&AV_HEIGHT=[ADS.H]&AV_IDFA=[ADS.IFA]&AV_IFA_TYPE=[ADS.IFA_TYPE]&AV_LANGUAGE=[ADS.DEVICE_LANGUAGE]&AV_OSVERS=[ADS.DEVICE_OSV]&AV_RTB_DEVICE_TYPE=[ADS.DEVICE_TYPE]&AV_VAUTH=[ADS.VAUTH]&AV_WIDTH=[ADS.W]&Content_Id=[ADS.ADS_CONTENTID]&ads.vidaa_ads_param=1191723366&cb=[CACHEBUSTER]&content_channel_name=ftv+-fashiontv+Secrets&content_livestream=1
 #EXTINF:-1 group-title="Eli Meherremov TV",Tom And Jerry
@@ -289,8 +285,6 @@ https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8
 #EXTM3U
 #EXTINF:-1 tvg-id="ZarokTV.tr@SD" group-title="Eli Meherremov TV",Zarok TV Kürdi
 https://zindikurmanci.zaroktv.com.tr/hls/stream.m3u8
-#EXTINF:-1 group-title="Eli Meherremov TV",Koyun Şoun 7/24 Canlı
-https://www.youtube.com/embed/live_stream?channel=UCNnEOqN2qcxeSQzBimv7h7Q
 #EXTINF:-1 group-title="Eli Meherremov TV",Maşa ve Ayı 7/24 Canlı
 https://www.youtube.com/embed/live_stream?channel=UCRv76wLBC73jiP7LX4C3l8Q
 #EXTINF:-1 group-title="Eli Meherremov TV",Mr.Bean Live TV
