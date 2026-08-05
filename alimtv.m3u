@@ -25,8 +25,6 @@ https://str.yodacdn.net/real/tracks-v1a1/mono.ts.m3u8?
 https://stream.dunyatv.az/live/dunyatv.m3u8
 #EXTINF:-1 group-title="Eli Meherremov TV", Baku TV Canlı
 https://rtmp.baku.tv/hls/bakutv.m3u8
-#EXTINF:-1 tvg-id="ARB24.az@SD" group-title="Eli Meherremov TV", Arb 24 Canlı TV
-https://www.youtube.com/embed/live_stream?channel=UCuxYL_KKVki_iVoNpAzagSA
 #EXTINF:-1 tvg-name="AzstarTV.az" group-title="Eli Meherremov TV", Azstar Canlı TV
 https://live.livestreamtv.ca/azstar/amlst:azstar/playlist.m3u8
 #EXTINF:-1 tvg-name="ELTV.az" group-title="Eli Meherremov TV", EL TV Canlı
@@ -1305,7 +1303,7 @@ https://ia601809.us.archive.org/32/items/kurtlar-vadisi-pusu-174.-bolum-yuksek-g
 #EXTINF:-1 group-title="Kurtlar Vadisi İzlenme Sırası",Kurtlar Vadisi Pusu - 175. Bölüm
 https://ia600100.us.archive.org/12/items/kurtlar-vadisi-pusu-175.-bolum-yuksek-goruntu-kalitesi-720-p-hd/Kurtlar%20Vadisi%20Pusu%20_%20175.%20B%C3%B6l%C3%BCm%20_%20Y%C3%BCksek%20G%C3%B6r%C3%BCnt%C3%BC%20Kalitesi%28720P_HD%29.mp4
 #EXTINF:-1 group-title="Kurtlar Vadisi İzlenme Sırası",Kurtlar Vadisi Pusu - 176. Bölüm
-
+https://ia601604.us.archive.org/25/items/kurtlar-vadisi-pusu-176.-bolum-yuksek-goruntu-kalitesi-720-p-hd/Kurtlar%20Vadisi%20Pusu%20_%20176.%20B%C3%B6l%C3%BCm%20_%20Y%C3%BCksek%20G%C3%B6r%C3%BCnt%C3%BC%20Kalitesi%28720P_HD%29.ia.mp4
 
 
 
