@@ -5,13 +5,13 @@
 https://str.yodacdn.net/azertv/video.m3u8
 #EXTINF:-1 tvg-id="IctimaiTV.az@SD" group-title="Eli Meherremov TV", İctimai TV Canlı
 https://live.itv.az/itv.m3u8
-#EXTINF:-1 tvg-name="Arb.az" group-title="Eli Meherremov TV", ARB TV Canlı
+#EXTINF:-1 tvg-name="Arb.az" group-title="Eli Meherremov TV", Arb TV Canlı
 https://str.yodacdn.net/arb/video.m3u8
 #EXTINF:-1 group-title="Eli Meherremov TV", Xəzər TV Canlı 
 https://xezer.tvstream.az/hls/stream/main_stream.m3u8
 #EXTINF:-1 group-title="Eli Meherremov TV", Azad Azərbaycan TV  
 https://lives.atv.az:5443/ATV_TV_STREAM/streams/atvcanli.m3u8
-#EXTINF:-1 tvg-name="CBCSPORT.az" group-title="Eli Meherremov TV", CBC Sport Azərbaycan TV Canlı
+#EXTINF:-1 tvg-name="CBCSPORT.az" group-title="Eli Meherremov TV", CBC Sport AZ TV Canlı
 https://cbcsports-live.lg.mncdn.com/cbcsports_live/cbcsports/playlist.m3u8
 #EXTINF:-1 tvg-name="SPACETV.az" group-title="Eli Meherremov TV", Space TV Canlı
 https://str.yodacdn.net/space/video.m3u8
@@ -25,8 +25,8 @@ https://str.yodacdn.net/real/tracks-v1a1/mono.ts.m3u8?
 https://stream.dunyatv.az/live/dunyatv.m3u8
 #EXTINF:-1 group-title="Eli Meherremov TV", Baku TV Canlı
 https://rtmp.baku.tv/hls/bakutv.m3u8
-#EXTINF:-1 tvg-id="ARB24.az@SD" group-title="Eli Meherremov TV", ARB 24 Canlı TV
-https://www.youtube.com/live/NzpVmcpw484
+#EXTINF:-1 tvg-id="ARB24.az@SD" group-title="Eli Meherremov TV", Arb 24 Canlı TV
+https://www.youtube.com/embed/live_stream?channel=UCuxYL_KKVki_iVoNpAzagSA
 #EXTINF:-1 tvg-name="AzstarTV.az" group-title="Eli Meherremov TV", Azstar Canlı TV
 https://live.livestreamtv.ca/azstar/amlst:azstar/playlist.m3u8
 #EXTINF:-1 tvg-name="ELTV.az" group-title="Eli Meherremov TV", EL TV Canlı
@@ -53,7 +53,7 @@ https://str.yodacdn.net/qafkaz/video.m3u8
 https://nl.livekadeh.com/hls2/vilayet.m3u8
 #EXTINF:-1 group-title="Eli Meherremov TV",F Canlı TV HD
 https://stream.ftv.az/live/ftv.m3u8
-#EXTINF:-1 group-title="Eli Meherremov TV",Ayaz Canlı TV HD
+#EXTINF:-1 group-title="Eli Meherremov TV",Ayaz TV Canlı HD
 https://janya-ayaztv.vgcdn.net/ptnr-WebApp/title-Ayaz_TV/v1/vglive-sk-934820/AyazTV_1500k.m3u8
 #EXTINF:-1 group-title="Eli Meherremov TV",Günaz Canlı TV HD
 https://tv.gunaz.tv/hls/live.m3u8
@@ -73,9 +73,6 @@ https://live.itbtvlive.com/itbtvlive/tracks-v2a1/mono.m3u8
 https://cdn-konultvazerbaijan.yayin.com.tr/konultvazerbaijan/konultvazerbaijan/playlist.m3u8
 #EXTINF:-1 group-title="Eli Meherremov TV",Sahar Azerbaijan Canlı TV HD
 https://nl2-cdn.sepehrtv.org/securelive3/saharazarsd/saharazarsd.m3u8
-#EXTINF:-1 group-title="Eli Meherremov TV",kvvvv
-https://www.youtube.com/embed/live_stream?channel=UCz1UfNp9VFp9R1HEFn5PY5A
-
 
 
 
@@ -91,11 +88,11 @@ http://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_360p.m3u8
 #EXTINF:-1 group-title="Eli Meherremov TV",İmam Hüseyn Tv Canlı Türk
 https://ak.imamhussein.live/alzahratvlive/alzahra.smil/alzahrapublish/alzahra_720p/chunks.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="STAR TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/star-tv-tr.png" group-title="Eli Meherremov TV", STAR TV 
-https://www.youtube.com/live/82O6yOy_XwE
+https://www.youtube.com/embed/live_stream?channel=UCsFINj3y7SjBaeUxiSdRjlA
 #EXTINF:-1 tvg-id="SHOW TV.tr" tvg-logo="https://dsmart-static-v2.ercdn.net//resize-width/400/content/E/aM/11889/Thumbnail.png" group-title="Eli Meherremov TV", SHOW TV HD 
 https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/showtv/showtv.m3u8
 #EXTINF:-1 group-title="Eli Meherremov TV", Show TÜRK TV
-https://www.youtube.com/live/cbgKyiqOljQ
+https://www.youtube.com/embed/live_stream?channel=UCsFINj3y7SjBaeUxiSdRjlA
 #EXTINF:-1 group-title="Eli Meherremov TV", Show Max
 http://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/showmax/showmax.m3u8
 #EXTINF:-1 tvg-id="KanalD.tr" tvg-logo="https://mediacms01.digiturkplay.com/channel_logo/kanald_250x150.png" group-title="Eli Meherremov TV", KANAL D 
@@ -131,7 +128,7 @@ https://turkmedya-live.ercdn.net/tv360/tv360_720p.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="BEYAZ TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/beyaz-tv-tr.png" group-title="Eli Meherremov TV", BEYAZ TV 
 https://beyaztv-live.daioncdn.net/beyaztv/beyaztv.m3u8
 #EXTINF:-1 group-title="Eli Meherremov TV", Cartoon Network
-https://www.youtube.com/live/LwKF_GkaNF4?si=00z1CbDiqQRGuAvs
+https://www.youtube.com/embed/live_stream?channel=UCsFINj3y7SjBaeUxiSdRjlA
 #EXTINF:-1 group-title="Eli Meherremov TV", Minika Go
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago/minikago.m3u8
 #EXTINF:-1 group-title="Eli Meherremov TV", Minika Çocuk
@@ -218,7 +215,7 @@ https://live.artidijitalmedya.com/artidijital_urfanatiktv/urfanatiktv/playlist.m
 #EXTINF:-1 group-title="Eli Meherremov TV",TYT Türk TV HD
 https://tytturk-live.ercdn.net/tytturk/tytturk_1080p.m3u8
 #EXTINF:-1 group-title="Eli Meherremov TV",TGRT BELGESEL Canlı
-https://www.youtube.com/live/32y7IEtD5OU
+https://www.youtube.com/embed/live_stream?channel=UCkQV7uH1Otv47CZz6tD3jGQ
 #EXTINF:-1 group-title="Eli Meherremov TV",Sercem TV HD
 https://canli.sercemtv.com.tr/hls/0/stream.m3u8
 #EXTINF:-1 group-title="Eli Meherremov TV",Diyanet TV HD
@@ -228,49 +225,55 @@ https://edge2.taksimbilisim.com/ftvturk/bant1/chunks.m3u8
 #EXTINF:-1 group-title="Eli Meherremov TV",Semerkand TV HD
 https://b01c02nl.mediatriple.net/videoonlylive/mtisvwurbfcyslive/broadcast_58d915bd40efc.smil/mt_0.m3u8
 #EXTINF:-1 group-title="Eli Meherremov TV",Ezel Dizi 7/24 Canlı
-https://www.youtube.com/live/9n-Du17MvQg?si=6yxY2fhjCMvPX_Bl
+https://www.youtube.com/embed/live_stream?channel=UC82UK_P4DuDZ42Q0SHcey1w
 #EXTINF:-1 tvg-name="Yayım 1" group-title="Eli Meherremov TV", Kurtlar Vadisi Pusu Dizi 7/24 Canlı
-https://www.youtube.com/live/4QICVoMeA4s?si=aSawNiMGkwK97hZz
+https://www.youtube.com/embed/live_stream?channel=UCz1UfNp9VFp9R1HEFn5PY5A
 #EXTINF:-1 group-title="Eli Meherremov TV",Mr.Bean Classic 7/24
-https://www.youtube.com/live/XQLEvieRMj4?si=DsagJegsVvgtCluJ
+https://www.youtube.com/embed/live_stream?channel=UCEwIUtFBhaI2L2PuKv0KL2g
 #EXTINF:-1 group-title="Eli Meherremov TV",Yeşilçam 7/24 Canlı
-https://www.youtube.com/live/RqegY0WKtZA
+https://www.youtube.com/embed/live_stream?channel=UCUALYmnkEmx8vlxIbpr2gmw
 #EXTINF:-1 group-title="Eli Meherremov TV",Edho 7/24 Canlı
-https://www.youtube.com/live/F0yeYa-SSDc
+https://www.youtube.com/embed/live_stream?channel=UCeLBNGSG9w5qEbzQqZjqjuw
 #EXTINF:-1 group-title="Eli Meherremov TV",A.B.İ 7/24 Canlı
-https://www.youtube.com/live/jhEx9jk3wuc
+https://www.youtube.com/embed/live_stream?channel=UCSifzNCnyapTKmQPYs-SZvA
 #EXTINF:-1 group-title="Eli Meherremov TV",Dünya Turu 7/24 Canlı
-https://www.youtube.com/live/OMz7Pdp8t48
+https://www.youtube.com/embed/live_stream?channel=UCLnkM0PsGsDtdzyJfDAaf9w
 #EXTINF:-1 group-title="Eli Meherremov TV",Film Kuşağı 7/24 Canlı
-https://www.youtube.com/live/wJbP12jam70
+https://www.youtube.com/embed/live_stream?channel=UCcpY8WNM1xHPb8t2rjjZmwg
 #EXTINF:-1 group-title="Eli Meherremov TV",Aşkı Memnu 7/24 Canlı
-https://www.youtube.com/live/JpP13Wp1ke0
+https://www.youtube.com/embed/live_stream?channel=UCIdiuKAg5xVZsvXDQbOG4cg
 #EXTINF:-1 group-title="Eli Meherremov TV", Dini Türk 7/24 Canlı
-https://www.youtube.com/live/YzZ7UG9p6Ak
+https://www.youtube.com/embed/live_stream?channel=UCRbQ4uJL8g4qRuuVrfuc-uA
 #EXTINF:-1 group-title="Eli Meherremov TV",Mehmet Fetihler Sultanı 7/24 Canlı
-https://www.youtube.com/live/6_AnQrbFvY8
+https://www.youtube.com/embed/live_stream?channel=UC9KLY6Eftv__Ml3EQVbVasA
 #EXTINF:-1 group-title="Eli Meherremov TV",Diriliş Ertuğrul 7/24 Canlı
-https://www.youtube.com/live/GOCHAfe2ZQ8
+https://www.youtube.com/embed/live_stream?channel=UCrr2fV8yd6r8k-FZKGxDr9Q
 #EXTINF:-1 group-title="Eli Meherremov TV",Adanalı 7/24 Canlı
-https://www.youtube.com/live/sF1AgroEr60
+https://www.youtube.com/embed/live_stream?channel=UCRP2h7AKS4nnUho0pyBCHgw
 #EXTINF:-1 group-title="Eli Meherremov TV",Cennet Mahallesi 7/24 Canlı
-https://www.youtube.com/live/sIRnY47T9IU
+https://www.youtube.com/embed/live_stream?channel=UCOqe-z52nnpVSAe8Ds0fxaA
 #EXTINF:-1 group-title="Eli Meherremov TV",Aşk Laftan Anlamaz 7/24 Canlı
-https://www.youtube.com/live/2EQQb2fIGUU
+https://www.youtube.com/embed/live_stream?channel=UCsbO_JHHA68ZpTlauAGEzrA
 #EXTINF:-1 group-title="Eli Meherremov TV",Kemal Sunal Filmleri 7/24 Canlı
-https://www.youtube.com/live/tWWFY5lf1U0
+https://www.youtube.com/embed/live_stream?channel=UCHumSHRFQ8skiHTY75sxytQ
 #EXTINF:-1 group-title="Eli Meherremov TV",Selena 7/24 Canlı
-https://www.youtube.com/live/1lyLi6l74fs
+https://www.youtube.com/embed/live_stream?channel=UCC_iReQZgbPtOBfn3bjNnPw
 #EXTINF:-1 group-title="Eli Meherremov TV",Seçme Filmler 7/24 Canlı
-https://www.youtube.com/live/hblgoy-_yWw
+https://www.youtube.com/embed/live_stream?channel=UC0LzwfdVoZSQDtauDjJS8_A
 #EXTINF:-1 group-title="Eli Meherremov TV",Şaban Tv 7/24 Canlı
-https://www.youtube.com/live/mq4GiHzxZwk
+https://www.youtube.com/embed/live_stream?channel=UCulg-mlXf314L1pemPqCVng
 #EXTINF:-1 group-title="Eli Meherremov TV",Alemin Kralı 7/24 Canlı
-https://www.youtube.com/live/avDRwKKjeSI
+https://www.youtube.com/embed/live_stream?channel=UC7X6WuvzdVTFtAAAly9ldcw
 #EXTINF:-1 group-title="Eli Meherremov TV",Yalı Çapkını 7/24 Canlı
-https://www.youtube.com/live/GiWeH1H1bDU?si=XHajl2JLTJM-Qb5F
+https://www.youtube.com/embed/live_stream?channel=UCyahIZNtNmqK1LeNF0KlFZw
 #EXTINF:-1 group-title="Eli Meherremov TV",Aileler Yarışıyor 7/24 Canlı
-https://www.youtube.com/live/y_ZUCowdGNo?si=2Ma_taCt3HUuNmZ7
+https://www.youtube.com/embed/live_stream?channel=UCeIOtvpp4yNAgPiTBGNXNBw
+#EXTINF:-1 group-title="Eli Meherremov TV",Maya and Mary 7/24 Canlı
+https://www.youtube.com/embed/live_stream?channel=UC8__1T7RvD2hV3YGgvZfUSQ
+#EXTINF:-1 group-title="Eli Meherremov TV",Cartoonito Cizgi Dizi 7/24 Canlı
+https://www.youtube.com/embed/live_stream?channel=UCai9a-7GjCkWiaV7cCkIMJg
+#EXTINF:-1 group-title="Eli Meherremov TV",Eşref Rüya 7/24 Canlı
+https://www.youtube.com/embed/live_stream?channel=UCFQ6ddDglWtXpPK3Qmn3k1w
 #EXTINF:-1 group-title="Eli Meherremov TV",Fashion TV Secrets 18+
 https://ssai.aniview.com/api/v1/hls/stream.m3u8?AVS_SSAIID=67c0c39764ad6f7dab07aa0b&AV_APPNAME=[ADS.APP_NAME]&AV_APPPKGNAME=[ADS.APP_BUNDLE]&AV_APPSTOREURL=[ADS.APP_STORE_URL]&AV_CCPA=[ADS.US_PRIVACY]&AV_CLIENT_SECTION=ftv_secrets&AV_CONSENT=[ADS.GDPR_CONSENT]&AV_CONTENT_CAT=IAB7&AV_CONTENT_CHANNEL=&AV_CONTENT_CONTEXT=&AV_CONTENT_EPISODE=&AV_CONTENT_GENRE=fashion+and+lifestyle&AV_CONTENT_ID=[ADS.VIDAA_ADS_CONTENTID]&AV_CONTENT_KEYWORDS=&AV_CONTENT_LANGUAGE=en&AV_CONTENT_LENGTH=&AV_CONTENT_NETWORK=&AV_CONTENT_PROVIDER=FTV&AV_CONTENT_RATING=R&AV_CONTENT_SEASON=&AV_CONTENT_SERIES=&AV_CONTENT_TITLE=&AV_CONTENT_URL=&AV_DNT=[ADS.DNT]&AV_GDPR=[ADS.GDPR]&AV_HEIGHT=[ADS.H]&AV_IDFA=[ADS.IFA]&AV_IFA_TYPE=[ADS.IFA_TYPE]&AV_LANGUAGE=[ADS.DEVICE_LANGUAGE]&AV_OSVERS=[ADS.DEVICE_OSV]&AV_RTB_DEVICE_TYPE=[ADS.DEVICE_TYPE]&AV_VAUTH=[ADS.VAUTH]&AV_WIDTH=[ADS.W]&Content_Id=[ADS.ADS_CONTENTID]&ads.vidaa_ads_param=1191723366&cb=[CACHEBUSTER]&content_channel_name=ftv+-fashiontv+Secrets&content_livestream=1
 #EXTINF:-1 group-title="Eli Meherremov TV",Tom And Jerry
@@ -287,7 +290,9 @@ https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8
 #EXTINF:-1 tvg-id="ZarokTV.tr@SD" group-title="Eli Meherremov TV",Zarok TV Kürdi
 https://zindikurmanci.zaroktv.com.tr/hls/stream.m3u8
 #EXTINF:-1 group-title="Eli Meherremov TV",Koyun Şoun 7/24 Canlı
-https://www.youtube.com/live/MlkEJ0jWUAg
+https://www.youtube.com/embed/live_stream?channel=UCNnEOqN2qcxeSQzBimv7h7Q
+#EXTINF:-1 group-title="Eli Meherremov TV",Maşa ve Ayı 7/24 Canlı
+https://www.youtube.com/embed/live_stream?channel=UCRv76wLBC73jiP7LX4C3l8Q
 #EXTINF:-1 group-title="Eli Meherremov TV",Mr.Bean Live TV
 https://amg00627-amg00627c40-rakuten-uk-5725.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanpopupcc-rakutenuk/playlist.m3u8
 #EXTINF:-1 tvg-id="AutoPlus.ru@SD" group-title="Eli Meherremov TV",Auto Plus RUS
@@ -515,7 +520,6 @@ https://ia600907.us.archive.org/29/items/li-mhrrmov-qoy-rahat-olum-720-p-hd-1/%C
 
 
 
-
                                                                 HZ. YUSİF
 #EXTM3U
 #EXTINF:-1 group-title="Həzrəti Yusif", Həzrəti Yusif - 1-ci hissə
@@ -608,7 +612,6 @@ https://ia800604.us.archive.org/8/items/yusif-peygmbr-43-ci-hiss-azrbaycan-dilin
 https://ia902907.us.archive.org/30/items/yusif-peygmbr-44-ci-hiss-azrbaycan-dilind-720-p-hd/Yusif%20Pey%C4%9F%C9%99mb%C9%99r%20_%2044-ci%20hiss%C9%99%20_%20Az%C9%99rbaycan%20dilind%C9%99%28720P_HD%29.mp4
 #EXTINF:-1 group-title="Həzrəti Yusif",Həzrəti Yusif - 45-ci Son hissə
 https://ia601608.us.archive.org/29/items/yusif-peygmbr-45-ci-hiss-azrbaycan-dilind-son-bolum-720-p-hd/Yusif%20Pey%C4%9F%C9%99mb%C9%99r%20_%2045-ci%20hiss%C9%99%20_%20Az%C9%99rbaycan%20dilind%C9%99%20_%20Son%20b%C3%B6l%C3%BCm%28720P_HD%29.mp4
-
                                                          Həzrəti Əli
 #EXTM3U
 #EXTINF:-1 group-title="Həzrəti Əli",İmam Əli serialı - 1. Bölüm
@@ -657,7 +660,6 @@ https://ia600701.us.archive.org/16/items/imam-li-seriali-21.-bolum-720-p-hd/%C4%
 https://ia903201.us.archive.org/23/items/imam-li-seriali-22.-bolum-720-p-hd/%C4%B0mam%20%C6%8Fli%20serial%C4%B1%20-%2022.%20B%C3%B6l%C3%BCm%28720P_HD%29.mp4
 #EXTINF:-1 group-title="Həzrəti Əli",İmam Əli serialı - 23. Bölüm Final
 https://ia600401.us.archive.org/1/items/imam-li-seriali-23.-bolum-final-720-p-hd/%C4%B0mam%20%C6%8Fli%20serial%C4%B1%20-%2023.%20B%C3%B6l%C3%BCm%20%28Final%29%28720P_HD%29.mp4
-
                                                                                  Muxtarnamə
 #EXTM3U
 #EXTINF:-1 group-title="Muxtarnamə",Muxtarnamə - 1-ci hissə
@@ -750,7 +752,6 @@ https://ia803101.us.archive.org/4/items/muxtarnam-43-ci-hiss-azrbaycan-dilind-72
 https://ia600102.us.archive.org/10/items/muxtarnam-44-ci-hiss-azrbaycan-dilind-720-p-hd/Muxtarnam%C9%99%20_%2044-ci%20hiss%C9%99%20_%20Az%C9%99rbaycan%20dilind%C9%99%28720P_HD%29.ia.mp4
 #EXTINF:-1 group-title="Muxtarnamə", Muxtarnamə - 45-ci Son hissə
 https://ia601502.us.archive.org/32/items/muxtarnam-45-ci-hiss-azrbaycan-dilind-son-bolumu-720-p-hd/Muxtarnam%C9%99%20_%2045-ci%20hiss%C9%99%20_%20Az%C9%99rbaycan%20dilind%C9%99%20%28son%20b%C3%B6l%C3%BCm%C3%BC%29%28720P_HD%29.mp4
-
                                                                   KURTLAR VADİSİ TÜM BÖLÜMLER VE İZLENME SIRASI
 #EXTM3U
 #EXTINF:-1 group-title="Kurtlar Vadisi İzlenme Sırası", Kurtlar Vadisi - 1. Bölüm
@@ -1307,9 +1308,7 @@ https://ia601500.us.archive.org/9/items/kurtlar-vadisi-pusu-173.-bolum-yuksek-go
 https://ia601809.us.archive.org/32/items/kurtlar-vadisi-pusu-174.-bolum-yuksek-goruntu-kalitesi-720-p-hd/Kurtlar%20Vadisi%20Pusu%20_%20174.%20B%C3%B6l%C3%BCm%20_%20Y%C3%BCksek%20G%C3%B6r%C3%BCnt%C3%BC%20Kalitesi%28720P_HD%29.mp4
 #EXTINF:-1 group-title="Kurtlar Vadisi İzlenme Sırası",Kurtlar Vadisi Pusu - 175. Bölüm
 https://ia600100.us.archive.org/12/items/kurtlar-vadisi-pusu-175.-bolum-yuksek-goruntu-kalitesi-720-p-hd/Kurtlar%20Vadisi%20Pusu%20_%20175.%20B%C3%B6l%C3%BCm%20_%20Y%C3%BCksek%20G%C3%B6r%C3%BCnt%C3%BC%20Kalitesi%28720P_HD%29.mp4
-
-
-
+#EXTINF:-1 group-title="Kurtlar Vadisi İzlenme Sırası",Kurtlar Vadisi Pusu - 176. Bölüm
 
 
 
@@ -1492,7 +1491,6 @@ https://ia601506.us.archive.org/2/items/kertenkele-83.-bolum-720-p-hd/Kertenkele
 https://ia800707.us.archive.org/9/items/kertenkele-84.-bolum-720-p-hd/Kertenkele%2084.%20B%C3%B6l%C3%BCm%28720P_HD%29.ia.mp4
 #EXTINF:-1 group-title="Kertenkele",Kertenkele - 85.Bölüm Final
 https://ia800805.us.archive.org/12/items/kertenkele-85.-bolum-final-720-p-hd/Kertenkele%2085.%20B%C3%B6l%C3%BCm%20%28Final%29%28720P_HD%29.ia.mp4
-
                                                                         Kendi Düşen Ağlamaz 
 #EXTM3U
 #EXTINF:-1 group-title="Kendi Düşen Ağlamaz",Kendi Düşen Ağlamaz - 1. Bölüm
@@ -1549,7 +1547,6 @@ https://ia600101.us.archive.org/20/items/kendi-dusen-aglamaz-25.-bolum-trt-1-720
 https://ia801608.us.archive.org/25/items/kendi-dusen-aglamaz-26.-bolum-trt-1-720-p-hd/Kendi%20D%C3%BC%C5%9Fen%20A%C4%9Flamaz%2026.%20B%C3%B6l%C3%BCm%20_trt1%28720P_HD%29.ia.mp4
 #EXTINF:-1 tvg-name="Kendi Düşen Ağlamaz Bölüm 27 Final" group-title="Kendi Düşen Ağlamaz",Kendi Düşen Ağlamaz - 27. Bölüm Final
 https://ia800101.us.archive.org/31/items/kendi-dusen-aglamaz-27.-bolum-fi-nal-trt-1-720-p-hd/Kendi%20D%C3%BC%C5%9Fen%20A%C4%9Flamaz%2027.%20B%C3%B6l%C3%BCm%20_%20F%C4%B0NAL%20_trt1%28720P_HD%29.ia.mp4
-
                                                                                        Ezel
 #EXTINF:-1 tvg-name="Ezel" group-title="Ezel",Ezel - 1. Bölüm
 https://ia600708.us.archive.org/20/items/ezel-1.-bolum-720-p-hd/Ezel%201.%20B%C3%B6l%C3%BCm%28720P_HD%29.ia.mp4
@@ -1693,7 +1690,6 @@ https://ia600709.us.archive.org/16/items/ezel-ezel-69.-bolum-imkansiz-ask-yoktur
 https://ia600500.us.archive.org/28/items/ezel-ezel-70.-bolum-mutlu-sonlara-kim-inanir-hd-720-p-hd/Ezel%20-%20Ezel%2070.B%C3%B6l%C3%BCm%20_%20Mutlu%20Sonlara%20Kim%20%C4%B0nan%C4%B1r_%20-%20HD%28720P_HD%29.mp4
 #EXTINF:-1 group-title="Ezel",Ezel - 71. Bölüm Final
 https://ia902903.us.archive.org/1/items/ezel-ezel-71.-bolum-final-...-ama-herkes-olmez-hd-720-p-hd/Ezel%20-%20Ezel%2071.B%C3%B6l%C3%BCm%20%28Final%29%20_%20...Ama%20Herkes%20%C3%96lmez%20-%20HD%28720P_HD%29.mp4
-
                                                                                               ADANALI
 #EXTINF:-1 group-title="Adanalı",Adanalı - 1. Bölüm
 https://ia601409.us.archive.org/8/items/adanali-1.-bolum-720-p-hd/Adanal%C4%B1%201.%20B%C3%B6l%C3%BCm%28720P_HD%29.mp4
@@ -1853,7 +1849,6 @@ https://ia801801.us.archive.org/28/items/adanali-77.-bolum-720-p-hd/Adanal%C4%B1
 https://ia601505.us.archive.org/24/items/adanali-78.-bolum-720-p-hd/Adanal%C4%B1%2078.%20B%C3%B6l%C3%BCm%28720P_HD%29.mp4
 #EXTINF:-1 group-title="Adanalı",Adanalı - 79. Bölüm Final
 https://ia600408.us.archive.org/8/items/adanali-79.-bolum-final-720-p-hd/Adanal%C4%B1%2079.%20B%C3%B6l%C3%BCm%20_%20Final%28720P_HD%29.ia.mp4
-
                                                                          EŞREF RÜYA
 #EXTINF:-1 group-title="Eşref Rüya",Eşref Rüya - 1. Bölüm
 https://ia600909.us.archive.org/22/items/esref-ruya-1.-bolum-720-p-hd/E%C5%9Fref%20R%C3%BCya%201.%20B%C3%B6l%C3%BCm%28720P_HD%29.mp4
@@ -1949,7 +1944,6 @@ https://ia600105.us.archive.org/26/items/esref-ruya-45.-bolum-720-p-hd/E%C5%9Fre
 https://ia600105.us.archive.org/16/items/esref-ruya-46.-bolum-720-p-hd/E%C5%9Fref%20R%C3%BCya%2046.%20B%C3%B6l%C3%BCm%28720P_HD%29.mp4
 #EXTINF:-1 tvg-name="Eşref Rüya 47. Bölüm" group-title="Eşref Rüya",Eşref Rüya - 47. Bölüm Final
 https://ia903207.us.archive.org/20/items/esref-ruya-47.-bolum-fi-nal-720-p-hd/E%C5%9Fref%20R%C3%BCya%2047.%20B%C3%B6l%C3%BCm%20%28F%C4%B0NAL%29%28720P_HD%29.mp4
-
                                                                          Eşkiya Dünyaya Hükümdar Olmaz 
 #EXTINF:-1 group-title="Edho",Eşkiya Dünyaya Hükümdar Olmaz - 1. Bölüm
 https://ia600404.us.archive.org/9/items/eskiya-dunyaya-hukumdar-olmaz-1.-bolum-4-k-ultra-hd-720-p-hd/E%C5%9Fk%C4%B1ya%20D%C3%BCnyaya%20H%C3%BCk%C3%BCmdar%20Olmaz%201.%20B%C3%B6l%C3%BCm%20_%204K%20Ultra%20HD%28720P_HD%29.mp4
@@ -2354,13 +2348,15 @@ https://ia600404.us.archive.org/29/items/eskiya-dunyaya-hukumdar-olmaz-199.-bolu
 #EXTINF:-1 group-title="Edho",EDHO - 200. Bölüm Final Yayımlanmadı
 https://ia800404.us.archive.org/28/items/eskiya-dunyaya-hukumdar-olmaz-200.-bolum-fragmani-yeni-sezon-atvturkiye-720-p-hd/E%C5%9Fk%C4%B1ya%20D%C3%BCnyaya%20H%C3%BCk%C3%BCmdar%20Olmaz%20200.%20B%C3%B6l%C3%BCm%20Fragman%C4%B1%20_%20Yeni%20Sezon%20_atvturkiye%28720P_HD%29.ia.mp4
 
-Filmlər Qarışıq AZ-TR
+
+                                                                                              Filmlər Qarışıq AZ-TR
 #EXTINF:-1 group-title="Filmlər Qarışıq AZ-TR",Həzrəti Yusif - Tək Parça Film
 https://ia800603.us.archive.org/7/items/in-shot-20260624-014446173/InShot_20260624_014446173.ia.mp4
 #EXTINF:-1 group-title="Filmlər Qarışıq AZ-TR",Həzrəti Süleyman - Tək Parça Film
 https://ia903107.us.archive.org/25/items/in-shot-20260621-145112022/InShot_20260621_145112022.mp4
 #EXTINF:-1 group-title="Filmlər Qarışıq AZ-TR",Çağrı Filmi - Türkcə Tək Parça
 https://ia601904.us.archive.org/19/items/c-ag-ri-the-message-turkce-dublajli-islami-siyer-filmi-4-k-reklamsiz-full-film-720-p-hd/%C3%87A%C4%9ERI%20_%20The%20Message%20_%20T%C3%BCrk%C3%A7e%20Dublajl%C4%B1%20%C4%B0slami%20_%20Siyer%20Filmi%204K%20-%20REKLAMSIZ%20-%20Full%20Film%28720P_HD%29.mp4
+
 
                                                                                              YERALTI 
 #EXTINF:-1 group-title="Yeraltı",Yeraltı - 1. Bölüm
@@ -2395,7 +2391,6 @@ https://ia800409.us.archive.org/33/items/yeralti-14.-bolum-720-p-hd/Yeralt%C4%B1
 https://ia601407.us.archive.org/14/items/yeralti-15.-bolum-720-p-hd_202606/Yeralt%C4%B1%2015.%20B%C3%B6l%C3%BCm%28720P_HD%29.mp4
 #EXTINF:-1 group-title="Yeraltı",Yeraltı - 16. Bölüm
 https://ia902907.us.archive.org/1/items/yeralti-16.-bolum-sezon-fi-nali-720-p-hd/Yeralt%C4%B1%2016.%20B%C3%B6l%C3%BCm%20%28SEZON%20F%C4%B0NAL%C4%B0%29%28720P_HD%29.mp4
-
 
 
 
