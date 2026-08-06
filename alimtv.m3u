@@ -69,6 +69,10 @@ https://arazhls.wns.live/hls/stream.m3u8
 https://live.itbtvlive.com/itbtvlive/tracks-v2a1/mono.m3u8
 #EXTINF:-1 group-title="Eli Meherremov TV",Könül TV HD
 https://cdn-konultvazerbaijan.yayin.com.tr/konultvazerbaijan/konultvazerbaijan/playlist.m3u8
+#EXTINF:-1 group-title="Eli Meherremov TV",Caspian Pulse 7/24 Canlı
+https://www.youtube.com/embed/live_stream?channel=UCqU3RIrM8dTA2DJDjgVIRHA
+#EXTINF:-1 group-title="Eli Meherremov TV",Tövbə Zamanı 7/24 Canlı
+https://www.youtube.com/embed/live_stream?channel=UCZ2c8YA2JPl28usdEbVts3g
 #EXTINF:-1 group-title="Eli Meherremov TV",Sahar Azerbaijan Canlı TV HD
 https://nl2-cdn.sepehrtv.org/securelive3/saharazarsd/saharazarsd.m3u8
 
@@ -276,14 +280,18 @@ https://www.youtube.com/embed/live_stream?channel=UCiT-eroqDoA3zct3OkzhEPA
 https://www.youtube.com/embed/live_stream?channel=UCEjjDxRBjrbZ65gABYBfROQ
 #EXTINF:-1 group-title="Eli Meherremov TV",Sahabe Hayatları 7/24 Canlı
 https://www.youtube.com/embed/live_stream?channel=UCFDjOVSeDxTx9Jap7rzDSkQ
-#EXTINF:-1 group-title="Eli Meherremov TV",WWE 7/24 Canlı
-https://www.youtube.com/embed/live_stream?channel=UCJ5v_MCY6GNUBTO8-D3XoAg
 #EXTINF:-1 group-title="Eli Meherremov TV",Şevkat Yerimdar 7/24
 https://www.youtube.com/embed/live_stream?channel=UCDCYLMGxQ_6jYQE7ZZ9lNQw
 #EXTINF:-1 group-title="Eli Meherremov TV",Kuruluş Osman 7/24 Canlı
 https://www.youtube.com/embed/live_stream?channel=UCGR1XmkoQedeJMT2ajRHvsw
-#EXTINF:-1 group-title="Eli Meherremov TV",Caspian Pulse 7/24 Canlı
-https://www.youtube.com/embed/live_stream?channel=UCqU3RIrM8dTA2DJDjgVIRHA
+#EXTINF:-1 group-title="Eli Meherremov TV",Sihirli Annem 7/24 Canlı
+https://www.youtube.com/embed/live_stream?channel=UC8rnNIpGh8n6ZpWVqOBaKUQ
+#EXTINF:-1 group-title="Eli Meherremov TV",Asla Vazgeçməm 7/24 Canlı
+https://www.youtube.com/embed/live_stream?channel=UCm23GfyQwuiyJNqepKnhlXw
+#EXTINF:-1 group-title="Eli Meherremov TV",Dudaktan Kalbe 7/24 Canlı
+https://www.youtube.com/embed/live_stream?channel=UCUNWa7KzyrQWGUZoSMRU9jw
+#EXTINF:-1 group-title="Eli Meherremov TV",Kırgın Çiçekler 7/24 Canlı
+https://www.youtube.com/embed/live_stream?channel=UChLT3cdF4lqEzAzaixUaiOw
 #EXTINF:-1 group-title="Eli Meherremov TV",Tropikal 7/24 TV HD
 https://www.youtube.com/live/g9Rc_zZiEnI
 #EXTINF:-1 group-title="Eli Meherremov TV",İstanbul 7/24 TV HD
@@ -296,9 +304,6 @@ https://www.youtube.com/watch?v=FsRq_t322-g
 https://ssai.aniview.com/api/v1/hls/stream.m3u8?AVS_SSAIID=67c0c39764ad6f7dab07aa0b&AV_APPNAME=[ADS.APP_NAME]&AV_APPPKGNAME=[ADS.APP_BUNDLE]&AV_APPSTOREURL=[ADS.APP_STORE_URL]&AV_CCPA=[ADS.US_PRIVACY]&AV_CLIENT_SECTION=ftv_secrets&AV_CONSENT=[ADS.GDPR_CONSENT]&AV_CONTENT_CAT=IAB7&AV_CONTENT_CHANNEL=&AV_CONTENT_CONTEXT=&AV_CONTENT_EPISODE=&AV_CONTENT_GENRE=fashion+and+lifestyle&AV_CONTENT_ID=[ADS.VIDAA_ADS_CONTENTID]&AV_CONTENT_KEYWORDS=&AV_CONTENT_LANGUAGE=en&AV_CONTENT_LENGTH=&AV_CONTENT_NETWORK=&AV_CONTENT_PROVIDER=FTV&AV_CONTENT_RATING=R&AV_CONTENT_SEASON=&AV_CONTENT_SERIES=&AV_CONTENT_TITLE=&AV_CONTENT_URL=&AV_DNT=[ADS.DNT]&AV_GDPR=[ADS.GDPR]&AV_HEIGHT=[ADS.H]&AV_IDFA=[ADS.IFA]&AV_IFA_TYPE=[ADS.IFA_TYPE]&AV_LANGUAGE=[ADS.DEVICE_LANGUAGE]&AV_OSVERS=[ADS.DEVICE_OSV]&AV_RTB_DEVICE_TYPE=[ADS.DEVICE_TYPE]&AV_VAUTH=[ADS.VAUTH]&AV_WIDTH=[ADS.W]&Content_Id=[ADS.ADS_CONTENTID]&ads.vidaa_ads_param=1191723366&cb=[CACHEBUSTER]&content_channel_name=ftv+-fashiontv+Secrets&content_livestream=1
 #EXTINF:-1 group-title="Eli Meherremov TV",Tom And Jerry
 https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8
-
-
-
 
 
 
