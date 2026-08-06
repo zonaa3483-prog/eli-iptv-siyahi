@@ -71,13 +71,10 @@ https://live.itbtvlive.com/itbtvlive/tracks-v2a1/mono.m3u8
 https://cdn-konultvazerbaijan.yayin.com.tr/konultvazerbaijan/konultvazerbaijan/playlist.m3u8
 #EXTINF:-1 group-title="Eli Meherremov TV",Caspian Pulse 7/24 Canlı
 https://www.youtube.com/embed/live_stream?channel=UCqU3RIrM8dTA2DJDjgVIRHA
-#EXTINF:-1 group-title="Eli Meherremov TV",Tövbə Zamanı 7/24 Canlı
-https://www.youtube.com/embed/live_stream?channel=UCZ2c8YA2JPl28usdEbVts3g
 #EXTINF:-1 group-title="Eli Meherremov TV",Sahar Azerbaijan Canlı TV HD
 https://nl2-cdn.sepehrtv.org/securelive3/saharazarsd/saharazarsd.m3u8
-#EXTM3U
-#EXTINF:-1 tvg-name="ARB Gunes" group-title="Kanallar", ARB Günəş tv
-https://proxy.hdtvcanli.com/https://yayin2.canlitv.fun/live/arbgunes.stream/playlist.m3u8
+
+
 
 
 
@@ -288,12 +285,16 @@ https://www.youtube.com/embed/live_stream?channel=UCDCYLMGxQ_6jYQE7ZZ9lNQw
 https://www.youtube.com/embed/live_stream?channel=UCGR1XmkoQedeJMT2ajRHvsw
 #EXTINF:-1 group-title="Eli Meherremov TV",Sihirli Annem 7/24 Canlı
 https://www.youtube.com/embed/live_stream?channel=UC8rnNIpGh8n6ZpWVqOBaKUQ
-#EXTINF:-1 group-title="Eli Meherremov TV",Asla Vazgeçməm 7/24 Canlı
+#EXTINF:-1 group-title="Eli Meherremov TV",Asla Vazgeçmem 7/24 Canlı
 https://www.youtube.com/embed/live_stream?channel=UCm23GfyQwuiyJNqepKnhlXw
 #EXTINF:-1 group-title="Eli Meherremov TV",Dudaktan Kalbe 7/24 Canlı
 https://www.youtube.com/embed/live_stream?channel=UCUNWa7KzyrQWGUZoSMRU9jw
 #EXTINF:-1 group-title="Eli Meherremov TV",Kırgın Çiçekler 7/24 Canlı
 https://www.youtube.com/embed/live_stream?channel=UChLT3cdF4lqEzAzaixUaiOw
+#EXTINF:-1 group-title="Eli Meherremov TV", TAFF pictures 7/24 Canlı
+https://www.youtube.com/embed/live_stream?channel=UCEz0vUNtEPYyxhM-xKhQ4EQ
+#EXTINF:-1 group-title="Eli Meherremov TV",Çocuklar Duymasın 7/24 Canlı
+https://www.youtube.com/embed/live_stream?channel=UCT-esPYdSgROctgOKnJ0AjA
 #EXTINF:-1 group-title="Eli Meherremov TV",Tropikal 7/24 TV HD
 https://www.youtube.com/live/g9Rc_zZiEnI
 #EXTINF:-1 group-title="Eli Meherremov TV",İstanbul 7/24 TV HD
@@ -478,10 +479,6 @@ https://aegis-cloudfront-1.tubi.video/a78ea283-8666-44a1-a0f6-fde5d229ac21/playl
 https://fighthls.persiana.live/hls/stream.m3u8
 #EXTINF:-1 group-title="Eli Meherremov TV",WWE Superstar Central
 https://dpv6ceilvhyrw.cloudfront.net/playlist.m3u8
-
-
-
-
 
 
 
