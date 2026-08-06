@@ -75,7 +75,9 @@ https://www.youtube.com/embed/live_stream?channel=UCqU3RIrM8dTA2DJDjgVIRHA
 https://www.youtube.com/embed/live_stream?channel=UCZ2c8YA2JPl28usdEbVts3g
 #EXTINF:-1 group-title="Eli Meherremov TV",Sahar Azerbaijan Canlı TV HD
 https://nl2-cdn.sepehrtv.org/securelive3/saharazarsd/saharazarsd.m3u8
-
+#EXTM3U
+#EXTINF:-1 tvg-name="ARB Gunes" group-title="Kanallar", ARB Günəş tv
+https://proxy.hdtvcanli.com/https://yayin2.canlitv.fun/live/arbgunes.stream/playlist.m3u8
 
 
 
