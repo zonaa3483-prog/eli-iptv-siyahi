@@ -11,7 +11,7 @@ https://str.yodacdn.net/arb/video.m3u8
 https://xezer.tvstream.az/hls/stream/main_stream.m3u8
 #EXTINF:-1 group-title="Eli Meherremov TV", Azad Azərbaycan TV  
 https://lives.atv.az:5443/ATV_TV_STREAM/streams/atvcanli.m3u8
-#EXTINF:-1 tvg-name="CBCSPORT.az" group-title="Eli Meherremov TV", CBC Sport AZ TV Canlı
+#EXTINF:-1 tvg-name="CBCSPORT.az" group-title="Eli Meherremov TV", CBC Sport TV Canlı
 https://cbcsports-live.lg.mncdn.com/cbcsports_live/cbcsports/playlist.m3u8
 #EXTINF:-1 tvg-name="SPACETV.az" group-title="Eli Meherremov TV", Space TV Canlı
 https://str.yodacdn.net/space/video.m3u8
@@ -71,6 +71,8 @@ https://live.itbtvlive.com/itbtvlive/tracks-v2a1/mono.m3u8
 https://cdn-konultvazerbaijan.yayin.com.tr/konultvazerbaijan/konultvazerbaijan/playlist.m3u8
 #EXTINF:-1 group-title="Eli Meherremov TV",Caspian Pulse 7/24 Canlı
 https://www.youtube.com/embed/live_stream?channel=UCqU3RIrM8dTA2DJDjgVIRHA
+#EXTINF:-1 group-title="Eli Meherremov TV",İmam Hüseyn Tv Canlı
+https://ak.imamhussein.live/alzahratvlive/alzahra.smil/alzahrapublish/alzahra_720p/chunks.m3u8
 #EXTINF:-1 group-title="Eli Meherremov TV",Sahar Azerbaijan Canlı TV HD
 https://nl2-cdn.sepehrtv.org/securelive3/saharazarsd/saharazarsd.m3u8
 
@@ -84,8 +86,6 @@ https://nl2-cdn.sepehrtv.org/securelive3/saharazarsd/saharazarsd.m3u8
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/a2tv/a2tv.m3u8
 #EXTINF:-1 tvg-id="ATV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2e/Atv_logo.png" group-title="Eli Meherremov TV", ATV 
 http://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_360p.m3u8
-#EXTINF:-1 group-title="Eli Meherremov TV",İmam Hüseyn Tv Canlı Türk
-https://ak.imamhussein.live/alzahratvlive/alzahra.smil/alzahrapublish/alzahra_720p/chunks.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="STAR TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/star-tv-tr.png" group-title="Eli Meherremov TV", STAR TV 
 https://www.youtube.com/embed/live_stream?channel=UCsFINj3y7SjBaeUxiSdRjlA
 #EXTINF:-1 tvg-id="SHOW TV.tr" tvg-logo="https://dsmart-static-v2.ercdn.net//resize-width/400/content/E/aM/11889/Thumbnail.png" group-title="Eli Meherremov TV", SHOW TV HD 
@@ -108,7 +108,7 @@ https://rkhubpaomb.turknet.ercdn.net/fwjkgpasof/tv8bucuk/tv8bucuk_1080p.m3u8
 https://ackaxsqacw.turknet.ercdn.net/ozfkfbbjba/teve2/teve2_1080p.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="TRT1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/trt-1-tr.png" group-title="Eli Meherremov TV", TRT1 
 https://tv-trt1.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-name="Tabii" tvg-logo="https://cms-tabii-assets.tabii.com/thumbnails/23963_781e9dee-cbd8-491a-b166-0b1df25b3bd0_720.jpeg" group-title="Eli Meherremov TV", Tabii 
+#EXTINF:-1 tvg-name="Tabii" tvg-logo="https://cms-tabii-assets.tabii.com/thumbnails/23963_781e9dee-cbd8-491a-b166-0b1df25b3bd0_720.jpeg" group-title="Eli Meherremov TV", Tabii TV
 https://ceokzokgtd.erbvr.com/tabiitv/tabiitv.m3u8
 #EXTINF:-1 tvg-name="TV 4" tvg-id="TV4.tr" tvg-logo="https://i.postimg.cc/FKkHW8KK/tv4.png" group-title="Eli Meherremov TV", TV 4 
 https://turkmedya-live.ercdn.net/tv4/tv4_720p.m3u8
@@ -130,23 +130,23 @@ https://www.youtube.com/live/JyMeD9wfMZQ
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago/minikago.m3u8
 #EXTINF:-1 group-title="Eli Meherremov TV", Minika Çocuk
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago_cocuk/minikago_cocuk.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="TRT COCUK" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/trt-cocuk-tr.png" group-title="Eli Meherremov TV", TRT COCUK
+#EXTINF:-1 tvg-id="ext" tvg-name="TRT COCUK" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/trt-cocuk-tr.png" group-title="Eli Meherremov TV", TRT ÇOCUK
 https://tv-trtcocuk.medya.trt.com.tr/master_1440.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="TRT COCUK DIYANET" group-title="Eli Meherremov TV", TRT COCUK DIYANET 
+#EXTINF:-1 tvg-id="ext" tvg-name="TRT COCUK DIYANET" group-title="Eli Meherremov TV", TRT ÇOCUK DİYANET 
 https://tv-trtdiyanetcocuk.medya.trt.com.tr/master_720.m3u8
-#EXTINF:-1 group-title="Eli Meherremov TV", KANAL PLUS 
+#EXTINF:-1 group-title="Eli Meherremov TV", KANAL PLUS TV
 https://live.artidijitalmedya.com/artidijital_kanalplus/kanalplus/mpeg/playlist.m3u8
 #EXTINF:-1 group-title="Eli Meherremov TV", TV 41  
 https://live.artidijitalmedya.com/artidijital_tv41/tv41/playlist.m3u8
-#EXTINF:-1 tvg-name="Number 1 Dance" tvg-id="Number1Dance.tr" tvg-logo="https://i.ibb.co/kXFSFTN/nr1-dance.png" group-title="Eli Meherremov TV", NR1 DANCE 
+#EXTINF:-1 tvg-name="Number 1 Dance" tvg-id="Number1Dance.tr" tvg-logo="https://i.ibb.co/kXFSFTN/nr1-dance.png" group-title="Eli Meherremov TV", NR1 DANCE TV
 https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e2aa8acf44_1/playlist.m3u8
-#EXTINF:-1 tvg-name="NR1 FASHION ONE" group-title="Eli Meherremov TV", NR1 FASHION ONE 
+#EXTINF:-1 tvg-name="NR1 FASHION ONE" group-title="Eli Meherremov TV", NR1 FASHION ONE TV
 http://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e2ee6997cb_1/playlist.m3u8
 #EXTINF:-1 tvg-name="Kanal15" group-title="Eli Meherremov TV",Kanal 15 TV
 https://live.artidijitalmedya.com/artidijital_kanal15/kanal15/playlist.m3u8
 #EXTINF:-1 tvg-id="CiftciTV.tr@SD" group-title="Eli Meherremov TV",Çiftçi TV
 https://live.artidijitalmedya.com/artidijital_ciftcitv/ciftcitv/playlist.m3u8
-#EXTINF:-1 tvg-id="DiyarTV.tr@SD" group-title="Eli Meherremov TV",Diyar TV
+#EXTINF:-1 tvg-id="DiyarTV.tr@SD" group-title="Eli Meherremov TV",İkra TV
 https://live.artidijitalmedya.com/artidijital_diyartv/diyartv/playlist.m3u8
 #EXTINF:-1 tvg-id="HalkTV.tr@SD" group-title="Eli Meherremov TV",Halk TV
 https://halktv-live.daioncdn.net/halktv/halktv.m3u8
@@ -160,18 +160,18 @@ https://tbn02a.ltnschedule.com/hls/nx21i.m3u8
 https://live.artidijitalmedya.com/artidijital_kanalv/kanalv/playlist.m3u8
 #EXTINF:-1 tvg-id="MeltemTV.tr@SD" group-title="Eli Meherremov TV",Meltem TV
 https://vhxyrsly.rocketcdn.com/meltemtv/playlist.m3u8
-#EXTINF:-1 tvg-id="Number1Damar.tr@SD" group-title="Eli Meherremov TV",Number 1 Damar
+#EXTINF:-1 tvg-id="Number1Damar.tr@SD" group-title="Eli Meherremov TV",Number 1 Damar TV
 https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e198784bdc_1/playlist.m3u8
 #EXTINF:-1 tvg-id="Number1TV.tr@SD" group-title="Eli Meherremov TV",Number 1 TV
 https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e17cd59e8b.smil/playlist.m3u8
 #EXTINF:-1 group-title="Eli Meherremov TV",FashionTV Paris Original
 https://edge-fast3.evrideo.tv/bfdbb576-83f7-11f0-9f89-0200170e3e04_1000028043_HLS/manifest.m3u8
-#EXTINF:-1 tvg-id="PowerTurkTV.tr@SD" group-title="Eli Meherremov TV",Power Turk
+#EXTINF:-1 tvg-id="PowerTurkTV.tr@SD" group-title="Eli Meherremov TV",Power Türk TV
 https://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
-#EXTINF:-1 tvg-id="PowerTurkSlow.tr@SD" group-title="Eli Meherremov TV",Power Türk Slow
+#EXTINF:-1 tvg-id="PowerTurkSlow.tr@SD" group-title="Eli Meherremov TV",Power Türk Slow TV
 https://livetv.powerapp.com.tr/pturkslow/slow.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="PowerTurkTaptaze.tr@SD" group-title="Eli Meherremov TV",Power Türk Taptaze
+#EXTINF:-1 tvg-id="PowerTurkTaptaze.tr@SD" group-title="Eli Meherremov TV",Power Türk Taptaze TV
 https://livetv.powerapp.com.tr/pturktaptaze/taptaze.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="BricveSatrancTV.tr@SD" group-title="Eli Meherremov TV",Satranç TV
 http://139.162.182.79/live/test/index.m3u8
@@ -179,19 +179,19 @@ http://139.162.182.79/live/test/index.m3u8
 https://meclistv-live.ercdn.net/meclistv/meclistv.m3u8
 #EXTINF:-1 tvg-id="TempoTV.tr@SD" group-title="Eli Meherremov TV",Tempo TV
 https://live.artidijitalmedya.com/artidijital_tempotv/tempotv/playlist.m3u8
-#EXTINF:-1 tvg-id="Tivi6.tr@SD" group-title="Eli Meherremov TV",Tivi 6
+#EXTINF:-1 tvg-id="Tivi6.tr@SD" group-title="Eli Meherremov TV",Tivi 6 TV
 https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/playlist.m3u8
 #EXTINF:-1 tvg-id="TJKTV.tr@SD" group-title="Eli Meherremov TV",TJK TV
 https://tjktv-live.tjk.org/tjktv.m3u8
-#EXTINF:-1 tvg-id="TRTEBA.tr@SD" group-title="Eli Meherremov TV",TRT EBA Ortaokul
+#EXTINF:-1 tvg-id="TRTEBA.tr@SD" group-title="Eli Meherremov TV",TRT EBA TV
 https://tv-e-okul01.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="TRTHaber.tr@SD" group-title="Eli Meherremov TV",TRT Haber
 https://tv-trthaber.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="LuysTV.tr@SD" group-title="Eli Meherremov TV",Luys TV
 https://b01c02nl.mediatriple.net/videoonlylive/mtpayqrfkgirxelive/broadcast_5e91c5ac96898.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="GZT.tr@SD" group-title="Eli Meherremov TV",GZT
+#EXTINF:-1 tvg-id="GZT.tr@SD" group-title="Eli Meherremov TV",GZT TV
 https://gzttv-live.lg.mncdn.com/gzttv/gzttv/playlist.m3u8
-#EXTINF:-1 tvg-id="TVNET.tr@SD" group-title="Eli Meherremov TV",TVNET
+#EXTINF:-1 tvg-id="TVNET.tr@SD" group-title="Eli Meherremov TV",TVNET TV
 https://tvnet-live.lg.mncdn.com/tvnet/tvnet/playlist.m3u8
 #EXTINF:-1 group-title="Eli Meherremov TV",Anadolu Net TV
 https://live.artidijitalmedya.com/artidijital_anadolunet/anadolunet/playlist.m3u8
@@ -211,9 +211,9 @@ https://live.artidijitalmedya.com/artidijital_tontv/tontv/playlist.m3u8
 https://live.artidijitalmedya.com/artidijital_urfanatiktv/urfanatiktv/playlist.m3u8
 #EXTINF:-1 group-title="Eli Meherremov TV",TYT Türk TV HD
 https://tytturk-live.ercdn.net/tytturk/tytturk_1080p.m3u8
-#EXTINF:-1 group-title="Eli Meherremov TV",TGRT BELGESEL Canlı
+#EXTINF:-1 group-title="Eli Meherremov TV",TGRT BELGESEL 
 https://www.youtube.com/embed/live_stream?channel=UCkQV7uH1Otv47CZz6tD3jGQ
-#EXTINF:-1 group-title="Eli Meherremov TV",Sercem TV HD
+#EXTINF:-1 group-title="Eli Meherremov TV",Serçem TV HD
 https://canli.sercemtv.com.tr/hls/0/stream.m3u8
 #EXTINF:-1 group-title="Eli Meherremov TV",Diyanet TV HD
 https://b01c02nl.mediatriple.net/videoonlylive/mtikoimxnztxlive/broadcast_5e3bf95a47e07.smil/chunklist_b200000.m3u8
@@ -235,7 +235,7 @@ https://www.youtube.com/embed/live_stream?channel=UCeLBNGSG9w5qEbzQqZjqjuw
 https://www.youtube.com/embed/live_stream?channel=UCSifzNCnyapTKmQPYs-SZvA
 #EXTINF:-1 group-title="Eli Meherremov TV",Film Kuşağı 7/24 Canlı
 https://www.youtube.com/embed/live_stream?channel=UCcpY8WNM1xHPb8t2rjjZmwg
-#EXTINF:-1 group-title="Eli Meherremov TV",Aşkı Memnu 7/24 Canlı
+#EXTINF:-1 group-title="Eli Meherremov TV",Aşk-ı Memnu 7/24 Canlı
 https://www.youtube.com/embed/live_stream?channel=UCIdiuKAg5xVZsvXDQbOG4cg
 #EXTINF:-1 group-title="Eli Meherremov TV", Dini Türk 7/24 Canlı
 https://www.youtube.com/embed/live_stream?channel=UCRbQ4uJL8g4qRuuVrfuc-uA
@@ -255,7 +255,7 @@ https://www.youtube.com/embed/live_stream?channel=UCHumSHRFQ8skiHTY75sxytQ
 https://www.youtube.com/embed/live_stream?channel=UCC_iReQZgbPtOBfn3bjNnPw
 #EXTINF:-1 group-title="Eli Meherremov TV",Seçme Filmler 7/24 Canlı
 https://www.youtube.com/embed/live_stream?channel=UC0LzwfdVoZSQDtauDjJS8_A
-#EXTINF:-1 group-title="Eli Meherremov TV",Şaban Tv 7/24 Canlı
+#EXTINF:-1 group-title="Eli Meherremov TV",Şaban TV 7/24 Canlı
 https://www.youtube.com/embed/live_stream?channel=UCulg-mlXf314L1pemPqCVng
 #EXTINF:-1 group-title="Eli Meherremov TV",Alemin Kralı 7/24 Canlı
 https://www.youtube.com/embed/live_stream?channel=UC7X6WuvzdVTFtAAAly9ldcw
@@ -291,10 +291,10 @@ https://www.youtube.com/embed/live_stream?channel=UCm23GfyQwuiyJNqepKnhlXw
 https://www.youtube.com/embed/live_stream?channel=UCUNWa7KzyrQWGUZoSMRU9jw
 #EXTINF:-1 group-title="Eli Meherremov TV",Kırgın Çiçekler 7/24 Canlı
 https://www.youtube.com/embed/live_stream?channel=UChLT3cdF4lqEzAzaixUaiOw
-#EXTINF:-1 group-title="Eli Meherremov TV", TAFF pictures 7/24 Canlı
-https://www.youtube.com/embed/live_stream?channel=UCEz0vUNtEPYyxhM-xKhQ4EQ
 #EXTINF:-1 group-title="Eli Meherremov TV",Çocuklar Duymasın 7/24 Canlı
 https://www.youtube.com/embed/live_stream?channel=UCT-esPYdSgROctgOKnJ0AjA
+#EXTINF:-1 group-title="Eli Meherremov TV",Çukur 7/24 Canlı
+https://www.youtube.com/embed/live_stream?channel=UCTAkwLbVzHxsbgsp6cRsPDg
 #EXTINF:-1 group-title="Eli Meherremov TV",Tropikal 7/24 TV HD
 https://www.youtube.com/live/g9Rc_zZiEnI
 #EXTINF:-1 group-title="Eli Meherremov TV",İstanbul 7/24 TV HD
@@ -305,7 +305,7 @@ https://www.youtube.com/live/OMz7Pdp8t48
 https://www.youtube.com/watch?v=FsRq_t322-g
 #EXTINF:-1 group-title="Eli Meherremov TV",Fashion TV Secrets 18+
 https://ssai.aniview.com/api/v1/hls/stream.m3u8?AVS_SSAIID=67c0c39764ad6f7dab07aa0b&AV_APPNAME=[ADS.APP_NAME]&AV_APPPKGNAME=[ADS.APP_BUNDLE]&AV_APPSTOREURL=[ADS.APP_STORE_URL]&AV_CCPA=[ADS.US_PRIVACY]&AV_CLIENT_SECTION=ftv_secrets&AV_CONSENT=[ADS.GDPR_CONSENT]&AV_CONTENT_CAT=IAB7&AV_CONTENT_CHANNEL=&AV_CONTENT_CONTEXT=&AV_CONTENT_EPISODE=&AV_CONTENT_GENRE=fashion+and+lifestyle&AV_CONTENT_ID=[ADS.VIDAA_ADS_CONTENTID]&AV_CONTENT_KEYWORDS=&AV_CONTENT_LANGUAGE=en&AV_CONTENT_LENGTH=&AV_CONTENT_NETWORK=&AV_CONTENT_PROVIDER=FTV&AV_CONTENT_RATING=R&AV_CONTENT_SEASON=&AV_CONTENT_SERIES=&AV_CONTENT_TITLE=&AV_CONTENT_URL=&AV_DNT=[ADS.DNT]&AV_GDPR=[ADS.GDPR]&AV_HEIGHT=[ADS.H]&AV_IDFA=[ADS.IFA]&AV_IFA_TYPE=[ADS.IFA_TYPE]&AV_LANGUAGE=[ADS.DEVICE_LANGUAGE]&AV_OSVERS=[ADS.DEVICE_OSV]&AV_RTB_DEVICE_TYPE=[ADS.DEVICE_TYPE]&AV_VAUTH=[ADS.VAUTH]&AV_WIDTH=[ADS.W]&Content_Id=[ADS.ADS_CONTENTID]&ads.vidaa_ads_param=1191723366&cb=[CACHEBUSTER]&content_channel_name=ftv+-fashiontv+Secrets&content_livestream=1
-#EXTINF:-1 group-title="Eli Meherremov TV",Tom And Jerry
+#EXTINF:-1 group-title="Eli Meherremov TV",Tom and Jerry 
 https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8
 
 
@@ -317,7 +317,7 @@ https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8
 https://zindikurmanci.zaroktv.com.tr/hls/stream.m3u8
 #EXTINF:-1 group-title="Eli Meherremov TV",Maşa ve Ayı 7/24 Canlı
 https://www.youtube.com/embed/live_stream?channel=UCRv76wLBC73jiP7LX4C3l8Q
-#EXTINF:-1 group-title="Eli Meherremov TV",Mr.Bean Live TV
+#EXTINF:-1 group-title="Eli Meherremov TV",Mr Bean Live TV
 https://amg00627-amg00627c40-rakuten-uk-5725.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanpopupcc-rakutenuk/playlist.m3u8
 #EXTINF:-1 tvg-id="AutoPlus.ru@SD" group-title="Eli Meherremov TV",Auto Plus RUS
 https://stream8.cinerama.uz/1036/tracks-v1a1/mono.m3u8
@@ -331,17 +331,17 @@ https://iptv.prosto.tv/ch120/index.m3u8
 https://stream8.cinerama.uz/1423/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="GulliGirl.ru@SD" group-title="Eli Meherremov TV",Gulli Girl RUS
 https://stream8.cinerama.uz/1445/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="IndiyskoyeKino.ru@SD" group-title="Eli Meherremov TV",Indiyskoye Kino RUS
+#EXTINF:-1 tvg-id="IndiyskoyeKino.ru@SD" group-title="Eli Meherremov TV",İndiyskoye Kino RUS
 https://stream8.cinerama.uz/1060/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="InsaytTV.ru@4K" group-title="Eli Meherremov TV",Insayt TV RUS
+#EXTINF:-1 tvg-id="InsaytTV.ru@4K" group-title="Eli Meherremov TV",İnsayt TV RUS
 https://stream8.cinerama.uz/1416/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="KinoHit.ru@SD" group-title="Eli Meherremov TV",KinoHit RUS
 https://stream8.cinerama.uz/1055/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="NTV.ru@SD" group-title="Eli Meherremov TV",NTV RUS
 https://stream8.cinerama.uz/1023/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="Ohotnikirybolov.ru@SD" group-title="Eli Meherremov TV",Ohotnik i Rybolov RUS
+#EXTINF:-1 tvg-id="Ohotnikirybolov.ru@SD" group-title="Eli Meherremov TV",Ohotnik Rybolov TV
 https://stream8.cinerama.uz/1413/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="Okhotairybalka.ru@SD" group-title="Eli Meherremov TV",Okhota i Rybalka RUS
+#EXTINF:-1 tvg-id="Okhotairybalka.ru@SD" group-title="Eli Meherremov TV",Okhota Rybalka TV
 https://stream8.cinerama.uz/1038/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Retro.ru@SD" group-title="Eli Meherremov TV",Retro RUS
 https://stream8.cinerama.uz/1047/tracks-v1a1/mono.m3u8
@@ -352,7 +352,7 @@ https://stream8.cinerama.uz/1202/tracks-v1a1/mono.m3u8
 https://stream8.cinerama.uz/1020/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Russia24.ru@SD" group-title="Eli Meherremov TV",Russia-24
 https://stream8.cinerama.uz/1021/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="SochiLive.ru@HD" group-title="Eli Meherremov TV",Sochi Live HD RUS
+#EXTINF:-1 tvg-id="SochiLive.ru@HD" group-title="Eli Meherremov TV",Sochi Live HD
 http://serv30.vintera.tv:8081/sochi/sochi_stream/playlist.m3u8
 #EXTINF:-1 tvg-id="T24.ru@SD" group-title="Eli Meherremov TV",T24 RUS
 https://stream8.cinerama.uz/1037/tracks-v1a1/mono.m3u8
@@ -404,9 +404,9 @@ https://stream8.cinerama.uz/1226/tracks-v1a1/mono.m3u8
 https://stream8.cinerama.uz/1227/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="vijuNature.ru@SD" group-title="Eli Meherremov TV",Viju Nature
 https://stream8.cinerama.uz/1228/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="DaVinci.ru@SD" group-title="Eli Meherremov TV",Da Vinci
+#EXTINF:-1 tvg-id="DaVinci.ru@SD" group-title="Eli Meherremov TV",Da Vinci TV
 https://stream8.cinerama.uz/1231/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="Carousel.ru@SD" group-title="Eli Meherremov TV",Carousel
+#EXTINF:-1 tvg-id="Carousel.ru@SD" group-title="Eli Meherremov TV",Carousel TV
 https://stream.smotrim.ru/hls2/karusel/playlist_3.m3u8
 #EXTINF:-1 tvg-id="Moskva24.ru@SD" group-title="Eli Meherremov TV",Moskva 24
 https://stream.smotrim.ru/hls2/moscow_24/playlist_3.m3u8
@@ -455,7 +455,7 @@ https://d1xqdnwy1bo05f.cloudfront.net/barb.m3u8
 https://fl.biztv.media/cinema_720_EMfSyXgoRdiIHgldXTZICucKTIeCKO/index.m3u8
 #EXTINF:-1 group-title="Eli Meherremov TV",BRTV
 https://5bf7b725107e5.streamlock.net/brtv/brtv/playlist.m3u8
-#EXTINF:-1 group-title="Eli Meherremov TV",Canal 34 San Juan
+#EXTINF:-1 group-title="Eli Meherremov TV",Kanal 34 San Juan
 https://streamyes.alsolnet.com/canal34hd/live/playlist.m3u8
 #EXTINF:-1 group-title="Eli Meherremov TV",Champaign Government Television
 https://champaign-cablecast.cablecast.tv/live/stream-2/live.m3u8
