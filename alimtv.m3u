@@ -59,7 +59,7 @@ https://tv.gunaz.tv/hls/live.m3u8
 https://cdn4.yayin.com.tr/kntv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Eli Meherremov TV",Show Plus TV HD
 https://rtmp.showplus.tv/hls/myshow.m3u8
-#EXTINF:-1 group-title="Eli Meherremov TV",Hadi AZ TV HD
+#EXTINF:-1 group-title="Eli Meherremov TV",Hadi TV 3
 https://newyork.zeuscdn724.com/H3/index.m3u8
 #EXTINF:-1 group-title="Eli Meherremov TV",S Canlı TV HD
 https://a8.radyotelekom.com.tr:3179/stream/play.m3u8
@@ -1330,7 +1330,8 @@ https://ia600100.us.archive.org/12/items/kurtlar-vadisi-pusu-175.-bolum-yuksek-g
 https://ia601604.us.archive.org/25/items/kurtlar-vadisi-pusu-176.-bolum-yuksek-goruntu-kalitesi-720-p-hd/Kurtlar%20Vadisi%20Pusu%20_%20176.%20B%C3%B6l%C3%BCm%20_%20Y%C3%BCksek%20G%C3%B6r%C3%BCnt%C3%BC%20Kalitesi%28720P_HD%29.ia.mp4
 #EXTINF:-1 group-title="Kurtlar Vadisi İzlenme Sırası",Kurtlar Vadisi Pusu - 177. Bölüm
 https://ia601505.us.archive.org/26/items/kurtlar-vadisi-pusu-177.-bolum-yuksek-goruntu-kalitesi-720-p-hd/Kurtlar%20Vadisi%20Pusu%20_%20177.%20B%C3%B6l%C3%BCm%20_%20Y%C3%BCksek%20G%C3%B6r%C3%BCnt%C3%BC%20Kalitesi%28720P_HD%29.mp4
-
+#EXTINF:-1 group-title="Kurtlar Vadisi İzlenme Sırası",Kurtlar Vadisi Pusu - 178. Bölüm
+https://ia600705.us.archive.org/1/items/kurtlar-vadisi-pusu-178.-bolum-yuksek-goruntu-kalitesi-720-p-hd/Kurtlar%20Vadisi%20Pusu%20_%20178.%20B%C3%B6l%C3%BCm%20_%20Y%C3%BCksek%20G%C3%B6r%C3%BCnt%C3%BC%20Kalitesi%28720P_HD%29.mp4
 
 
 
